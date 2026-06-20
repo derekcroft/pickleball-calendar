@@ -31,10 +31,10 @@ UID:pickleball-bashpickleball-20260620T0800-2a4c04168c@derekcroft.github.io
 DTSTAMP:20000101T000000Z
 DTSTART;TZID=America/Detroit:20260620T080000
 DTEND;TZID=America/Detroit:20260620T110000
-SUMMARY:🟢 — HALF OFF Saturday Morning Drop In-Play — 49 in · 21 lef
+SUMMARY:🟢 — HALF OFF Saturday Morning Drop In-Play — 46 in · 24 lef
  t
 DESCRIPTION:#nosync\nFacility: Bash\nSession: HALF OFF Saturday Morning Dro
- p In-Play\nEnrollment: 49 in · 21 left\nStatus: Good enrollment
+ p In-Play\nEnrollment: 46 in · 24 left\nStatus: Good enrollment
 LOCATION:Bash Pickleball Club\, Warren\, MI
 CATEGORIES:Bash
 X-HERMES-FACILITY:Bash
@@ -58,9 +58,9 @@ UID:pickleball-picklerage-20260620T0800-5da7083cab@derekcroft.github.io
 DTSTAMP:20000101T000000Z
 DTSTART;TZID=America/Detroit:20260620T080000
 DTEND;TZID=America/Detroit:20260620T110000
-SUMMARY:🔴 — Advanced - Intermediate Open Play — 32 in · waitlist
+SUMMARY:🟢 — Advanced - Intermediate Open Play — 29 in · 3 left
 DESCRIPTION:#nosync\nFacility: Pickle Rage\nSession: Advanced - Intermediat
- e Open Play\nEnrollment: 32 in · waitlist\nStatus: Waitlist
+ e Open Play\nEnrollment: 29 in · 3 left\nStatus: Good enrollment
 LOCATION:Pickle Rage\, West Bloomfield\, MI
 CATEGORIES:Pickle Rage
 X-HERMES-FACILITY:Pickle Rage
@@ -71,9 +71,9 @@ UID:pickleball-greystone-20260620T0900-d95fb3e00b@derekcroft.github.io
 DTSTAMP:20000101T000000Z
 DTSTART;TZID=America/Detroit:20260620T090000
 DTEND;TZID=America/Detroit:20260620T120000
-SUMMARY:🟡 — Open Play 3 hours — 9 in · 15 left
+SUMMARY:🟡 — Open Play 3 hours — 10 in · 14 left
 DESCRIPTION:#nosync\nFacility: Greystone\nSession: Open Play 3 hours\nEnrol
- lment: 9 in · 15 left\nStatus: Low enrollment
+ lment: 10 in · 14 left\nStatus: Low enrollment
 LOCATION:Greystone Pickleball Club\, Auburn Hills\, MI
 CATEGORIES:Greystone
 X-HERMES-FACILITY:Greystone
@@ -215,9 +215,9 @@ UID:pickleball-bashpickleball-20260621T0800-278438b12c@derekcroft.github.io
 DTSTAMP:20000101T000000Z
 DTSTART;TZID=America/Detroit:20260621T080000
 DTEND;TZID=America/Detroit:20260621T110000
-SUMMARY:🟡 — HALF OFF Sunday Morning Drop In-Play — 10 in · 30 left
+SUMMARY:🟡 — HALF OFF Sunday Morning Drop In-Play — 9 in · 31 left
 DESCRIPTION:#nosync\nFacility: Bash\nSession: HALF OFF Sunday Morning Drop 
- In-Play\nEnrollment: 10 in · 30 left\nStatus: Low enrollment
+ In-Play\nEnrollment: 9 in · 31 left\nStatus: Low enrollment
 LOCATION:Bash Pickleball Club\, Warren\, MI
 CATEGORIES:Bash
 X-HERMES-FACILITY:Bash
@@ -267,9 +267,9 @@ UID:pickleball-picklerage-20260621T1100-ef9b3c2688@derekcroft.github.io
 DTSTAMP:20000101T000000Z
 DTSTART;TZID=America/Detroit:20260621T110000
 DTEND;TZID=America/Detroit:20260621T140000
-SUMMARY:🟡 — Midday Open Play – Session 1 — 2 in · 6 left
+SUMMARY:🟡 — Midday Open Play – Session 1 — 3 in · 5 left
 DESCRIPTION:#nosync\nFacility: Pickle Rage\nSession: Midday Open Play – S
- ession 1\nEnrollment: 2 in · 6 left\nStatus: Low enrollment
+ ession 1\nEnrollment: 3 in · 5 left\nStatus: Low enrollment
 LOCATION:Pickle Rage\, West Bloomfield\, MI
 CATEGORIES:Pickle Rage
 X-HERMES-FACILITY:Pickle Rage
@@ -399,9 +399,9 @@ UID:pickleball-bashpickleball-20260622T0800-b8e9b198c3@derekcroft.github.io
 DTSTAMP:20000101T000000Z
 DTSTART;TZID=America/Detroit:20260622T080000
 DTEND;TZID=America/Detroit:20260622T110000
-SUMMARY:🟢 — HALF OFF Monday Morning Drop In-Play — 14 in · 46 left
+SUMMARY:🟢 — HALF OFF Monday Morning Drop In-Play — 13 in · 47 left
 DESCRIPTION:#nosync\nFacility: Bash\nSession: HALF OFF Monday Morning Drop 
- In-Play\nEnrollment: 14 in · 46 left\nStatus: Good enrollment
+ In-Play\nEnrollment: 13 in · 47 left\nStatus: Good enrollment
 LOCATION:Bash Pickleball Club\, Warren\, MI
 CATEGORIES:Bash
 X-HERMES-FACILITY:Bash
@@ -438,9 +438,9 @@ UID:pickleball-greystone-20260622T0930-544d2ab862@derekcroft.github.io
 DTSTAMP:20000101T000000Z
 DTSTART;TZID=America/Detroit:20260622T093000
 DTEND;TZID=America/Detroit:20260622T113000
-SUMMARY:🟡 — Make Your Move — 1 in · 15 left
+SUMMARY:🟡 — Make Your Move — 0 in · 16 left
 DESCRIPTION:#nosync\nFacility: Greystone\nSession: Make Your Move\nEnrollme
- nt: 1 in · 15 left\nStatus: Low enrollment
+ nt: 0 in · 16 left\nStatus: Low enrollment
 LOCATION:Greystone Pickleball Club\, Auburn Hills\, MI
 CATEGORIES:Greystone
 X-HERMES-FACILITY:Greystone
