@@ -57,10 +57,10 @@ UID:pickleball-bashpickleball-20260620T1500-4a5f44289b@derekcroft.github.io
 DTSTAMP:20000101T000000Z
 DTSTART;TZID=America/Detroit:20260620T150000
 DTEND;TZID=America/Detroit:20260620T180000
-SUMMARY:🟡 — HALF OFF Saturday Afternoon Drop In-Play — 0 in · 40 le
+SUMMARY:🟡 — HALF OFF Saturday Afternoon Drop In-Play — 2 in · 38 le
  ft
 DESCRIPTION:#nosync\nFacility: Bash\nSession: HALF OFF Saturday Afternoon D
- rop In-Play\nEnrollment: 0 in · 40 left\nStatus: Low enrollment
+ rop In-Play\nEnrollment: 2 in · 38 left\nStatus: Low enrollment
 LOCATION:Bash Pickleball Club\, Warren\, MI
 CATEGORIES:Bash
 X-HERMES-FACILITY:Bash
@@ -71,9 +71,9 @@ UID:pickleball-paddleandpar-20260620T1700-c394087311@derekcroft.github.io
 DTSTAMP:20000101T000000Z
 DTSTART;TZID=America/Detroit:20260620T170000
 DTEND;TZID=America/Detroit:20260620T200000
-SUMMARY:🟡 — Evening Open Play — 9 in · 15 left
+SUMMARY:🟡 — Evening Open Play — 10 in · 14 left
 DESCRIPTION:#nosync\nFacility: Paddle & Par\nSession: Evening Open Play\nEn
- rollment: 9 in · 15 left\nStatus: Low enrollment
+ rollment: 10 in · 14 left\nStatus: Low enrollment
 LOCATION:Paddle & Par\, Beverly Hills\, MI
 CATEGORIES:Paddle & Par
 X-HERMES-FACILITY:Paddle & Par
@@ -97,9 +97,9 @@ UID:pickleball-bashpickleball-20260620T1900-680fcc1638@derekcroft.github.io
 DTSTAMP:20000101T000000Z
 DTSTART;TZID=America/Detroit:20260620T190000
 DTEND;TZID=America/Detroit:20260620T220000
-SUMMARY:🟡 — $5 Saturday Evening Drop In — 3 in · 37 left
+SUMMARY:🟡 — $5 Saturday Evening Drop In — 4 in · 36 left
 DESCRIPTION:#nosync\nFacility: Bash\nSession: $5 Saturday Evening Drop In\n
- Enrollment: 3 in · 37 left\nStatus: Low enrollment
+ Enrollment: 4 in · 36 left\nStatus: Low enrollment
 LOCATION:Bash Pickleball Club\, Warren\, MI
 CATEGORIES:Bash
 X-HERMES-FACILITY:Bash
@@ -385,9 +385,9 @@ UID:pickleball-picklerage-20260622T1100-e6b5e0143e@derekcroft.github.io
 DTSTAMP:20000101T000000Z
 DTSTART;TZID=America/Detroit:20260622T110000
 DTEND;TZID=America/Detroit:20260622T150000
-SUMMARY:🟡 — Midday Mega Open Play  — 1 in · 31 left
+SUMMARY:🟡 — Midday Mega Open Play  — 2 in · 30 left
 DESCRIPTION:#nosync\nFacility: Pickle Rage\nSession: Midday Mega Open Play 
- \nEnrollment: 1 in · 31 left\nStatus: Low enrollment
+ \nEnrollment: 2 in · 30 left\nStatus: Low enrollment
 LOCATION:Pickle Rage\, West Bloomfield\, MI
 CATEGORIES:Pickle Rage
 X-HERMES-FACILITY:Pickle Rage
@@ -793,9 +793,9 @@ UID:pickleball-paddleandpar-20260624T1700-7f41264a2a@derekcroft.github.io
 DTSTAMP:20000101T000000Z
 DTSTART;TZID=America/Detroit:20260624T170000
 DTEND;TZID=America/Detroit:20260624T200000
-SUMMARY:🟡 — Evening Open Play — 9 in · 15 left
+SUMMARY:🟡 — Evening Open Play — 10 in · 14 left
 DESCRIPTION:#nosync\nFacility: Paddle & Par\nSession: Evening Open Play\nEn
- rollment: 9 in · 15 left\nStatus: Low enrollment
+ rollment: 10 in · 14 left\nStatus: Low enrollment
 LOCATION:Paddle & Par\, Beverly Hills\, MI
 CATEGORIES:Paddle & Par
 X-HERMES-FACILITY:Paddle & Par
