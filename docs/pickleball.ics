@@ -488,9 +488,9 @@ UID:pickleball-picklerage-20260622T1700-5fb2504bbc@derekcroft.github.io
 DTSTAMP:20000101T000000Z
 DTSTART;TZID=America/Detroit:20260622T170000
 DTEND;TZID=America/Detroit:20260622T200000
-SUMMARY:🟡 — Evening Open Play — 8 in · 16 left
+SUMMARY:🟡 — Evening Open Play — 10 in · 14 left
 DESCRIPTION:Facility: Pickle Rage\nSession: Evening Open Play\nEnrollment: 
- 8 in · 16 left\nStatus: Low enrollment
+ 10 in · 14 left\nStatus: Low enrollment
 LOCATION:Pickle Rage\, West Bloomfield\, MI
 CATEGORIES:Pickle Rage
 X-HERMES-FACILITY:Pickle Rage
@@ -562,6 +562,19 @@ X-HERMES-FACILITY:Bash
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:pickleball-paddleandpar-20260623T0800-0c51c7f5f3@derekcroft.github.io
+DTSTAMP:20000101T000000Z
+DTSTART;TZID=America/Detroit:20260623T080000
+DTEND;TZID=America/Detroit:20260623T110000
+SUMMARY:🟡 — Morning Open Play — 6 in · 18 left
+DESCRIPTION:Facility: Paddle & Par\nSession: Morning Open Play\nEnrollment:
+  6 in · 18 left\nStatus: Low enrollment
+LOCATION:Paddle & Par\, Beverly Hills\, MI
+CATEGORIES:Paddle & Par
+X-HERMES-FACILITY:Paddle & Par
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:pickleball-picklerage-20260623T0800-0ba5989ba9@derekcroft.github.io
 DTSTAMP:20000101T000000Z
 DTSTART;TZID=America/Detroit:20260623T080000
@@ -615,6 +628,19 @@ X-HERMES-FACILITY:Pickle Rage
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:pickleball-paddleandpar-20260623T1300-264c21a830@derekcroft.github.io
+DTSTAMP:20000101T000000Z
+DTSTART;TZID=America/Detroit:20260623T130000
+DTEND;TZID=America/Detroit:20260623T160000
+SUMMARY:🟡 — Mid-Day Open Play — 1 in · 23 left
+DESCRIPTION:Facility: Paddle & Par\nSession: Mid-Day Open Play\nEnrollment:
+  1 in · 23 left\nStatus: Low enrollment
+LOCATION:Paddle & Par\, Beverly Hills\, MI
+CATEGORIES:Paddle & Par
+X-HERMES-FACILITY:Paddle & Par
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:pickleball-bashpickleball-20260623T1400-107fb318af@derekcroft.github.io
 DTSTAMP:20000101T000000Z
 DTSTART;TZID=America/Detroit:20260623T140000
@@ -639,6 +665,19 @@ DESCRIPTION:Facility: Pickle Rage\nSession: 50% off Evening Warm-Up Open Pl
 LOCATION:Pickle Rage\, West Bloomfield\, MI
 CATEGORIES:Pickle Rage
 X-HERMES-FACILITY:Pickle Rage
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:pickleball-paddleandpar-20260623T1700-cabde58277@derekcroft.github.io
+DTSTAMP:20000101T000000Z
+DTSTART;TZID=America/Detroit:20260623T170000
+DTEND;TZID=America/Detroit:20260623T200000
+SUMMARY:🟡 — Evening Open Play — 8 in · 16 left
+DESCRIPTION:Facility: Paddle & Par\nSession: Evening Open Play\nEnrollment:
+  8 in · 16 left\nStatus: Low enrollment
+LOCATION:Paddle & Par\, Beverly Hills\, MI
+CATEGORIES:Paddle & Par
+X-HERMES-FACILITY:Paddle & Par
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -707,6 +746,19 @@ X-HERMES-FACILITY:Bash
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:pickleball-paddleandpar-20260623T2000-f75fac9c4a@derekcroft.github.io
+DTSTAMP:20000101T000000Z
+DTSTART;TZID=America/Detroit:20260623T200000
+DTEND;TZID=America/Detroit:20260623T223000
+SUMMARY:🟡 — Late Night Open Play Special — 7 in · 19 left
+DESCRIPTION:Facility: Paddle & Par\nSession: Late Night Open Play Special\n
+ Enrollment: 7 in · 19 left\nStatus: Low enrollment
+LOCATION:Paddle & Par\, Beverly Hills\, MI
+CATEGORIES:Paddle & Par
+X-HERMES-FACILITY:Paddle & Par
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:pickleball-picklerage-20260623T2000-984707cc00@derekcroft.github.io
 DTSTAMP:20000101T000000Z
 DTSTART;TZID=America/Detroit:20260623T200000
@@ -731,6 +783,19 @@ DESCRIPTION:Facility: Bash\nSession: HALF OFF Wednesday Morning Drop In-Pla
 LOCATION:Bash Pickleball Club\, Warren\, MI
 CATEGORIES:Bash
 X-HERMES-FACILITY:Bash
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:pickleball-paddleandpar-20260624T0800-6b82016df2@derekcroft.github.io
+DTSTAMP:20000101T000000Z
+DTSTART;TZID=America/Detroit:20260624T080000
+DTEND;TZID=America/Detroit:20260624T110000
+SUMMARY:🟡 — Morning Open Play — 6 in · 18 left
+DESCRIPTION:Facility: Paddle & Par\nSession: Morning Open Play\nEnrollment:
+  6 in · 18 left\nStatus: Low enrollment
+LOCATION:Paddle & Par\, Beverly Hills\, MI
+CATEGORIES:Paddle & Par
+X-HERMES-FACILITY:Paddle & Par
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -787,6 +852,19 @@ X-HERMES-FACILITY:Pickle Rage
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:pickleball-paddleandpar-20260624T1300-bb2ca98746@derekcroft.github.io
+DTSTAMP:20000101T000000Z
+DTSTART;TZID=America/Detroit:20260624T130000
+DTEND;TZID=America/Detroit:20260624T160000
+SUMMARY:🟡 — Mid-Day Open Play — 1 in · 23 left
+DESCRIPTION:Facility: Paddle & Par\nSession: Mid-Day Open Play\nEnrollment:
+  1 in · 23 left\nStatus: Low enrollment
+LOCATION:Paddle & Par\, Beverly Hills\, MI
+CATEGORIES:Paddle & Par
+X-HERMES-FACILITY:Paddle & Par
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:pickleball-bashpickleball-20260624T1400-f12167879b@derekcroft.github.io
 DTSTAMP:20000101T000000Z
 DTSTART;TZID=America/Detroit:20260624T140000
@@ -811,6 +889,19 @@ DESCRIPTION:Facility: Pickle Rage\nSession: 50% off Evening Warm-Up Open Pl
 LOCATION:Pickle Rage\, West Bloomfield\, MI
 CATEGORIES:Pickle Rage
 X-HERMES-FACILITY:Pickle Rage
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:pickleball-paddleandpar-20260624T1700-7f41264a2a@derekcroft.github.io
+DTSTAMP:20000101T000000Z
+DTSTART;TZID=America/Detroit:20260624T170000
+DTEND;TZID=America/Detroit:20260624T200000
+SUMMARY:🟡 — Evening Open Play — 8 in · 16 left
+DESCRIPTION:Facility: Paddle & Par\nSession: Evening Open Play\nEnrollment:
+  8 in · 16 left\nStatus: Low enrollment
+LOCATION:Paddle & Par\, Beverly Hills\, MI
+CATEGORIES:Paddle & Par
+X-HERMES-FACILITY:Paddle & Par
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -853,6 +944,19 @@ X-HERMES-FACILITY:Bash
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:pickleball-paddleandpar-20260624T2000-867ee43b0a@derekcroft.github.io
+DTSTAMP:20000101T000000Z
+DTSTART;TZID=America/Detroit:20260624T200000
+DTEND;TZID=America/Detroit:20260624T223000
+SUMMARY:🟡 — Late Night Open Play Special — 7 in · 19 left
+DESCRIPTION:Facility: Paddle & Par\nSession: Late Night Open Play Special\n
+ Enrollment: 7 in · 19 left\nStatus: Low enrollment
+LOCATION:Paddle & Par\, Beverly Hills\, MI
+CATEGORIES:Paddle & Par
+X-HERMES-FACILITY:Paddle & Par
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:pickleball-picklerage-20260624T2000-1f6056450e@derekcroft.github.io
 DTSTAMP:20000101T000000Z
 DTSTART;TZID=America/Detroit:20260624T200000
@@ -876,6 +980,19 @@ DESCRIPTION:Facility: Bash\nSession: HALF OFF Thursday Morning Drop In-Play
 LOCATION:Bash Pickleball Club\, Warren\, MI
 CATEGORIES:Bash
 X-HERMES-FACILITY:Bash
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:pickleball-paddleandpar-20260625T0800-06af58c0a6@derekcroft.github.io
+DTSTAMP:20000101T000000Z
+DTSTART;TZID=America/Detroit:20260625T080000
+DTEND;TZID=America/Detroit:20260625T110000
+SUMMARY:🟡 — Morning Open Play — 6 in · 18 left
+DESCRIPTION:Facility: Paddle & Par\nSession: Morning Open Play\nEnrollment:
+  6 in · 18 left\nStatus: Low enrollment
+LOCATION:Paddle & Par\, Beverly Hills\, MI
+CATEGORIES:Paddle & Par
+X-HERMES-FACILITY:Paddle & Par
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -931,6 +1048,19 @@ X-HERMES-FACILITY:Bash
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:pickleball-paddleandpar-20260625T1300-ba12fb42bc@derekcroft.github.io
+DTSTAMP:20000101T000000Z
+DTSTART;TZID=America/Detroit:20260625T130000
+DTEND;TZID=America/Detroit:20260625T160000
+SUMMARY:🟡 — Mid-Day Open Play — 1 in · 23 left
+DESCRIPTION:Facility: Paddle & Par\nSession: Mid-Day Open Play\nEnrollment:
+  1 in · 23 left\nStatus: Low enrollment
+LOCATION:Paddle & Par\, Beverly Hills\, MI
+CATEGORIES:Paddle & Par
+X-HERMES-FACILITY:Paddle & Par
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:pickleball-bashpickleball-20260625T1500-513567a567@derekcroft.github.io
 DTSTAMP:20000101T000000Z
 DTSTART;TZID=America/Detroit:20260625T150000
@@ -955,6 +1085,19 @@ DESCRIPTION:Facility: Pickle Rage\nSession: 50% off Evening Warm-Up Open Pl
 LOCATION:Pickle Rage\, West Bloomfield\, MI
 CATEGORIES:Pickle Rage
 X-HERMES-FACILITY:Pickle Rage
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:pickleball-paddleandpar-20260625T1700-64201eadea@derekcroft.github.io
+DTSTAMP:20000101T000000Z
+DTSTART;TZID=America/Detroit:20260625T170000
+DTEND;TZID=America/Detroit:20260625T200000
+SUMMARY:🟡 — Evening Open Play — 8 in · 16 left
+DESCRIPTION:Facility: Paddle & Par\nSession: Evening Open Play\nEnrollment:
+  8 in · 16 left\nStatus: Low enrollment
+LOCATION:Paddle & Par\, Beverly Hills\, MI
+CATEGORIES:Paddle & Par
+X-HERMES-FACILITY:Paddle & Par
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1007,6 +1150,19 @@ DESCRIPTION:Facility: Bash\nSession: HALF OFF Thursday Evening Drop In\nEnr
 LOCATION:Bash Pickleball Club\, Warren\, MI
 CATEGORIES:Bash
 X-HERMES-FACILITY:Bash
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:pickleball-paddleandpar-20260625T2000-48c3d630b7@derekcroft.github.io
+DTSTAMP:20000101T000000Z
+DTSTART;TZID=America/Detroit:20260625T200000
+DTEND;TZID=America/Detroit:20260625T223000
+SUMMARY:🟡 — Late Night Open Play Special — 7 in · 19 left
+DESCRIPTION:Facility: Paddle & Par\nSession: Late Night Open Play Special\n
+ Enrollment: 7 in · 19 left\nStatus: Low enrollment
+LOCATION:Paddle & Par\, Beverly Hills\, MI
+CATEGORIES:Paddle & Par
+X-HERMES-FACILITY:Paddle & Par
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
