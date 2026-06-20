@@ -32,8 +32,8 @@ DTSTAMP:20000101T000000Z
 DTSTART;TZID=America/Detroit:20260620T080000
 DTEND;TZID=America/Detroit:20260620T110000
 SUMMARY:🟡 — Morning Open Play — 6 in · 18 left
-DESCRIPTION:Facility: Paddle & Par\nSession: Morning Open Play\nEnrollment:
-  6 in · 18 left\nStatus: Low enrollment
+DESCRIPTION:#nosync\nFacility: Paddle & Par\nSession: Morning Open Play\nEn
+ rollment: 6 in · 18 left\nStatus: Low enrollment
 LOCATION:Paddle & Par\, Beverly Hills\, MI
 CATEGORIES:Paddle & Par
 X-HERMES-FACILITY:Paddle & Par
@@ -45,8 +45,8 @@ DTSTAMP:20000101T000000Z
 DTSTART;TZID=America/Detroit:20260620T080000
 DTEND;TZID=America/Detroit:20260620T110000
 SUMMARY:🔴 — Advanced - Intermediate Open Play — 32 in · waitlist
-DESCRIPTION:Facility: Pickle Rage\nSession: Advanced - Intermediate Open Pl
- ay\nEnrollment: 32 in · waitlist\nStatus: Waitlist
+DESCRIPTION:#nosync\nFacility: Pickle Rage\nSession: Advanced - Intermediat
+ e Open Play\nEnrollment: 32 in · waitlist\nStatus: Waitlist
 LOCATION:Pickle Rage\, West Bloomfield\, MI
 CATEGORIES:Pickle Rage
 X-HERMES-FACILITY:Pickle Rage
@@ -58,8 +58,8 @@ DTSTAMP:20000101T000000Z
 DTSTART;TZID=America/Detroit:20260620T090000
 DTEND;TZID=America/Detroit:20260620T120000
 SUMMARY:🟡 — Open Play 3 hours — 9 in · 15 left
-DESCRIPTION:Facility: Greystone\nSession: Open Play 3 hours\nEnrollment: 9 
- in · 15 left\nStatus: Low enrollment
+DESCRIPTION:#nosync\nFacility: Greystone\nSession: Open Play 3 hours\nEnrol
+ lment: 9 in · 15 left\nStatus: Low enrollment
 LOCATION:Greystone Pickleball Club\, Auburn Hills\, MI
 CATEGORIES:Greystone
 X-HERMES-FACILITY:Greystone
@@ -71,8 +71,8 @@ DTSTAMP:20000101T000000Z
 DTSTART;TZID=America/Detroit:20260620T110000
 DTEND;TZID=America/Detroit:20260620T140000
 SUMMARY:🟡 — Midday Open Play – Session 1 — 2 in · 22 left
-DESCRIPTION:Facility: Pickle Rage\nSession: Midday Open Play – Session 1\
- nEnrollment: 2 in · 22 left\nStatus: Low enrollment
+DESCRIPTION:#nosync\nFacility: Pickle Rage\nSession: Midday Open Play – S
+ ession 1\nEnrollment: 2 in · 22 left\nStatus: Low enrollment
 LOCATION:Pickle Rage\, West Bloomfield\, MI
 CATEGORIES:Pickle Rage
 X-HERMES-FACILITY:Pickle Rage
@@ -84,8 +84,8 @@ DTSTAMP:20000101T000000Z
 DTSTART;TZID=America/Detroit:20260620T130000
 DTEND;TZID=America/Detroit:20260620T160000
 SUMMARY:🟡 — Mid-Day Open Play — 1 in · 23 left
-DESCRIPTION:Facility: Paddle & Par\nSession: Mid-Day Open Play\nEnrollment:
-  1 in · 23 left\nStatus: Low enrollment
+DESCRIPTION:#nosync\nFacility: Paddle & Par\nSession: Mid-Day Open Play\nEn
+ rollment: 1 in · 23 left\nStatus: Low enrollment
 LOCATION:Paddle & Par\, Beverly Hills\, MI
 CATEGORIES:Paddle & Par
 X-HERMES-FACILITY:Paddle & Par
@@ -97,8 +97,8 @@ DTSTAMP:20000101T000000Z
 DTSTART;TZID=America/Detroit:20260620T140000
 DTEND;TZID=America/Detroit:20260620T170000
 SUMMARY:🟡 — Beginner - Midday Open Play  — 2 in · 4 left
-DESCRIPTION:Facility: Pickle Rage\nSession: Beginner - Midday Open Play \nE
- nrollment: 2 in · 4 left\nStatus: Low enrollment
+DESCRIPTION:#nosync\nFacility: Pickle Rage\nSession: Beginner - Midday Open
+  Play \nEnrollment: 2 in · 4 left\nStatus: Low enrollment
 LOCATION:Pickle Rage\, West Bloomfield\, MI
 CATEGORIES:Pickle Rage
 X-HERMES-FACILITY:Pickle Rage
@@ -110,8 +110,8 @@ DTSTAMP:20000101T000000Z
 DTSTART;TZID=America/Detroit:20260620T140000
 DTEND;TZID=America/Detroit:20260620T170000
 SUMMARY:🟡 — Midday Open Play – Session 2 — 0 in · 24 left
-DESCRIPTION:Facility: Pickle Rage\nSession: Midday Open Play – Session 2\
- nEnrollment: 0 in · 24 left\nStatus: Low enrollment
+DESCRIPTION:#nosync\nFacility: Pickle Rage\nSession: Midday Open Play – S
+ ession 2\nEnrollment: 0 in · 24 left\nStatus: Low enrollment
 LOCATION:Pickle Rage\, West Bloomfield\, MI
 CATEGORIES:Pickle Rage
 X-HERMES-FACILITY:Pickle Rage
@@ -124,8 +124,8 @@ DTSTART;TZID=America/Detroit:20260620T150000
 DTEND;TZID=America/Detroit:20260620T180000
 SUMMARY:🟡 — HALF OFF Saturday Afternoon Drop In-Play — 0 in · 40 le
  ft
-DESCRIPTION:Facility: Bash\nSession: HALF OFF Saturday Afternoon Drop In-Pl
- ay\nEnrollment: 0 in · 40 left\nStatus: Low enrollment
+DESCRIPTION:#nosync\nFacility: Bash\nSession: HALF OFF Saturday Afternoon D
+ rop In-Play\nEnrollment: 0 in · 40 left\nStatus: Low enrollment
 LOCATION:Bash Pickleball Club\, Warren\, MI
 CATEGORIES:Bash
 X-HERMES-FACILITY:Bash
@@ -137,8 +137,8 @@ DTSTAMP:20000101T000000Z
 DTSTART;TZID=America/Detroit:20260620T170000
 DTEND;TZID=America/Detroit:20260620T200000
 SUMMARY:🟡 — Evening Open Play — 8 in · 16 left
-DESCRIPTION:Facility: Paddle & Par\nSession: Evening Open Play\nEnrollment:
-  8 in · 16 left\nStatus: Low enrollment
+DESCRIPTION:#nosync\nFacility: Paddle & Par\nSession: Evening Open Play\nEn
+ rollment: 8 in · 16 left\nStatus: Low enrollment
 LOCATION:Paddle & Par\, Beverly Hills\, MI
 CATEGORIES:Paddle & Par
 X-HERMES-FACILITY:Paddle & Par
@@ -150,8 +150,8 @@ DTSTAMP:20000101T000000Z
 DTSTART;TZID=America/Detroit:20260620T170000
 DTEND;TZID=America/Detroit:20260620T200000
 SUMMARY:🟡 — Evening Open Play — 0 in · 24 left
-DESCRIPTION:Facility: Pickle Rage\nSession: Evening Open Play\nEnrollment: 
- 0 in · 24 left\nStatus: Low enrollment
+DESCRIPTION:#nosync\nFacility: Pickle Rage\nSession: Evening Open Play\nEnr
+ ollment: 0 in · 24 left\nStatus: Low enrollment
 LOCATION:Pickle Rage\, West Bloomfield\, MI
 CATEGORIES:Pickle Rage
 X-HERMES-FACILITY:Pickle Rage
@@ -163,8 +163,8 @@ DTSTAMP:20000101T000000Z
 DTSTART;TZID=America/Detroit:20260620T190000
 DTEND;TZID=America/Detroit:20260620T220000
 SUMMARY:🟡 — $5 Saturday Evening Drop In — 3 in · 37 left
-DESCRIPTION:Facility: Bash\nSession: $5 Saturday Evening Drop In\nEnrollmen
- t: 3 in · 37 left\nStatus: Low enrollment
+DESCRIPTION:#nosync\nFacility: Bash\nSession: $5 Saturday Evening Drop In\n
+ Enrollment: 3 in · 37 left\nStatus: Low enrollment
 LOCATION:Bash Pickleball Club\, Warren\, MI
 CATEGORIES:Bash
 X-HERMES-FACILITY:Bash
@@ -176,8 +176,8 @@ DTSTAMP:20000101T000000Z
 DTSTART;TZID=America/Detroit:20260620T200000
 DTEND;TZID=America/Detroit:20260620T223000
 SUMMARY:🟡 — Late Night Open Play Special — 7 in · 19 left
-DESCRIPTION:Facility: Paddle & Par\nSession: Late Night Open Play Special\n
- Enrollment: 7 in · 19 left\nStatus: Low enrollment
+DESCRIPTION:#nosync\nFacility: Paddle & Par\nSession: Late Night Open Play 
+ Special\nEnrollment: 7 in · 19 left\nStatus: Low enrollment
 LOCATION:Paddle & Par\, Beverly Hills\, MI
 CATEGORIES:Paddle & Par
 X-HERMES-FACILITY:Paddle & Par
@@ -189,8 +189,8 @@ DTSTAMP:20000101T000000Z
 DTSTART;TZID=America/Detroit:20260620T200000
 DTEND;TZID=America/Detroit:20260620T220000
 SUMMARY:🟡 — Night Owl Open Play — 0 in · 12 left
-DESCRIPTION:Facility: Pickle Rage\nSession: Night Owl Open Play\nEnrollment
- : 0 in · 12 left\nStatus: Low enrollment
+DESCRIPTION:#nosync\nFacility: Pickle Rage\nSession: Night Owl Open Play\nE
+ nrollment: 0 in · 12 left\nStatus: Low enrollment
 LOCATION:Pickle Rage\, West Bloomfield\, MI
 CATEGORIES:Pickle Rage
 X-HERMES-FACILITY:Pickle Rage
@@ -202,8 +202,8 @@ DTSTAMP:20000101T000000Z
 DTSTART;TZID=America/Detroit:20260621T080000
 DTEND;TZID=America/Detroit:20260621T110000
 SUMMARY:🟡 — HALF OFF Sunday Morning Drop In-Play — 9 in · 31 left
-DESCRIPTION:Facility: Bash\nSession: HALF OFF Sunday Morning Drop In-Play\n
- Enrollment: 9 in · 31 left\nStatus: Low enrollment
+DESCRIPTION:#nosync\nFacility: Bash\nSession: HALF OFF Sunday Morning Drop 
+ In-Play\nEnrollment: 9 in · 31 left\nStatus: Low enrollment
 LOCATION:Bash Pickleball Club\, Warren\, MI
 CATEGORIES:Bash
 X-HERMES-FACILITY:Bash
@@ -215,8 +215,8 @@ DTSTAMP:20000101T000000Z
 DTSTART;TZID=America/Detroit:20260621T080000
 DTEND;TZID=America/Detroit:20260621T110000
 SUMMARY:🟡 — Morning Open Play — 8 in · 16 left
-DESCRIPTION:Facility: Paddle & Par\nSession: Morning Open Play\nEnrollment:
-  8 in · 16 left\nStatus: Low enrollment
+DESCRIPTION:#nosync\nFacility: Paddle & Par\nSession: Morning Open Play\nEn
+ rollment: 8 in · 16 left\nStatus: Low enrollment
 LOCATION:Paddle & Par\, Beverly Hills\, MI
 CATEGORIES:Paddle & Par
 X-HERMES-FACILITY:Paddle & Par
@@ -228,8 +228,8 @@ DTSTAMP:20000101T000000Z
 DTSTART;TZID=America/Detroit:20260621T080000
 DTEND;TZID=America/Detroit:20260621T110000
 SUMMARY:🟢 — Advanced - Intermediate Open Play — 28 in · 4 left
-DESCRIPTION:Facility: Pickle Rage\nSession: Advanced - Intermediate Open Pl
- ay\nEnrollment: 28 in · 4 left\nStatus: Good enrollment
+DESCRIPTION:#nosync\nFacility: Pickle Rage\nSession: Advanced - Intermediat
+ e Open Play\nEnrollment: 28 in · 4 left\nStatus: Good enrollment
 LOCATION:Pickle Rage\, West Bloomfield\, MI
 CATEGORIES:Pickle Rage
 X-HERMES-FACILITY:Pickle Rage
@@ -241,8 +241,8 @@ DTSTAMP:20000101T000000Z
 DTSTART;TZID=America/Detroit:20260621T093000
 DTEND;TZID=America/Detroit:20260621T123000
 SUMMARY:🟡 — Open Play 3 hours — 0 in · 48 left
-DESCRIPTION:Facility: Greystone\nSession: Open Play 3 hours\nEnrollment: 0 
- in · 48 left\nStatus: Low enrollment
+DESCRIPTION:#nosync\nFacility: Greystone\nSession: Open Play 3 hours\nEnrol
+ lment: 0 in · 48 left\nStatus: Low enrollment
 LOCATION:Greystone Pickleball Club\, Auburn Hills\, MI
 CATEGORIES:Greystone
 X-HERMES-FACILITY:Greystone
@@ -254,8 +254,8 @@ DTSTAMP:20000101T000000Z
 DTSTART;TZID=America/Detroit:20260621T110000
 DTEND;TZID=America/Detroit:20260621T140000
 SUMMARY:🟡 — Midday Open Play – Session 1 — 2 in · 6 left
-DESCRIPTION:Facility: Pickle Rage\nSession: Midday Open Play – Session 1\
- nEnrollment: 2 in · 6 left\nStatus: Low enrollment
+DESCRIPTION:#nosync\nFacility: Pickle Rage\nSession: Midday Open Play – S
+ ession 1\nEnrollment: 2 in · 6 left\nStatus: Low enrollment
 LOCATION:Pickle Rage\, West Bloomfield\, MI
 CATEGORIES:Pickle Rage
 X-HERMES-FACILITY:Pickle Rage
@@ -267,8 +267,8 @@ DTSTAMP:20000101T000000Z
 DTSTART;TZID=America/Detroit:20260621T130000
 DTEND;TZID=America/Detroit:20260621T160000
 SUMMARY:🟡 — Mid-Day Open Play — 6 in · 18 left
-DESCRIPTION:Facility: Paddle & Par\nSession: Mid-Day Open Play\nEnrollment:
-  6 in · 18 left\nStatus: Low enrollment
+DESCRIPTION:#nosync\nFacility: Paddle & Par\nSession: Mid-Day Open Play\nEn
+ rollment: 6 in · 18 left\nStatus: Low enrollment
 LOCATION:Paddle & Par\, Beverly Hills\, MI
 CATEGORIES:Paddle & Par
 X-HERMES-FACILITY:Paddle & Par
@@ -280,8 +280,8 @@ DTSTAMP:20000101T000000Z
 DTSTART;TZID=America/Detroit:20260621T140000
 DTEND;TZID=America/Detroit:20260621T160000
 SUMMARY:🟡 — Beginner - Midday Open Play  — 0 in · 6 left
-DESCRIPTION:Facility: Pickle Rage\nSession: Beginner - Midday Open Play \nE
- nrollment: 0 in · 6 left\nStatus: Low enrollment
+DESCRIPTION:#nosync\nFacility: Pickle Rage\nSession: Beginner - Midday Open
+  Play \nEnrollment: 0 in · 6 left\nStatus: Low enrollment
 LOCATION:Pickle Rage\, West Bloomfield\, MI
 CATEGORIES:Pickle Rage
 X-HERMES-FACILITY:Pickle Rage
@@ -293,8 +293,8 @@ DTSTAMP:20000101T000000Z
 DTSTART;TZID=America/Detroit:20260621T140000
 DTEND;TZID=America/Detroit:20260621T160000
 SUMMARY:🟡 — Midday Open Play – Session 2 — 0 in · 18 left
-DESCRIPTION:Facility: Pickle Rage\nSession: Midday Open Play – Session 2\
- nEnrollment: 0 in · 18 left\nStatus: Low enrollment
+DESCRIPTION:#nosync\nFacility: Pickle Rage\nSession: Midday Open Play – S
+ ession 2\nEnrollment: 0 in · 18 left\nStatus: Low enrollment
 LOCATION:Pickle Rage\, West Bloomfield\, MI
 CATEGORIES:Pickle Rage
 X-HERMES-FACILITY:Pickle Rage
@@ -306,8 +306,8 @@ DTSTAMP:20000101T000000Z
 DTSTART;TZID=America/Detroit:20260621T150000
 DTEND;TZID=America/Detroit:20260621T180000
 SUMMARY:🟡 — HALF OFF Sunday Afternoon Drop In-Play — 0 in · 40 left
-DESCRIPTION:Facility: Bash\nSession: HALF OFF Sunday Afternoon Drop In-Play
- \nEnrollment: 0 in · 40 left\nStatus: Low enrollment
+DESCRIPTION:#nosync\nFacility: Bash\nSession: HALF OFF Sunday Afternoon Dro
+ p In-Play\nEnrollment: 0 in · 40 left\nStatus: Low enrollment
 LOCATION:Bash Pickleball Club\, Warren\, MI
 CATEGORIES:Bash
 X-HERMES-FACILITY:Bash
@@ -320,8 +320,9 @@ DTSTART;TZID=America/Detroit:20260621T160000
 DTEND;TZID=America/Detroit:20260621T180000
 SUMMARY:🟡 — Free Open Play Sponsored by Honcho Pickleball League — 0
   in · 32 left
-DESCRIPTION:Facility: Pickle Rage\nSession: Free Open Play Sponsored by Hon
- cho Pickleball League\nEnrollment: 0 in · 32 left\nStatus: Low enrollment
+DESCRIPTION:#nosync\nFacility: Pickle Rage\nSession: Free Open Play Sponsor
+ ed by Honcho Pickleball League\nEnrollment: 0 in · 32 left\nStatus: Low e
+ nrollment
 LOCATION:Pickle Rage\, West Bloomfield\, MI
 CATEGORIES:Pickle Rage
 X-HERMES-FACILITY:Pickle Rage
@@ -333,8 +334,8 @@ DTSTAMP:20000101T000000Z
 DTSTART;TZID=America/Detroit:20260621T170000
 DTEND;TZID=America/Detroit:20260621T200000
 SUMMARY:🟡 — Open Play 3 hours — 0 in · 28 left
-DESCRIPTION:Facility: Greystone\nSession: Open Play 3 hours\nEnrollment: 0 
- in · 28 left\nStatus: Low enrollment
+DESCRIPTION:#nosync\nFacility: Greystone\nSession: Open Play 3 hours\nEnrol
+ lment: 0 in · 28 left\nStatus: Low enrollment
 LOCATION:Greystone Pickleball Club\, Auburn Hills\, MI
 CATEGORIES:Greystone
 X-HERMES-FACILITY:Greystone
@@ -346,8 +347,8 @@ DTSTAMP:20000101T000000Z
 DTSTART;TZID=America/Detroit:20260621T170000
 DTEND;TZID=America/Detroit:20260621T200000
 SUMMARY:🟡 — Evening Open Play — 7 in · 17 left
-DESCRIPTION:Facility: Paddle & Par\nSession: Evening Open Play\nEnrollment:
-  7 in · 17 left\nStatus: Low enrollment
+DESCRIPTION:#nosync\nFacility: Paddle & Par\nSession: Evening Open Play\nEn
+ rollment: 7 in · 17 left\nStatus: Low enrollment
 LOCATION:Paddle & Par\, Beverly Hills\, MI
 CATEGORIES:Paddle & Par
 X-HERMES-FACILITY:Paddle & Par
@@ -359,8 +360,8 @@ DTSTAMP:20000101T000000Z
 DTSTART;TZID=America/Detroit:20260621T180000
 DTEND;TZID=America/Detroit:20260621T200000
 SUMMARY:🟡 — Evening Open Play — 0 in · 24 left
-DESCRIPTION:Facility: Pickle Rage\nSession: Evening Open Play\nEnrollment: 
- 0 in · 24 left\nStatus: Low enrollment
+DESCRIPTION:#nosync\nFacility: Pickle Rage\nSession: Evening Open Play\nEnr
+ ollment: 0 in · 24 left\nStatus: Low enrollment
 LOCATION:Pickle Rage\, West Bloomfield\, MI
 CATEGORIES:Pickle Rage
 X-HERMES-FACILITY:Pickle Rage
@@ -372,8 +373,8 @@ DTSTAMP:20000101T000000Z
 DTSTART;TZID=America/Detroit:20260621T190000
 DTEND;TZID=America/Detroit:20260621T220000
 SUMMARY:🟡 — $5 Sunday Evening Drop In — 0 in · 40 left
-DESCRIPTION:Facility: Bash\nSession: $5 Sunday Evening Drop In\nEnrollment:
-  0 in · 40 left\nStatus: Low enrollment
+DESCRIPTION:#nosync\nFacility: Bash\nSession: $5 Sunday Evening Drop In\nEn
+ rollment: 0 in · 40 left\nStatus: Low enrollment
 LOCATION:Bash Pickleball Club\, Warren\, MI
 CATEGORIES:Bash
 X-HERMES-FACILITY:Bash
@@ -385,8 +386,8 @@ DTSTAMP:20000101T000000Z
 DTSTART;TZID=America/Detroit:20260622T080000
 DTEND;TZID=America/Detroit:20260622T110000
 SUMMARY:🟢 — HALF OFF Monday Morning Drop In-Play — 14 in · 46 left
-DESCRIPTION:Facility: Bash\nSession: HALF OFF Monday Morning Drop In-Play\n
- Enrollment: 14 in · 46 left\nStatus: Good enrollment
+DESCRIPTION:#nosync\nFacility: Bash\nSession: HALF OFF Monday Morning Drop 
+ In-Play\nEnrollment: 14 in · 46 left\nStatus: Good enrollment
 LOCATION:Bash Pickleball Club\, Warren\, MI
 CATEGORIES:Bash
 X-HERMES-FACILITY:Bash
@@ -398,8 +399,8 @@ DTSTAMP:20000101T000000Z
 DTSTART;TZID=America/Detroit:20260622T080000
 DTEND;TZID=America/Detroit:20260622T100000
 SUMMARY:🟡 — Morning Open Play Special — count unknown
-DESCRIPTION:Facility: Paddle & Par\nSession: Morning Open Play Special\nEnr
- ollment: count unknown\nStatus: Enrollment unknown
+DESCRIPTION:#nosync\nFacility: Paddle & Par\nSession: Morning Open Play Spe
+ cial\nEnrollment: count unknown\nStatus: Enrollment unknown
 LOCATION:Paddle & Par\, Beverly Hills\, MI
 CATEGORIES:Paddle & Par
 X-HERMES-FACILITY:Paddle & Par
@@ -411,8 +412,8 @@ DTSTAMP:20000101T000000Z
 DTSTART;TZID=America/Detroit:20260622T080000
 DTEND;TZID=America/Detroit:20260622T110000
 SUMMARY:🟡 — AM Open Play — 0 in · 32 left
-DESCRIPTION:Facility: Pickle Rage\nSession: AM Open Play\nEnrollment: 0 in 
- · 32 left\nStatus: Low enrollment
+DESCRIPTION:#nosync\nFacility: Pickle Rage\nSession: AM Open Play\nEnrollme
+ nt: 0 in · 32 left\nStatus: Low enrollment
 LOCATION:Pickle Rage\, West Bloomfield\, MI
 CATEGORIES:Pickle Rage
 X-HERMES-FACILITY:Pickle Rage
@@ -424,8 +425,8 @@ DTSTAMP:20000101T000000Z
 DTSTART;TZID=America/Detroit:20260622T093000
 DTEND;TZID=America/Detroit:20260622T113000
 SUMMARY:🟡 — Make Your Move — 1 in · 15 left
-DESCRIPTION:Facility: Greystone\nSession: Make Your Move\nEnrollment: 1 in 
- · 15 left\nStatus: Low enrollment
+DESCRIPTION:#nosync\nFacility: Greystone\nSession: Make Your Move\nEnrollme
+ nt: 1 in · 15 left\nStatus: Low enrollment
 LOCATION:Greystone Pickleball Club\, Auburn Hills\, MI
 CATEGORIES:Greystone
 X-HERMES-FACILITY:Greystone
@@ -437,8 +438,8 @@ DTSTAMP:20000101T000000Z
 DTSTART;TZID=America/Detroit:20260622T110000
 DTEND;TZID=America/Detroit:20260622T140000
 SUMMARY:🟡 — HALF OFF Monday Mid-Day Drop In-Play — 0 in · 40 left
-DESCRIPTION:Facility: Bash\nSession: HALF OFF Monday Mid-Day Drop In-Play\n
- Enrollment: 0 in · 40 left\nStatus: Low enrollment
+DESCRIPTION:#nosync\nFacility: Bash\nSession: HALF OFF Monday Mid-Day Drop 
+ In-Play\nEnrollment: 0 in · 40 left\nStatus: Low enrollment
 LOCATION:Bash Pickleball Club\, Warren\, MI
 CATEGORIES:Bash
 X-HERMES-FACILITY:Bash
@@ -450,8 +451,8 @@ DTSTAMP:20000101T000000Z
 DTSTART;TZID=America/Detroit:20260622T110000
 DTEND;TZID=America/Detroit:20260622T150000
 SUMMARY:🟡 — Midday Mega Open Play  — 0 in · 32 left
-DESCRIPTION:Facility: Pickle Rage\nSession: Midday Mega Open Play \nEnrollm
- ent: 0 in · 32 left\nStatus: Low enrollment
+DESCRIPTION:#nosync\nFacility: Pickle Rage\nSession: Midday Mega Open Play 
+ \nEnrollment: 0 in · 32 left\nStatus: Low enrollment
 LOCATION:Pickle Rage\, West Bloomfield\, MI
 CATEGORIES:Pickle Rage
 X-HERMES-FACILITY:Pickle Rage
@@ -463,8 +464,8 @@ DTSTAMP:20000101T000000Z
 DTSTART;TZID=America/Detroit:20260622T130000
 DTEND;TZID=America/Detroit:20260622T160000
 SUMMARY:🟡 — Mid-Day Open Play Special — count unknown
-DESCRIPTION:Facility: Paddle & Par\nSession: Mid-Day Open Play Special\nEnr
- ollment: count unknown\nStatus: Enrollment unknown
+DESCRIPTION:#nosync\nFacility: Paddle & Par\nSession: Mid-Day Open Play Spe
+ cial\nEnrollment: count unknown\nStatus: Enrollment unknown
 LOCATION:Paddle & Par\, Beverly Hills\, MI
 CATEGORIES:Paddle & Par
 X-HERMES-FACILITY:Paddle & Par
@@ -476,8 +477,8 @@ DTSTAMP:20000101T000000Z
 DTSTART;TZID=America/Detroit:20260622T150000
 DTEND;TZID=America/Detroit:20260622T170000
 SUMMARY:🟡 — 50% off Evening Warm-Up Open Play — 0 in · 16 left
-DESCRIPTION:Facility: Pickle Rage\nSession: 50% off Evening Warm-Up Open Pl
- ay\nEnrollment: 0 in · 16 left\nStatus: Low enrollment
+DESCRIPTION:#nosync\nFacility: Pickle Rage\nSession: 50% off Evening Warm-U
+ p Open Play\nEnrollment: 0 in · 16 left\nStatus: Low enrollment
 LOCATION:Pickle Rage\, West Bloomfield\, MI
 CATEGORIES:Pickle Rage
 X-HERMES-FACILITY:Pickle Rage
@@ -489,8 +490,8 @@ DTSTAMP:20000101T000000Z
 DTSTART;TZID=America/Detroit:20260622T170000
 DTEND;TZID=America/Detroit:20260622T200000
 SUMMARY:🟡 — Evening Open Play — 10 in · 14 left
-DESCRIPTION:Facility: Pickle Rage\nSession: Evening Open Play\nEnrollment: 
- 10 in · 14 left\nStatus: Low enrollment
+DESCRIPTION:#nosync\nFacility: Pickle Rage\nSession: Evening Open Play\nEnr
+ ollment: 10 in · 14 left\nStatus: Low enrollment
 LOCATION:Pickle Rage\, West Bloomfield\, MI
 CATEGORIES:Pickle Rage
 X-HERMES-FACILITY:Pickle Rage
@@ -502,8 +503,8 @@ DTSTAMP:20000101T000000Z
 DTSTART;TZID=America/Detroit:20260622T180000
 DTEND;TZID=America/Detroit:20260622T210000
 SUMMARY:🟡 — Evening Open Play — 3 in · 21 left
-DESCRIPTION:Facility: Paddle & Par\nSession: Evening Open Play\nEnrollment:
-  3 in · 21 left\nStatus: Low enrollment
+DESCRIPTION:#nosync\nFacility: Paddle & Par\nSession: Evening Open Play\nEn
+ rollment: 3 in · 21 left\nStatus: Low enrollment
 LOCATION:Paddle & Par\, Beverly Hills\, MI
 CATEGORIES:Paddle & Par
 X-HERMES-FACILITY:Paddle & Par
@@ -515,8 +516,8 @@ DTSTAMP:20000101T000000Z
 DTSTART;TZID=America/Detroit:20260622T193000
 DTEND;TZID=America/Detroit:20260622T213000
 SUMMARY:🟡 — Make Your Move — 1 in · 15 left
-DESCRIPTION:Facility: Greystone\nSession: Make Your Move\nEnrollment: 1 in 
- · 15 left\nStatus: Low enrollment
+DESCRIPTION:#nosync\nFacility: Greystone\nSession: Make Your Move\nEnrollme
+ nt: 1 in · 15 left\nStatus: Low enrollment
 LOCATION:Greystone Pickleball Club\, Auburn Hills\, MI
 CATEGORIES:Greystone
 X-HERMES-FACILITY:Greystone
@@ -528,8 +529,8 @@ DTSTAMP:20000101T000000Z
 DTSTART;TZID=America/Detroit:20260622T200000
 DTEND;TZID=America/Detroit:20260622T230000
 SUMMARY:🟡 — HALF OFF Monday Evening Drop In — 5 in · 35 left
-DESCRIPTION:Facility: Bash\nSession: HALF OFF Monday Evening Drop In\nEnrol
- lment: 5 in · 35 left\nStatus: Low enrollment
+DESCRIPTION:#nosync\nFacility: Bash\nSession: HALF OFF Monday Evening Drop 
+ In\nEnrollment: 5 in · 35 left\nStatus: Low enrollment
 LOCATION:Bash Pickleball Club\, Warren\, MI
 CATEGORIES:Bash
 X-HERMES-FACILITY:Bash
@@ -541,8 +542,8 @@ DTSTAMP:20000101T000000Z
 DTSTART;TZID=America/Detroit:20260622T200000
 DTEND;TZID=America/Detroit:20260622T220000
 SUMMARY:🟡 — Night Owl Open Play — 0 in · 12 left
-DESCRIPTION:Facility: Pickle Rage\nSession: Night Owl Open Play\nEnrollment
- : 0 in · 12 left\nStatus: Low enrollment
+DESCRIPTION:#nosync\nFacility: Pickle Rage\nSession: Night Owl Open Play\nE
+ nrollment: 0 in · 12 left\nStatus: Low enrollment
 LOCATION:Pickle Rage\, West Bloomfield\, MI
 CATEGORIES:Pickle Rage
 X-HERMES-FACILITY:Pickle Rage
@@ -554,8 +555,8 @@ DTSTAMP:20000101T000000Z
 DTSTART;TZID=America/Detroit:20260623T080000
 DTEND;TZID=America/Detroit:20260623T110000
 SUMMARY:🟡 — HALF OFF Tuesday Morning Drop In-Play — 7 in · 53 left
-DESCRIPTION:Facility: Bash\nSession: HALF OFF Tuesday Morning Drop In-Play\
- nEnrollment: 7 in · 53 left\nStatus: Low enrollment
+DESCRIPTION:#nosync\nFacility: Bash\nSession: HALF OFF Tuesday Morning Drop
+  In-Play\nEnrollment: 7 in · 53 left\nStatus: Low enrollment
 LOCATION:Bash Pickleball Club\, Warren\, MI
 CATEGORIES:Bash
 X-HERMES-FACILITY:Bash
@@ -567,8 +568,8 @@ DTSTAMP:20000101T000000Z
 DTSTART;TZID=America/Detroit:20260623T080000
 DTEND;TZID=America/Detroit:20260623T110000
 SUMMARY:🟡 — Morning Open Play — 6 in · 18 left
-DESCRIPTION:Facility: Paddle & Par\nSession: Morning Open Play\nEnrollment:
-  6 in · 18 left\nStatus: Low enrollment
+DESCRIPTION:#nosync\nFacility: Paddle & Par\nSession: Morning Open Play\nEn
+ rollment: 6 in · 18 left\nStatus: Low enrollment
 LOCATION:Paddle & Par\, Beverly Hills\, MI
 CATEGORIES:Paddle & Par
 X-HERMES-FACILITY:Paddle & Par
@@ -580,8 +581,8 @@ DTSTAMP:20000101T000000Z
 DTSTART;TZID=America/Detroit:20260623T080000
 DTEND;TZID=America/Detroit:20260623T110000
 SUMMARY:🟡 — AM Open Play — 0 in · 32 left
-DESCRIPTION:Facility: Pickle Rage\nSession: AM Open Play\nEnrollment: 0 in 
- · 32 left\nStatus: Low enrollment
+DESCRIPTION:#nosync\nFacility: Pickle Rage\nSession: AM Open Play\nEnrollme
+ nt: 0 in · 32 left\nStatus: Low enrollment
 LOCATION:Pickle Rage\, West Bloomfield\, MI
 CATEGORIES:Pickle Rage
 X-HERMES-FACILITY:Pickle Rage
@@ -593,8 +594,8 @@ DTSTAMP:20000101T000000Z
 DTSTART;TZID=America/Detroit:20260623T090000
 DTEND;TZID=America/Detroit:20260623T120000
 SUMMARY:🟡 — Open Play 3 hours — 0 in · 60 left
-DESCRIPTION:Facility: Greystone\nSession: Open Play 3 hours\nEnrollment: 0 
- in · 60 left\nStatus: Low enrollment
+DESCRIPTION:#nosync\nFacility: Greystone\nSession: Open Play 3 hours\nEnrol
+ lment: 0 in · 60 left\nStatus: Low enrollment
 LOCATION:Greystone Pickleball Club\, Auburn Hills\, MI
 CATEGORIES:Greystone
 X-HERMES-FACILITY:Greystone
@@ -607,8 +608,8 @@ DTSTART;TZID=America/Detroit:20260623T110000
 DTEND;TZID=America/Detroit:20260623T140000
 SUMMARY:🟡 — HALF OFF Tuesday Mid-Day Drop In-Play 11am-2pm — 0 in ·
   40 left
-DESCRIPTION:Facility: Bash\nSession: HALF OFF Tuesday Mid-Day Drop In-Play 
- 11am-2pm\nEnrollment: 0 in · 40 left\nStatus: Low enrollment
+DESCRIPTION:#nosync\nFacility: Bash\nSession: HALF OFF Tuesday Mid-Day Drop
+  In-Play 11am-2pm\nEnrollment: 0 in · 40 left\nStatus: Low enrollment
 LOCATION:Bash Pickleball Club\, Warren\, MI
 CATEGORIES:Bash
 X-HERMES-FACILITY:Bash
@@ -620,8 +621,8 @@ DTSTAMP:20000101T000000Z
 DTSTART;TZID=America/Detroit:20260623T110000
 DTEND;TZID=America/Detroit:20260623T150000
 SUMMARY:🟡 — Midday Mega Open Play  — 0 in · 32 left
-DESCRIPTION:Facility: Pickle Rage\nSession: Midday Mega Open Play \nEnrollm
- ent: 0 in · 32 left\nStatus: Low enrollment
+DESCRIPTION:#nosync\nFacility: Pickle Rage\nSession: Midday Mega Open Play 
+ \nEnrollment: 0 in · 32 left\nStatus: Low enrollment
 LOCATION:Pickle Rage\, West Bloomfield\, MI
 CATEGORIES:Pickle Rage
 X-HERMES-FACILITY:Pickle Rage
@@ -633,8 +634,8 @@ DTSTAMP:20000101T000000Z
 DTSTART;TZID=America/Detroit:20260623T130000
 DTEND;TZID=America/Detroit:20260623T160000
 SUMMARY:🟡 — Mid-Day Open Play — 1 in · 23 left
-DESCRIPTION:Facility: Paddle & Par\nSession: Mid-Day Open Play\nEnrollment:
-  1 in · 23 left\nStatus: Low enrollment
+DESCRIPTION:#nosync\nFacility: Paddle & Par\nSession: Mid-Day Open Play\nEn
+ rollment: 1 in · 23 left\nStatus: Low enrollment
 LOCATION:Paddle & Par\, Beverly Hills\, MI
 CATEGORIES:Paddle & Par
 X-HERMES-FACILITY:Paddle & Par
@@ -647,8 +648,8 @@ DTSTART;TZID=America/Detroit:20260623T140000
 DTEND;TZID=America/Detroit:20260623T170000
 SUMMARY:🟡 — HALF OFF Tuesday Afternoon Drop In-Play — 1 in · 39 lef
  t
-DESCRIPTION:Facility: Bash\nSession: HALF OFF Tuesday Afternoon Drop In-Pla
- y\nEnrollment: 1 in · 39 left\nStatus: Low enrollment
+DESCRIPTION:#nosync\nFacility: Bash\nSession: HALF OFF Tuesday Afternoon Dr
+ op In-Play\nEnrollment: 1 in · 39 left\nStatus: Low enrollment
 LOCATION:Bash Pickleball Club\, Warren\, MI
 CATEGORIES:Bash
 X-HERMES-FACILITY:Bash
@@ -660,8 +661,8 @@ DTSTAMP:20000101T000000Z
 DTSTART;TZID=America/Detroit:20260623T150000
 DTEND;TZID=America/Detroit:20260623T170000
 SUMMARY:🟡 — 50% off Evening Warm-Up Open Play — 0 in · 16 left
-DESCRIPTION:Facility: Pickle Rage\nSession: 50% off Evening Warm-Up Open Pl
- ay\nEnrollment: 0 in · 16 left\nStatus: Low enrollment
+DESCRIPTION:#nosync\nFacility: Pickle Rage\nSession: 50% off Evening Warm-U
+ p Open Play\nEnrollment: 0 in · 16 left\nStatus: Low enrollment
 LOCATION:Pickle Rage\, West Bloomfield\, MI
 CATEGORIES:Pickle Rage
 X-HERMES-FACILITY:Pickle Rage
@@ -673,8 +674,8 @@ DTSTAMP:20000101T000000Z
 DTSTART;TZID=America/Detroit:20260623T170000
 DTEND;TZID=America/Detroit:20260623T200000
 SUMMARY:🟡 — Evening Open Play — 8 in · 16 left
-DESCRIPTION:Facility: Paddle & Par\nSession: Evening Open Play\nEnrollment:
-  8 in · 16 left\nStatus: Low enrollment
+DESCRIPTION:#nosync\nFacility: Paddle & Par\nSession: Evening Open Play\nEn
+ rollment: 8 in · 16 left\nStatus: Low enrollment
 LOCATION:Paddle & Par\, Beverly Hills\, MI
 CATEGORIES:Paddle & Par
 X-HERMES-FACILITY:Paddle & Par
@@ -686,8 +687,8 @@ DTSTAMP:20000101T000000Z
 DTSTART;TZID=America/Detroit:20260623T170000
 DTEND;TZID=America/Detroit:20260623T200000
 SUMMARY:🟡 — Beginner Open Play! — 0 in · 6 left
-DESCRIPTION:Facility: Pickle Rage\nSession: Beginner Open Play!\nEnrollment
- : 0 in · 6 left\nStatus: Low enrollment
+DESCRIPTION:#nosync\nFacility: Pickle Rage\nSession: Beginner Open Play!\nE
+ nrollment: 0 in · 6 left\nStatus: Low enrollment
 LOCATION:Pickle Rage\, West Bloomfield\, MI
 CATEGORIES:Pickle Rage
 X-HERMES-FACILITY:Pickle Rage
@@ -699,8 +700,8 @@ DTSTAMP:20000101T000000Z
 DTSTART;TZID=America/Detroit:20260623T170000
 DTEND;TZID=America/Detroit:20260623T200000
 SUMMARY:🟡 — DUPR Verified Only: 3.0-3.5 Open Play — 0 in · 12 left
-DESCRIPTION:Facility: Pickle Rage\nSession: DUPR Verified Only: 3.0-3.5 Ope
- n Play\nEnrollment: 0 in · 12 left\nStatus: Low enrollment
+DESCRIPTION:#nosync\nFacility: Pickle Rage\nSession: DUPR Verified Only: 3.
+ 0-3.5 Open Play\nEnrollment: 0 in · 12 left\nStatus: Low enrollment
 LOCATION:Pickle Rage\, West Bloomfield\, MI
 CATEGORIES:Pickle Rage
 X-HERMES-FACILITY:Pickle Rage
@@ -712,8 +713,8 @@ DTSTAMP:20000101T000000Z
 DTSTART;TZID=America/Detroit:20260623T170000
 DTEND;TZID=America/Detroit:20260623T200000
 SUMMARY:🟡 — Evening Open Play — 0 in · 24 left
-DESCRIPTION:Facility: Pickle Rage\nSession: Evening Open Play\nEnrollment: 
- 0 in · 24 left\nStatus: Low enrollment
+DESCRIPTION:#nosync\nFacility: Pickle Rage\nSession: Evening Open Play\nEnr
+ ollment: 0 in · 24 left\nStatus: Low enrollment
 LOCATION:Pickle Rage\, West Bloomfield\, MI
 CATEGORIES:Pickle Rage
 X-HERMES-FACILITY:Pickle Rage
@@ -725,8 +726,8 @@ DTSTAMP:20000101T000000Z
 DTSTART;TZID=America/Detroit:20260623T193000
 DTEND;TZID=America/Detroit:20260623T213000
 SUMMARY:🟡 — Make Your Move — 6 in · 26 left
-DESCRIPTION:Facility: Greystone\nSession: Make Your Move\nEnrollment: 6 in 
- · 26 left\nStatus: Low enrollment
+DESCRIPTION:#nosync\nFacility: Greystone\nSession: Make Your Move\nEnrollme
+ nt: 6 in · 26 left\nStatus: Low enrollment
 LOCATION:Greystone Pickleball Club\, Auburn Hills\, MI
 CATEGORIES:Greystone
 X-HERMES-FACILITY:Greystone
@@ -738,8 +739,8 @@ DTSTAMP:20000101T000000Z
 DTSTART;TZID=America/Detroit:20260623T200000
 DTEND;TZID=America/Detroit:20260623T230000
 SUMMARY:🟡 — HALF OFF Tuesday Evening Drop In — 6 in · 34 left
-DESCRIPTION:Facility: Bash\nSession: HALF OFF Tuesday Evening Drop In\nEnro
- llment: 6 in · 34 left\nStatus: Low enrollment
+DESCRIPTION:#nosync\nFacility: Bash\nSession: HALF OFF Tuesday Evening Drop
+  In\nEnrollment: 6 in · 34 left\nStatus: Low enrollment
 LOCATION:Bash Pickleball Club\, Warren\, MI
 CATEGORIES:Bash
 X-HERMES-FACILITY:Bash
@@ -751,8 +752,8 @@ DTSTAMP:20000101T000000Z
 DTSTART;TZID=America/Detroit:20260623T200000
 DTEND;TZID=America/Detroit:20260623T223000
 SUMMARY:🟡 — Late Night Open Play Special — 7 in · 19 left
-DESCRIPTION:Facility: Paddle & Par\nSession: Late Night Open Play Special\n
- Enrollment: 7 in · 19 left\nStatus: Low enrollment
+DESCRIPTION:#nosync\nFacility: Paddle & Par\nSession: Late Night Open Play 
+ Special\nEnrollment: 7 in · 19 left\nStatus: Low enrollment
 LOCATION:Paddle & Par\, Beverly Hills\, MI
 CATEGORIES:Paddle & Par
 X-HERMES-FACILITY:Paddle & Par
@@ -764,8 +765,8 @@ DTSTAMP:20000101T000000Z
 DTSTART;TZID=America/Detroit:20260623T200000
 DTEND;TZID=America/Detroit:20260623T220000
 SUMMARY:🟡 — Night Owl Open Play — 0 in · 12 left
-DESCRIPTION:Facility: Pickle Rage\nSession: Night Owl Open Play\nEnrollment
- : 0 in · 12 left\nStatus: Low enrollment
+DESCRIPTION:#nosync\nFacility: Pickle Rage\nSession: Night Owl Open Play\nE
+ nrollment: 0 in · 12 left\nStatus: Low enrollment
 LOCATION:Pickle Rage\, West Bloomfield\, MI
 CATEGORIES:Pickle Rage
 X-HERMES-FACILITY:Pickle Rage
