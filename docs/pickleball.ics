@@ -224,6 +224,19 @@ X-HERMES-FACILITY:Bash
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:pickleball-paddleandpar-20260621T0800-f898abf509@derekcroft.github.io
+DTSTAMP:20000101T000000Z
+DTSTART;TZID=America/Detroit:20260621T080000
+DTEND;TZID=America/Detroit:20260621T110000
+SUMMARY:🟡 — Morning Open Play — 8 in · 16 left
+DESCRIPTION:#nosync\nFacility: Paddle & Par\nSession: Morning Open Play\nEn
+ rollment: 8 in · 16 left\nStatus: Low enrollment
+LOCATION:Paddle & Par\, Beverly Hills\, MI
+CATEGORIES:Paddle & Par
+X-HERMES-FACILITY:Paddle & Par
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:pickleball-picklerage-20260621T0800-267e5dab80@derekcroft.github.io
 DTSTAMP:20000101T000000Z
 DTSTART;TZID=America/Detroit:20260621T080000
