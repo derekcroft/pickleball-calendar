@@ -27,20 +27,6 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:pickleball-paddleandpar-20260621T1300-db97228fff@derekcroft.github.io
-DTSTAMP:20000101T000000Z
-DTSTART;TZID=America/Detroit:20260621T130000
-DTEND;TZID=America/Detroit:20260621T160000
-SUMMARY:🟡 — Mid-Day Open Play — 5 in · 19 left
-DESCRIPTION:#nosync\nFacility: Paddle & Par\nSession: Mid-Day Open Play\nEn
- rollment: 5 in · 19 left\nStatus: Low enrollment\nLast changed: Sun Jun 2
- 1\, 11:45 AM EDT
-LOCATION:Paddle & Par\, Beverly Hills\, MI
-CATEGORIES:Paddle & Par
-X-HERMES-FACILITY:Paddle & Par
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:pickleball-picklerage-20260621T1400-0e31d97ca5@derekcroft.github.io
 DTSTAMP:20000101T000000Z
 DTSTART;TZID=America/Detroit:20260621T140000
@@ -102,10 +88,10 @@ UID:pickleball-greystone-20260621T1700-29d218a3fe@derekcroft.github.io
 DTSTAMP:20000101T000000Z
 DTSTART;TZID=America/Detroit:20260621T170000
 DTEND;TZID=America/Detroit:20260621T200000
-SUMMARY:🟡 — Open Play 3 hours — 0 in · 28 left
+SUMMARY:🟡 — Open Play 3 hours — 4 in · 24 left
 DESCRIPTION:#nosync\nFacility: Greystone\nSession: Open Play 3 hours\nEnrol
- lment: 0 in · 28 left\nStatus: Low enrollment\nLast changed: Fri Jun 19\,
-  8:50 PM EDT
+ lment: 4 in · 24 left\nStatus: Low enrollment\nLast changed: Sun Jun 21\,
+  1:48 PM EDT
 LOCATION:Greystone Pickleball Club\, Auburn Hills\, MI
 CATEGORIES:Greystone
 X-HERMES-FACILITY:Greystone
@@ -116,10 +102,10 @@ UID:pickleball-paddleandpar-20260621T1700-4ea094a435@derekcroft.github.io
 DTSTAMP:20000101T000000Z
 DTSTART;TZID=America/Detroit:20260621T170000
 DTEND;TZID=America/Detroit:20260621T200000
-SUMMARY:🟡 — Evening Open Play — 10 in · 14 left
+SUMMARY:🟡 — Evening Open Play — 8 in · 16 left
 DESCRIPTION:#nosync\nFacility: Paddle & Par\nSession: Evening Open Play\nEn
- rollment: 10 in · 14 left\nStatus: Low enrollment\nLast changed: Sun Jun 
- 21\, 1:34 AM EDT
+ rollment: 8 in · 16 left\nStatus: Low enrollment\nLast changed: Sun Jun 2
+ 1\, 1:48 PM EDT
 LOCATION:Paddle & Par\, Beverly Hills\, MI
 CATEGORIES:Paddle & Par
 X-HERMES-FACILITY:Paddle & Par
@@ -158,10 +144,10 @@ UID:pickleball-bashpickleball-20260622T0800-b8e9b198c3@derekcroft.github.io
 DTSTAMP:20000101T000000Z
 DTSTART;TZID=America/Detroit:20260622T080000
 DTEND;TZID=America/Detroit:20260622T110000
-SUMMARY:🟢 — HALF OFF Monday Morning Drop In-Play — 20 in · 40 left
+SUMMARY:🟢 — HALF OFF Monday Morning Drop In-Play — 22 in · 38 left
 DESCRIPTION:#nosync\nFacility: Bash\nSession: HALF OFF Monday Morning Drop 
- In-Play\nEnrollment: 20 in · 40 left\nStatus: Good enrollment\nLast chang
- ed: Sun Jun 21\, 11:45 AM EDT
+ In-Play\nEnrollment: 22 in · 38 left\nStatus: Good enrollment\nLast chang
+ ed: Sun Jun 21\, 1:48 PM EDT
 LOCATION:Bash Pickleball Club\, Warren\, MI
 CATEGORIES:Bash
 X-HERMES-FACILITY:Bash
@@ -186,10 +172,10 @@ UID:pickleball-picklerage-20260622T0800-a36e4b0896@derekcroft.github.io
 DTSTAMP:20000101T000000Z
 DTSTART;TZID=America/Detroit:20260622T080000
 DTEND;TZID=America/Detroit:20260622T110000
-SUMMARY:🟡 — AM Open Play — 5 in · 27 left
+SUMMARY:🟡 — AM Open Play — 9 in · 23 left
 DESCRIPTION:#nosync\nFacility: Pickle Rage\nSession: AM Open Play\nEnrollme
- nt: 5 in · 27 left\nStatus: Low enrollment\nLast changed: Sun Jun 21\, 11
- :45 AM EDT
+ nt: 9 in · 23 left\nStatus: Low enrollment\nLast changed: Sun Jun 21\, 1:
+ 48 PM EDT
 LOCATION:Pickle Rage\, West Bloomfield\, MI
 CATEGORIES:Pickle Rage
 X-HERMES-FACILITY:Pickle Rage
@@ -242,10 +228,10 @@ UID:pickleball-paddleandpar-20260622T1300-ab3dc87106@derekcroft.github.io
 DTSTAMP:20000101T000000Z
 DTSTART;TZID=America/Detroit:20260622T130000
 DTEND;TZID=America/Detroit:20260622T160000
-SUMMARY:🟡 — Mid-Day Open Play Special — 1 in · 27 left
+SUMMARY:🟡 — Mid-Day Open Play Special — 2 in · 26 left
 DESCRIPTION:#nosync\nFacility: Paddle & Par\nSession: Mid-Day Open Play Spe
- cial\nEnrollment: 1 in · 27 left\nStatus: Low enrollment\nLast changed: S
- un Jun 21\, 7:41 AM EDT
+ cial\nEnrollment: 2 in · 26 left\nStatus: Low enrollment\nLast changed: S
+ un Jun 21\, 1:48 PM EDT
 LOCATION:Paddle & Par\, Beverly Hills\, MI
 CATEGORIES:Paddle & Par
 X-HERMES-FACILITY:Paddle & Par
@@ -284,10 +270,10 @@ UID:pickleball-paddleandpar-20260622T1800-cecacc0c18@derekcroft.github.io
 DTSTAMP:20000101T000000Z
 DTSTART;TZID=America/Detroit:20260622T180000
 DTEND;TZID=America/Detroit:20260622T210000
-SUMMARY:🟡 — Evening Open Play — 8 in · 16 left
+SUMMARY:🟡 — Evening Open Play — 7 in · 17 left
 DESCRIPTION:#nosync\nFacility: Paddle & Par\nSession: Evening Open Play\nEn
- rollment: 8 in · 16 left\nStatus: Low enrollment\nLast changed: Sat Jun 2
- 0\, 8:54 PM EDT
+ rollment: 7 in · 17 left\nStatus: Low enrollment\nLast changed: Sun Jun 2
+ 1\, 1:48 PM EDT
 LOCATION:Paddle & Par\, Beverly Hills\, MI
 CATEGORIES:Paddle & Par
 X-HERMES-FACILITY:Paddle & Par
@@ -496,10 +482,10 @@ UID:pickleball-picklerage-20260623T1700-405d2da78e@derekcroft.github.io
 DTSTAMP:20000101T000000Z
 DTSTART;TZID=America/Detroit:20260623T170000
 DTEND;TZID=America/Detroit:20260623T200000
-SUMMARY:🟢 — Evening Open Play — 12 in · 12 left
+SUMMARY:🟢 — Evening Open Play — 13 in · 11 left
 DESCRIPTION:#nosync\nFacility: Pickle Rage\nSession: Evening Open Play\nEnr
- ollment: 12 in · 12 left\nStatus: Good enrollment\nLast changed: Sun Jun 
- 21\, 7:41 AM EDT
+ ollment: 13 in · 11 left\nStatus: Good enrollment\nLast changed: Sun Jun 
+ 21\, 1:48 PM EDT
 LOCATION:Pickle Rage\, West Bloomfield\, MI
 CATEGORIES:Pickle Rage
 X-HERMES-FACILITY:Pickle Rage
@@ -510,10 +496,10 @@ UID:pickleball-paddleandpar-20260623T1900-17d7fa1c9d@derekcroft.github.io
 DTSTAMP:20000101T000000Z
 DTSTART;TZID=America/Detroit:20260623T190000
 DTEND;TZID=America/Detroit:20260623T220000
-SUMMARY:🟡 — Late Night Open Play — 10 in · 14 left
+SUMMARY:🟡 — Late Night Open Play — 11 in · 13 left
 DESCRIPTION:#nosync\nFacility: Paddle & Par\nSession: Late Night Open Play\
- nEnrollment: 10 in · 14 left\nStatus: Low enrollment\nLast changed: Sat J
- un 20\, 11:32 PM EDT
+ nEnrollment: 11 in · 13 left\nStatus: Low enrollment\nLast changed: Sun J
+ un 21\, 1:48 PM EDT
 LOCATION:Paddle & Par\, Beverly Hills\, MI
 CATEGORIES:Paddle & Par
 X-HERMES-FACILITY:Paddle & Par
@@ -524,10 +510,10 @@ UID:pickleball-greystone-20260623T1930-598eaae614@derekcroft.github.io
 DTSTAMP:20000101T000000Z
 DTSTART;TZID=America/Detroit:20260623T193000
 DTEND;TZID=America/Detroit:20260623T213000
-SUMMARY:🟢 — Make Your Move — 12 in · 20 left
+SUMMARY:🟢 — Make Your Move — 14 in · 18 left
 DESCRIPTION:#nosync\nFacility: Greystone\nSession: Make Your Move\nEnrollme
- nt: 12 in · 20 left\nStatus: Good enrollment\nLast changed: Sun Jun 21\, 
- 9:43 AM EDT
+ nt: 14 in · 18 left\nStatus: Good enrollment\nLast changed: Sun Jun 21\, 
+ 1:48 PM EDT
 LOCATION:Greystone Pickleball Club\, Auburn Hills\, MI
 CATEGORIES:Greystone
 X-HERMES-FACILITY:Greystone
@@ -709,10 +695,10 @@ UID:pickleball-paddleandpar-20260624T1800-6031eaf061@derekcroft.github.io
 DTSTAMP:20000101T000000Z
 DTSTART;TZID=America/Detroit:20260624T180000
 DTEND;TZID=America/Detroit:20260624T210000
-SUMMARY:🟡 — Evening Open Play — 2 in · 22 left
+SUMMARY:🟡 — Evening Open Play — 6 in · 18 left
 DESCRIPTION:#nosync\nFacility: Paddle & Par\nSession: Evening Open Play\nEn
- rollment: 2 in · 22 left\nStatus: Low enrollment\nLast changed: Sun Jun 2
- 1\, 1:34 AM EDT
+ rollment: 6 in · 18 left\nStatus: Low enrollment\nLast changed: Sun Jun 2
+ 1\, 1:48 PM EDT
 LOCATION:Paddle & Par\, Beverly Hills\, MI
 CATEGORIES:Paddle & Par
 X-HERMES-FACILITY:Paddle & Par
@@ -878,10 +864,10 @@ UID:pickleball-paddleandpar-20260625T1700-64201eadea@derekcroft.github.io
 DTSTAMP:20000101T000000Z
 DTSTART;TZID=America/Detroit:20260625T170000
 DTEND;TZID=America/Detroit:20260625T200000
-SUMMARY:🟡 — Evening Open Play — 10 in · 14 left
+SUMMARY:🟡 — Evening Open Play — 8 in · 16 left
 DESCRIPTION:#nosync\nFacility: Paddle & Par\nSession: Evening Open Play\nEn
- rollment: 10 in · 14 left\nStatus: Low enrollment\nLast changed: Sun Jun 
- 21\, 1:34 AM EDT
+ rollment: 8 in · 16 left\nStatus: Low enrollment\nLast changed: Sun Jun 2
+ 1\, 1:48 PM EDT
 LOCATION:Paddle & Par\, Beverly Hills\, MI
 CATEGORIES:Paddle & Par
 X-HERMES-FACILITY:Paddle & Par
