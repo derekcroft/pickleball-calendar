@@ -31,10 +31,10 @@ UID:pickleball-bashpickleball-20260622T0800-b8e9b198c3@derekcroft.github.io
 DTSTAMP:20000101T000000Z
 DTSTART;TZID=America/Detroit:20260622T080000
 DTEND;TZID=America/Detroit:20260622T110000
-SUMMARY:🟢 — HALF OFF Monday Morning Drop In-Play — 46 in · 14 left
+SUMMARY:🟢 — HALF OFF Monday Morning Drop In-Play — 50 in · 10 left
 DESCRIPTION:#nosync\nFacility: Bash\nSession: HALF OFF Monday Morning Drop 
- In-Play\nEnrollment: 46 in · 14 left\nStatus: Good enrollment\nLast chang
- ed: Sun Jun 21\, 11:59 PM EDT
+ In-Play\nEnrollment: 50 in · 10 left\nStatus: Good enrollment\nLast chang
+ ed: Mon Jun 22\, 6:06 AM EDT
 LOCATION:Bash Pickleball Club\, Warren\, MI
 CATEGORIES:Bash
 X-HERMES-FACILITY:Bash
@@ -45,10 +45,10 @@ UID:pickleball-picklerage-20260622T0800-a36e4b0896@derekcroft.github.io
 DTSTAMP:20000101T000000Z
 DTSTART;TZID=America/Detroit:20260622T080000
 DTEND;TZID=America/Detroit:20260622T110000
-SUMMARY:🟢 — AM Open Play — 14 in · 18 left
+SUMMARY:🟢 — AM Open Play — 15 in · 17 left
 DESCRIPTION:#nosync\nFacility: Pickle Rage\nSession: AM Open Play\nEnrollme
- nt: 14 in · 18 left\nStatus: Good enrollment\nLast changed: Sun Jun 21\, 
- 11:59 PM EDT
+ nt: 15 in · 17 left\nStatus: Good enrollment\nLast changed: Mon Jun 22\, 
+ 6:06 AM EDT
 LOCATION:Pickle Rage\, West Bloomfield\, MI
 CATEGORIES:Pickle Rage
 X-HERMES-FACILITY:Pickle Rage
@@ -101,10 +101,10 @@ UID:pickleball-paddleandpar-20260622T1300-ab3dc87106@derekcroft.github.io
 DTSTAMP:20000101T000000Z
 DTSTART;TZID=America/Detroit:20260622T130000
 DTEND;TZID=America/Detroit:20260622T160000
-SUMMARY:🟡 — Mid-Day Open Play Special — 1 in · 27 left
+SUMMARY:🟡 — Mid-Day Open Play Special — 0 in · 28 left
 DESCRIPTION:#nosync\nFacility: Paddle & Par\nSession: Mid-Day Open Play Spe
- cial\nEnrollment: 1 in · 27 left\nStatus: Low enrollment\nLast changed: S
- un Jun 21\, 9:57 PM EDT
+ cial\nEnrollment: 0 in · 28 left\nStatus: Low enrollment\nLast changed: M
+ on Jun 22\, 6:06 AM EDT
 LOCATION:Paddle & Par\, Beverly Hills\, MI
 CATEGORIES:Paddle & Par
 X-HERMES-FACILITY:Paddle & Par
@@ -920,10 +920,10 @@ UID:pickleball-paddleandpar-20260626T1300-57385020a7@derekcroft.github.io
 DTSTAMP:20000101T000000Z
 DTSTART;TZID=America/Detroit:20260626T130000
 DTEND;TZID=America/Detroit:20260626T160000
-SUMMARY:🟡 — Mid-Day Open Play Special — 1 in · 27 left
+SUMMARY:🟡 — Mid-Day Open Play Special — 0 in · 28 left
 DESCRIPTION:#nosync\nFacility: Paddle & Par\nSession: Mid-Day Open Play Spe
- cial\nEnrollment: 1 in · 27 left\nStatus: Low enrollment\nLast changed: M
- on Jun 22\, 2:01 AM EDT
+ cial\nEnrollment: 0 in · 28 left\nStatus: Low enrollment\nLast changed: M
+ on Jun 22\, 6:06 AM EDT
 LOCATION:Paddle & Par\, Beverly Hills\, MI
 CATEGORIES:Paddle & Par
 X-HERMES-FACILITY:Paddle & Par
