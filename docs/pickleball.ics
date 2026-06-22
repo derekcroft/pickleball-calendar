@@ -27,48 +27,6 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:pickleball-bashpickleball-20260622T1100-2a99153f22@derekcroft.github.io
-DTSTAMP:20000101T000000Z
-DTSTART;TZID=America/Detroit:20260622T110000
-DTEND;TZID=America/Detroit:20260622T140000
-SUMMARY:🟡 — HALF OFF Monday Mid-Day Drop In-Play — 0 in · 40 left
-DESCRIPTION:#nosync\nFacility: Bash\nSession: HALF OFF Monday Mid-Day Drop 
- In-Play\nEnrollment: 0 in · 40 left\nStatus: Low enrollment\nLast changed
- : Fri Jun 19\, 8:50 PM EDT
-LOCATION:Bash Pickleball Club\, Warren\, MI
-CATEGORIES:Bash
-X-HERMES-FACILITY:Bash
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:pickleball-picklerage-20260622T1100-e6b5e0143e@derekcroft.github.io
-DTSTAMP:20000101T000000Z
-DTSTART;TZID=America/Detroit:20260622T110000
-DTEND;TZID=America/Detroit:20260622T150000
-SUMMARY:🟢 — Midday Mega Open Play  — 14 in · 18 left
-DESCRIPTION:#nosync\nFacility: Pickle Rage\nSession: Midday Mega Open Play 
- \nEnrollment: 14 in · 18 left\nStatus: Good enrollment\nLast changed: Mon
-  Jun 22\, 10:10 AM EDT
-LOCATION:Pickle Rage\, West Bloomfield\, MI
-CATEGORIES:Pickle Rage
-X-HERMES-FACILITY:Pickle Rage
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:pickleball-paddleandpar-20260622T1300-ab3dc87106@derekcroft.github.io
-DTSTAMP:20000101T000000Z
-DTSTART;TZID=America/Detroit:20260622T130000
-DTEND;TZID=America/Detroit:20260622T160000
-SUMMARY:🟡 — Mid-Day Open Play Special — 0 in · 28 left
-DESCRIPTION:#nosync\nFacility: Paddle & Par\nSession: Mid-Day Open Play Spe
- cial\nEnrollment: 0 in · 28 left\nStatus: Low enrollment\nLast changed: M
- on Jun 22\, 6:06 AM EDT
-LOCATION:Paddle & Par\, Beverly Hills\, MI
-CATEGORIES:Paddle & Par
-X-HERMES-FACILITY:Paddle & Par
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:pickleball-picklerage-20260622T1500-3004772165@derekcroft.github.io
 DTSTAMP:20000101T000000Z
 DTSTART;TZID=America/Detroit:20260622T150000
@@ -115,10 +73,10 @@ UID:pickleball-greystone-20260622T1930-8fefeebebc@derekcroft.github.io
 DTSTAMP:20000101T000000Z
 DTSTART;TZID=America/Detroit:20260622T193000
 DTEND;TZID=America/Detroit:20260622T213000
-SUMMARY:🟡 — Make Your Move — 9 in · 7 left
+SUMMARY:🟡 — Make Your Move — 11 in · 5 left
 DESCRIPTION:#nosync\nFacility: Greystone\nSession: Make Your Move\nEnrollme
- nt: 9 in · 7 left\nStatus: Low enrollment\nLast changed: Sun Jun 21\, 9:5
- 7 PM EDT
+ nt: 11 in · 5 left\nStatus: Low enrollment\nLast changed: Mon Jun 22\, 12
+ :13 PM EDT
 LOCATION:Greystone Pickleball Club\, Auburn Hills\, MI
 CATEGORIES:Greystone
 X-HERMES-FACILITY:Greystone
@@ -171,10 +129,10 @@ UID:pickleball-paddleandpar-20260623T0800-43be082e5a@derekcroft.github.io
 DTSTAMP:20000101T000000Z
 DTSTART;TZID=America/Detroit:20260623T080000
 DTEND;TZID=America/Detroit:20260623T100000
-SUMMARY:🟡 — Morning Open Play Special — 1 in · 23 left
+SUMMARY:🟡 — Morning Open Play Special — 4 in · 20 left
 DESCRIPTION:#nosync\nFacility: Paddle & Par\nSession: Morning Open Play Spe
- cial\nEnrollment: 1 in · 23 left\nStatus: Low enrollment\nLast changed: S
- un Jun 21\, 7:54 PM EDT
+ cial\nEnrollment: 4 in · 20 left\nStatus: Low enrollment\nLast changed: M
+ on Jun 22\, 12:13 PM EDT
 LOCATION:Paddle & Par\, Beverly Hills\, MI
 CATEGORIES:Paddle & Par
 X-HERMES-FACILITY:Paddle & Par
@@ -299,10 +257,10 @@ UID:pickleball-picklerage-20260623T1700-405d2da78e@derekcroft.github.io
 DTSTAMP:20000101T000000Z
 DTSTART;TZID=America/Detroit:20260623T170000
 DTEND;TZID=America/Detroit:20260623T200000
-SUMMARY:🟢 — Evening Open Play — 18 in · 6 left
+SUMMARY:🟢 — Evening Open Play — 19 in · 5 left
 DESCRIPTION:#nosync\nFacility: Pickle Rage\nSession: Evening Open Play\nEnr
- ollment: 18 in · 6 left\nStatus: Good enrollment\nLast changed: Mon Jun 2
- 2\, 8:08 AM EDT
+ ollment: 19 in · 5 left\nStatus: Good enrollment\nLast changed: Mon Jun 2
+ 2\, 12:13 PM EDT
 LOCATION:Pickle Rage\, West Bloomfield\, MI
 CATEGORIES:Pickle Rage
 X-HERMES-FACILITY:Pickle Rage
@@ -327,9 +285,9 @@ UID:pickleball-greystone-20260623T1930-598eaae614@derekcroft.github.io
 DTSTAMP:20000101T000000Z
 DTSTART;TZID=America/Detroit:20260623T193000
 DTEND;TZID=America/Detroit:20260623T213000
-SUMMARY:🔵 — Make Your Move — 28 in · 4 left
+SUMMARY:🔵 — Make Your Move — 29 in · 3 left
 DESCRIPTION:#nosync\nFacility: Greystone\nSession: Make Your Move\nEnrollme
- nt: 28 in · 4 left\nStatus: Signed up\nLast changed: Mon Jun 22\, 10:10 A
+ nt: 29 in · 3 left\nStatus: Signed up\nLast changed: Mon Jun 22\, 12:13 P
  M EDT
 LOCATION:Greystone Pickleball Club\, Auburn Hills\, MI
 CATEGORIES:Greystone
@@ -341,10 +299,10 @@ UID:pickleball-bashpickleball-20260623T2000-a393da2e11@derekcroft.github.io
 DTSTAMP:20000101T000000Z
 DTSTART;TZID=America/Detroit:20260623T200000
 DTEND;TZID=America/Detroit:20260623T230000
-SUMMARY:🟡 — HALF OFF Tuesday Evening Drop In — 10 in · 30 left
+SUMMARY:🟢 — HALF OFF Tuesday Evening Drop In — 14 in · 26 left
 DESCRIPTION:#nosync\nFacility: Bash\nSession: HALF OFF Tuesday Evening Drop
-  In\nEnrollment: 10 in · 30 left\nStatus: Low enrollment\nLast changed: S
- un Jun 21\, 1:34 AM EDT
+  In\nEnrollment: 14 in · 26 left\nStatus: Good enrollment\nLast changed: 
+ Mon Jun 22\, 12:13 PM EDT
 LOCATION:Bash Pickleball Club\, Warren\, MI
 CATEGORIES:Bash
 X-HERMES-FACILITY:Bash
@@ -540,10 +498,10 @@ UID:pickleball-bashpickleball-20260624T2000-6e012b9854@derekcroft.github.io
 DTSTAMP:20000101T000000Z
 DTSTART;TZID=America/Detroit:20260624T200000
 DTEND;TZID=America/Detroit:20260624T230000
-SUMMARY:🟡 — HALF OFF Wednesday Evening Drop In — 10 in · 30 left
+SUMMARY:🟡 — HALF OFF Wednesday Evening Drop In — 11 in · 29 left
 DESCRIPTION:#nosync\nFacility: Bash\nSession: HALF OFF Wednesday Evening Dr
- op In\nEnrollment: 10 in · 30 left\nStatus: Low enrollment\nLast changed:
-  Mon Jun 22\, 8:08 AM EDT
+ op In\nEnrollment: 11 in · 29 left\nStatus: Low enrollment\nLast changed:
+  Mon Jun 22\, 12:13 PM EDT
 LOCATION:Bash Pickleball Club\, Warren\, MI
 CATEGORIES:Bash
 X-HERMES-FACILITY:Bash
@@ -596,10 +554,10 @@ UID:pickleball-paddleandpar-20260625T0900-3ce6ae2ea5@derekcroft.github.io
 DTSTAMP:20000101T000000Z
 DTSTART;TZID=America/Detroit:20260625T090000
 DTEND;TZID=America/Detroit:20260625T120000
-SUMMARY:🟡 — Morning Open Play Special — 0 in · 24 left
+SUMMARY:🟡 — Morning Open Play Special — 2 in · 22 left
 DESCRIPTION:#nosync\nFacility: Paddle & Par\nSession: Morning Open Play Spe
- cial\nEnrollment: 0 in · 24 left\nStatus: Low enrollment\nLast changed: S
- un Jun 21\, 11:59 PM EDT
+ cial\nEnrollment: 2 in · 22 left\nStatus: Low enrollment\nLast changed: M
+ on Jun 22\, 12:13 PM EDT
 LOCATION:Paddle & Par\, Beverly Hills\, MI
 CATEGORIES:Paddle & Par
 X-HERMES-FACILITY:Paddle & Par
@@ -666,10 +624,10 @@ UID:pickleball-paddleandpar-20260625T1300-2c771d2da9@derekcroft.github.io
 DTSTAMP:20000101T000000Z
 DTSTART;TZID=America/Detroit:20260625T130000
 DTEND;TZID=America/Detroit:20260625T160000
-SUMMARY:🟡 — Mid-Day Open Play Special — 0 in · 28 left
+SUMMARY:🟡 — Mid-Day Open Play Special — 3 in · 25 left
 DESCRIPTION:#nosync\nFacility: Paddle & Par\nSession: Mid-Day Open Play Spe
- cial\nEnrollment: 0 in · 28 left\nStatus: Low enrollment\nLast changed: S
- un Jun 21\, 11:59 PM EDT
+ cial\nEnrollment: 3 in · 25 left\nStatus: Low enrollment\nLast changed: M
+ on Jun 22\, 12:13 PM EDT
 LOCATION:Paddle & Par\, Beverly Hills\, MI
 CATEGORIES:Paddle & Par
 X-HERMES-FACILITY:Paddle & Par
@@ -765,10 +723,10 @@ UID:pickleball-bashpickleball-20260625T2000-cfc088dbce@derekcroft.github.io
 DTSTAMP:20000101T000000Z
 DTSTART;TZID=America/Detroit:20260625T200000
 DTEND;TZID=America/Detroit:20260625T230000
-SUMMARY:🟡 — HALF OFF Thursday Evening Drop In — 10 in · 30 left
+SUMMARY:🟢 — HALF OFF Thursday Evening Drop In — 12 in · 28 left
 DESCRIPTION:#nosync\nFacility: Bash\nSession: HALF OFF Thursday Evening Dro
- p In\nEnrollment: 10 in · 30 left\nStatus: Low enrollment\nLast changed: 
- Sun Jun 21\, 11:59 PM EDT
+ p In\nEnrollment: 12 in · 28 left\nStatus: Good enrollment\nLast changed:
+  Mon Jun 22\, 12:13 PM EDT
 LOCATION:Bash Pickleball Club\, Warren\, MI
 CATEGORIES:Bash
 X-HERMES-FACILITY:Bash
@@ -807,10 +765,10 @@ UID:pickleball-bashpickleball-20260626T0800-7f9f39b7ea@derekcroft.github.io
 DTSTAMP:20000101T000000Z
 DTSTART;TZID=America/Detroit:20260626T080000
 DTEND;TZID=America/Detroit:20260626T110000
-SUMMARY:🟢 — HALF OFF Friday Morning Drop In-Play — 12 in · 48 left
+SUMMARY:🟢 — HALF OFF Friday Morning Drop In-Play — 13 in · 47 left
 DESCRIPTION:#nosync\nFacility: Bash\nSession: HALF OFF Friday Morning Drop 
- In-Play\nEnrollment: 12 in · 48 left\nStatus: Good enrollment\nLast chang
- ed: Mon Jun 22\, 2:01 AM EDT
+ In-Play\nEnrollment: 13 in · 47 left\nStatus: Good enrollment\nLast chang
+ ed: Mon Jun 22\, 12:13 PM EDT
 LOCATION:Bash Pickleball Club\, Warren\, MI
 CATEGORIES:Bash
 X-HERMES-FACILITY:Bash
@@ -835,10 +793,10 @@ UID:pickleball-greystone-20260626T0930-737e4ff857@derekcroft.github.io
 DTSTAMP:20000101T000000Z
 DTSTART;TZID=America/Detroit:20260626T093000
 DTEND;TZID=America/Detroit:20260626T113000
-SUMMARY:🟡 — Make Your Move — 5 in · 27 left
+SUMMARY:🟡 — Make Your Move — 6 in · 26 left
 DESCRIPTION:#nosync\nFacility: Greystone\nSession: Make Your Move\nEnrollme
- nt: 5 in · 27 left\nStatus: Low enrollment\nLast changed: Mon Jun 22\, 10
- :10 AM EDT
+ nt: 6 in · 26 left\nStatus: Low enrollment\nLast changed: Mon Jun 22\, 12
+ :13 PM EDT
 LOCATION:Greystone Pickleball Club\, Auburn Hills\, MI
 CATEGORIES:Greystone
 X-HERMES-FACILITY:Greystone
@@ -871,20 +829,6 @@ DESCRIPTION:#nosync\nFacility: Pickle Rage\nSession: Midday Mega Open Play
 LOCATION:Pickle Rage\, West Bloomfield\, MI
 CATEGORIES:Pickle Rage
 X-HERMES-FACILITY:Pickle Rage
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:pickleball-paddleandpar-20260626T1300-57385020a7@derekcroft.github.io
-DTSTAMP:20000101T000000Z
-DTSTART;TZID=America/Detroit:20260626T130000
-DTEND;TZID=America/Detroit:20260626T160000
-SUMMARY:🟡 — Mid-Day Open Play Special — 0 in · 28 left
-DESCRIPTION:#nosync\nFacility: Paddle & Par\nSession: Mid-Day Open Play Spe
- cial\nEnrollment: 0 in · 28 left\nStatus: Low enrollment\nLast changed: M
- on Jun 22\, 6:06 AM EDT
-LOCATION:Paddle & Par\, Beverly Hills\, MI
-CATEGORIES:Paddle & Par
-X-HERMES-FACILITY:Paddle & Par
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
