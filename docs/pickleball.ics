@@ -45,63 +45,23 @@ X-HERMES-FACILITY:Greystone
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:pickleball-greystone-20260624T1930-e93c9bfd94@derekcroft.github.io
-DTSTAMP:20000101T000000Z
-DTSTART;TZID=America/Detroit:20260624T193000
-DTEND;TZID=America/Detroit:20260624T213000
-SUMMARY:🟢 — Make Your Move — 12 in · 4 left
-DESCRIPTION:#nosync\nFacility: Greystone\nSession: Make Your Move\nEnrollme
- nt: 12 in · 4 left\nStatus: Good enrollment\nLast changed: Wed Jun 24\, 7
- :09 PM EDT\nBooking: https://greystone-pickleball.clubcloudapp.com/events/
- 13013
-URL:https://greystone-pickleball.clubcloudapp.com/events/13013
-X-HERMES-BOOKING-URL:https://greystone-pickleball.clubcloudapp.com/events/1
- 3013
-LOCATION:Greystone Pickleball Club\, Auburn Hills\, MI
-CATEGORIES:Greystone
-X-HERMES-FACILITY:Greystone
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:pickleball-picklerage-20260624T2000-1f6056450e@derekcroft.github.io
-DTSTAMP:20000101T000000Z
-DTSTART;TZID=America/Detroit:20260624T200000
-DTEND;TZID=America/Detroit:20260624T220000
-SUMMARY:🟡 — Night Owl Open Play — 4 in · 8 left
-DESCRIPTION:#nosync\nFacility: Pickle Rage\nSession: Night Owl Open Play\nE
- nrollment: 4 in · 8 left\nStatus: Low enrollment\nLast changed: Wed Jun 2
- 4\, 5:07 PM EDT\nBooking: https://app.courtreserve.com/Online/PublicBookin
- gs/12016/services/reserve?tab=explore&startdate=2026-06-24&date=2026-06-24
- &step=review&eventId=1961625&reservationId=50334378&source=widget
-URL:https://app.courtreserve.com/Online/PublicBookings/12016/services/reser
- ve?tab=explore&startdate=2026-06-24&date=2026-06-24&step=review&eventId=19
- 61625&reservationId=50334378&source=widget
-X-HERMES-BOOKING-URL:https://app.courtreserve.com/Online/PublicBookings/120
- 16/services/reserve?tab=explore&startdate=2026-06-24&date=2026-06-24&step=
- review&eventId=1961625&reservationId=50334378&source=widget
-LOCATION:Pickle Rage\, West Bloomfield\, MI
-CATEGORIES:Pickle Rage
-X-HERMES-FACILITY:Pickle Rage
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:pickleball-bashpickleball-20260625T0800-b7c5697a91@derekcroft.github.io
 DTSTAMP:20000101T000000Z
 DTSTART;TZID=America/Detroit:20260625T080000
 DTEND;TZID=America/Detroit:20260625T110000
-SUMMARY:🟢 — HALF OFF Thursday Morning Drop In-Play — 19 in · 41 lef
+SUMMARY:🟢 — HALF OFF Thursday Morning Drop In-Play — 21 in · 39 lef
  t
 DESCRIPTION:#nosync\nFacility: Bash\nSession: HALF OFF Thursday Morning Dro
- p In-Play\nEnrollment: 19 in · 41 left\nStatus: Good enrollment\nLast cha
- nged: Wed Jun 24\, 7:09 PM EDT\nBooking: https://app.courtreserve.com/Onli
- ne/PublicBookings/11620/services/reserve?tab=explore&startdate=2026-06-24&
+ p In-Play\nEnrollment: 21 in · 39 left\nStatus: Good enrollment\nLast cha
+ nged: Wed Jun 24\, 9:12 PM EDT\nBooking: https://app.courtreserve.com/Onli
+ ne/PublicBookings/11620/services/reserve?tab=explore&startdate=2026-06-25&
  date=2026-06-25&step=review&eventId=1135912&reservationId=31651257&source=
  widget
 URL:https://app.courtreserve.com/Online/PublicBookings/11620/services/reser
- ve?tab=explore&startdate=2026-06-24&date=2026-06-25&step=review&eventId=11
+ ve?tab=explore&startdate=2026-06-25&date=2026-06-25&step=review&eventId=11
  35912&reservationId=31651257&source=widget
 X-HERMES-BOOKING-URL:https://app.courtreserve.com/Online/PublicBookings/116
- 20/services/reserve?tab=explore&startdate=2026-06-24&date=2026-06-25&step=
+ 20/services/reserve?tab=explore&startdate=2026-06-25&date=2026-06-25&step=
  review&eventId=1135912&reservationId=31651257&source=widget
 LOCATION:Bash Pickleball Club\, Warren\, MI
 CATEGORIES:Bash
@@ -113,10 +73,10 @@ UID:pickleball-picklerage-20260625T0800-f62bded3f1@derekcroft.github.io
 DTSTAMP:20000101T000000Z
 DTSTART;TZID=America/Detroit:20260625T080000
 DTEND;TZID=America/Detroit:20260625T110000
-SUMMARY:🟡 — AM Open Play — 8 in · 24 left
+SUMMARY:🟡 — AM Open Play — 9 in · 23 left
 DESCRIPTION:#nosync\nFacility: Pickle Rage\nSession: AM Open Play\nEnrollme
- nt: 8 in · 24 left\nStatus: Low enrollment\nLast changed: Wed Jun 24\, 7:
- 09 PM EDT\nBooking: https://app.courtreserve.com/Online/PublicBookings/120
+ nt: 9 in · 23 left\nStatus: Low enrollment\nLast changed: Wed Jun 24\, 9:
+ 12 PM EDT\nBooking: https://app.courtreserve.com/Online/PublicBookings/120
  16/services/reserve?tab=explore&startdate=2026-06-25&date=2026-06-25&step=
  review&eventId=2135058&reservationId=55958325&source=widget
 URL:https://app.courtreserve.com/Online/PublicBookings/12016/services/reser
@@ -179,14 +139,14 @@ SUMMARY:🟡 — HALF OFF Thursday Mid-Day Drop In-Play — 2 in · 38 left
 DESCRIPTION:#nosync\nFacility: Bash\nSession: HALF OFF Thursday Mid-Day Dro
  p In-Play\nEnrollment: 2 in · 38 left\nStatus: Low enrollment\nLast chang
  ed: Wed Jun 24\, 3:05 PM EDT\nBooking: https://app.courtreserve.com/Online
- /PublicBookings/11620/services/reserve?tab=explore&startdate=2026-06-24&da
+ /PublicBookings/11620/services/reserve?tab=explore&startdate=2026-06-25&da
  te=2026-06-25&step=review&eventId=1434301&reservationId=38641453&source=wi
  dget
 URL:https://app.courtreserve.com/Online/PublicBookings/11620/services/reser
- ve?tab=explore&startdate=2026-06-24&date=2026-06-25&step=review&eventId=14
+ ve?tab=explore&startdate=2026-06-25&date=2026-06-25&step=review&eventId=14
  34301&reservationId=38641453&source=widget
 X-HERMES-BOOKING-URL:https://app.courtreserve.com/Online/PublicBookings/116
- 20/services/reserve?tab=explore&startdate=2026-06-24&date=2026-06-25&step=
+ 20/services/reserve?tab=explore&startdate=2026-06-25&date=2026-06-25&step=
  review&eventId=1434301&reservationId=38641453&source=widget
 LOCATION:Bash Pickleball Club\, Warren\, MI
 CATEGORIES:Bash
@@ -217,10 +177,10 @@ UID:pickleball-paddleandpar-20260625T1300-2c771d2da9@derekcroft.github.io
 DTSTAMP:20000101T000000Z
 DTSTART;TZID=America/Detroit:20260625T130000
 DTEND;TZID=America/Detroit:20260625T160000
-SUMMARY:🟡 — Mid-Day Open Play Special — 10 in · 17 left
+SUMMARY:🟡 — Mid-Day Open Play Special — 11 in · 16 left
 DESCRIPTION:#nosync\nFacility: Paddle & Par\nSession: Mid-Day Open Play Spe
- cial\nEnrollment: 10 in · 17 left\nStatus: Low enrollment\nLast changed: 
- Wed Jun 24\, 7:09 PM EDT\nBooking: https://paddleandpar.podplay.app/commun
+ cial\nEnrollment: 11 in · 16 left\nStatus: Low enrollment\nLast changed: 
+ Wed Jun 24\, 9:12 PM EDT\nBooking: https://paddleandpar.podplay.app/commun
  ity/events/019e69ad-3f03-7770-b1ae-f8292fa9e019
 URL:https://paddleandpar.podplay.app/community/events/019e69ad-3f03-7770-b1
  ae-f8292fa9e019
@@ -241,14 +201,14 @@ SUMMARY:🟡 — HALF OFF Thursday Evening  Drop In-Play — 3 in · 21 lef
 DESCRIPTION:#nosync\nFacility: Bash\nSession: HALF OFF Thursday Evening  Dr
  op In-Play\nEnrollment: 3 in · 21 left\nStatus: Low enrollment\nLast chan
  ged: Wed Jun 24\, 7:09 PM EDT\nBooking: https://app.courtreserve.com/Onlin
- e/PublicBookings/11620/services/reserve?tab=explore&startdate=2026-06-24&d
+ e/PublicBookings/11620/services/reserve?tab=explore&startdate=2026-06-25&d
  ate=2026-06-25&step=review&eventId=1527884&reservationId=40759544&source=w
  idget
 URL:https://app.courtreserve.com/Online/PublicBookings/11620/services/reser
- ve?tab=explore&startdate=2026-06-24&date=2026-06-25&step=review&eventId=15
+ ve?tab=explore&startdate=2026-06-25&date=2026-06-25&step=review&eventId=15
  27884&reservationId=40759544&source=widget
 X-HERMES-BOOKING-URL:https://app.courtreserve.com/Online/PublicBookings/116
- 20/services/reserve?tab=explore&startdate=2026-06-24&date=2026-06-25&step=
+ 20/services/reserve?tab=explore&startdate=2026-06-25&date=2026-06-25&step=
  review&eventId=1527884&reservationId=40759544&source=widget
 LOCATION:Bash Pickleball Club\, Warren\, MI
 CATEGORIES:Bash
@@ -305,10 +265,10 @@ UID:pickleball-picklerage-20260625T1700-4aee058333@derekcroft.github.io
 DTSTAMP:20000101T000000Z
 DTSTART;TZID=America/Detroit:20260625T170000
 DTEND;TZID=America/Detroit:20260625T200000
-SUMMARY:🟢 — Evening Open Play — 15 in · 9 left
+SUMMARY:🟢 — Evening Open Play — 16 in · 8 left
 DESCRIPTION:#nosync\nFacility: Pickle Rage\nSession: Evening Open Play\nEnr
- ollment: 15 in · 9 left\nStatus: Good enrollment\nLast changed: Wed Jun 2
- 4\, 5:07 PM EDT\nBooking: https://app.courtreserve.com/Online/PublicBookin
+ ollment: 16 in · 8 left\nStatus: Good enrollment\nLast changed: Wed Jun 2
+ 4\, 9:12 PM EDT\nBooking: https://app.courtreserve.com/Online/PublicBookin
  gs/12016/services/reserve?tab=explore&startdate=2026-06-25&date=2026-06-25
  &step=review&eventId=2004144&reservationId=51713379&source=widget
 URL:https://app.courtreserve.com/Online/PublicBookings/12016/services/reser
@@ -327,10 +287,10 @@ UID:pickleball-paddleandpar-20260625T1800-5a2866fc40@derekcroft.github.io
 DTSTAMP:20000101T000000Z
 DTSTART;TZID=America/Detroit:20260625T180000
 DTEND;TZID=America/Detroit:20260625T210000
-SUMMARY:🟡 — Evening Open Play — 10 in · 14 left
+SUMMARY:🟡 — Evening Open Play — 11 in · 13 left
 DESCRIPTION:#nosync\nFacility: Paddle & Par\nSession: Evening Open Play\nEn
- rollment: 10 in · 14 left\nStatus: Low enrollment\nLast changed: Wed Jun 
- 24\, 3:05 PM EDT\nBooking: https://paddleandpar.podplay.app/community/even
+ rollment: 11 in · 13 left\nStatus: Low enrollment\nLast changed: Wed Jun 
+ 24\, 9:12 PM EDT\nBooking: https://paddleandpar.podplay.app/community/even
  ts/019e652c-87b6-7998-84d1-279589e7606f
 URL:https://paddleandpar.podplay.app/community/events/019e652c-87b6-7998-84
  d1-279589e7606f
@@ -364,18 +324,18 @@ UID:pickleball-bashpickleball-20260625T2000-cfc088dbce@derekcroft.github.io
 DTSTAMP:20000101T000000Z
 DTSTART;TZID=America/Detroit:20260625T200000
 DTEND;TZID=America/Detroit:20260625T230000
-SUMMARY:🟢 — HALF OFF Thursday Evening Drop In — 26 in · 14 left
+SUMMARY:🟢 — HALF OFF Thursday Evening Drop In — 25 in · 15 left
 DESCRIPTION:#nosync\nFacility: Bash\nSession: HALF OFF Thursday Evening Dro
- p In\nEnrollment: 26 in · 14 left\nStatus: Good enrollment\nLast changed:
-  Wed Jun 24\, 7:09 PM EDT\nBooking: https://app.courtreserve.com/Online/Pu
- blicBookings/11620/services/reserve?tab=explore&startdate=2026-06-24&date=
+ p In\nEnrollment: 25 in · 15 left\nStatus: Good enrollment\nLast changed:
+  Wed Jun 24\, 9:12 PM EDT\nBooking: https://app.courtreserve.com/Online/Pu
+ blicBookings/11620/services/reserve?tab=explore&startdate=2026-06-25&date=
  2026-06-25&step=review&eventId=1190153&reservationId=32784560&source=widge
  t
 URL:https://app.courtreserve.com/Online/PublicBookings/11620/services/reser
- ve?tab=explore&startdate=2026-06-24&date=2026-06-25&step=review&eventId=11
+ ve?tab=explore&startdate=2026-06-25&date=2026-06-25&step=review&eventId=11
  90153&reservationId=32784560&source=widget
 X-HERMES-BOOKING-URL:https://app.courtreserve.com/Online/PublicBookings/116
- 20/services/reserve?tab=explore&startdate=2026-06-24&date=2026-06-25&step=
+ 20/services/reserve?tab=explore&startdate=2026-06-25&date=2026-06-25&step=
  review&eventId=1190153&reservationId=32784560&source=widget
 LOCATION:Bash Pickleball Club\, Warren\, MI
 CATEGORIES:Bash
@@ -436,14 +396,14 @@ SUMMARY:🟢 — HALF OFF Friday Morning Drop In-Play — 19 in · 41 left
 DESCRIPTION:#nosync\nFacility: Bash\nSession: HALF OFF Friday Morning Drop 
  In-Play\nEnrollment: 19 in · 41 left\nStatus: Good enrollment\nLast chang
  ed: Wed Jun 24\, 7:09 PM EDT\nBooking: https://app.courtreserve.com/Online
- /PublicBookings/11620/services/reserve?tab=explore&startdate=2026-06-24&da
+ /PublicBookings/11620/services/reserve?tab=explore&startdate=2026-06-25&da
  te=2026-06-26&step=review&eventId=1032891&reservationId=29342018&source=wi
  dget
 URL:https://app.courtreserve.com/Online/PublicBookings/11620/services/reser
- ve?tab=explore&startdate=2026-06-24&date=2026-06-26&step=review&eventId=10
+ ve?tab=explore&startdate=2026-06-25&date=2026-06-26&step=review&eventId=10
  32891&reservationId=29342018&source=widget
 X-HERMES-BOOKING-URL:https://app.courtreserve.com/Online/PublicBookings/116
- 20/services/reserve?tab=explore&startdate=2026-06-24&date=2026-06-26&step=
+ 20/services/reserve?tab=explore&startdate=2026-06-25&date=2026-06-26&step=
  review&eventId=1032891&reservationId=29342018&source=widget
 LOCATION:Bash Pickleball Club\, Warren\, MI
 CATEGORIES:Bash
@@ -519,14 +479,14 @@ SUMMARY:🟡 — HALF OFF Friday Mid-Day In-Play 11am-2pm — 0 in · 40 le
 DESCRIPTION:#nosync\nFacility: Bash\nSession: HALF OFF Friday Mid-Day In-Pl
  ay 11am-2pm\nEnrollment: 0 in · 40 left\nStatus: Low enrollment\nLast cha
  nged: Mon Jun 22\, 2:01 AM EDT\nBooking: https://app.courtreserve.com/Onli
- ne/PublicBookings/11620/services/reserve?tab=explore&startdate=2026-06-24&
+ ne/PublicBookings/11620/services/reserve?tab=explore&startdate=2026-06-25&
  date=2026-06-26&step=review&eventId=1134213&reservationId=31581394&source=
  widget
 URL:https://app.courtreserve.com/Online/PublicBookings/11620/services/reser
- ve?tab=explore&startdate=2026-06-24&date=2026-06-26&step=review&eventId=11
+ ve?tab=explore&startdate=2026-06-25&date=2026-06-26&step=review&eventId=11
  34213&reservationId=31581394&source=widget
 X-HERMES-BOOKING-URL:https://app.courtreserve.com/Online/PublicBookings/116
- 20/services/reserve?tab=explore&startdate=2026-06-24&date=2026-06-26&step=
+ 20/services/reserve?tab=explore&startdate=2026-06-25&date=2026-06-26&step=
  review&eventId=1134213&reservationId=31581394&source=widget
 LOCATION:Bash Pickleball Club\, Warren\, MI
 CATEGORIES:Bash
@@ -583,14 +543,14 @@ SUMMARY:🟡 — HALF OFF Friday Afternoon Drop In-Play — 0 in · 24 left
 DESCRIPTION:#nosync\nFacility: Bash\nSession: HALF OFF Friday Afternoon Dro
  p In-Play\nEnrollment: 0 in · 24 left\nStatus: Low enrollment\nLast chang
  ed: Mon Jun 22\, 2:01 AM EDT\nBooking: https://app.courtreserve.com/Online
- /PublicBookings/11620/services/reserve?tab=explore&startdate=2026-06-24&da
+ /PublicBookings/11620/services/reserve?tab=explore&startdate=2026-06-25&da
  te=2026-06-26&step=review&eventId=1032965&reservationId=29343581&source=wi
  dget
 URL:https://app.courtreserve.com/Online/PublicBookings/11620/services/reser
- ve?tab=explore&startdate=2026-06-24&date=2026-06-26&step=review&eventId=10
+ ve?tab=explore&startdate=2026-06-25&date=2026-06-26&step=review&eventId=10
  32965&reservationId=29343581&source=widget
 X-HERMES-BOOKING-URL:https://app.courtreserve.com/Online/PublicBookings/116
- 20/services/reserve?tab=explore&startdate=2026-06-24&date=2026-06-26&step=
+ 20/services/reserve?tab=explore&startdate=2026-06-25&date=2026-06-26&step=
  review&eventId=1032965&reservationId=29343581&source=widget
 LOCATION:Bash Pickleball Club\, Warren\, MI
 CATEGORIES:Bash
@@ -625,17 +585,17 @@ UID:pickleball-bashpickleball-20260626T2000-772e9674b2@derekcroft.github.io
 DTSTAMP:20000101T000000Z
 DTSTART;TZID=America/Detroit:20260626T200000
 DTEND;TZID=America/Detroit:20260626T230000
-SUMMARY:🟢 — HALF OFF Friday Evening Drop In — 12 in · 28 left
+SUMMARY:🟡 — HALF OFF Friday Evening Drop In — 11 in · 29 left
 DESCRIPTION:#nosync\nFacility: Bash\nSession: HALF OFF Friday Evening Drop 
- In\nEnrollment: 12 in · 28 left\nStatus: Good enrollment\nLast changed: W
- ed Jun 24\, 11:01 AM EDT\nBooking: https://app.courtreserve.com/Online/Pub
- licBookings/11620/services/reserve?tab=explore&startdate=2026-06-24&date=2
- 026-06-26&step=review&eventId=1268376&reservationId=55554981&source=widget
+ In\nEnrollment: 11 in · 29 left\nStatus: Low enrollment\nLast changed: We
+ d Jun 24\, 9:12 PM EDT\nBooking: https://app.courtreserve.com/Online/Publi
+ cBookings/11620/services/reserve?tab=explore&startdate=2026-06-25&date=202
+ 6-06-26&step=review&eventId=1268376&reservationId=55554981&source=widget
 URL:https://app.courtreserve.com/Online/PublicBookings/11620/services/reser
- ve?tab=explore&startdate=2026-06-24&date=2026-06-26&step=review&eventId=12
+ ve?tab=explore&startdate=2026-06-25&date=2026-06-26&step=review&eventId=12
  68376&reservationId=55554981&source=widget
 X-HERMES-BOOKING-URL:https://app.courtreserve.com/Online/PublicBookings/116
- 20/services/reserve?tab=explore&startdate=2026-06-24&date=2026-06-26&step=
+ 20/services/reserve?tab=explore&startdate=2026-06-25&date=2026-06-26&step=
  review&eventId=1268376&reservationId=55554981&source=widget
 LOCATION:Bash Pickleball Club\, Warren\, MI
 CATEGORIES:Bash
@@ -693,14 +653,14 @@ SUMMARY:🟢 — HALF OFF Saturday Morning Drop In-Play — 20 in · 20 lef
 DESCRIPTION:#nosync\nFacility: Bash\nSession: HALF OFF Saturday Morning Dro
  p In-Play\nEnrollment: 20 in · 20 left\nStatus: Good enrollment\nLast cha
  nged: Wed Jun 24\, 5:07 PM EDT\nBooking: https://app.courtreserve.com/Onli
- ne/PublicBookings/11620/services/reserve?tab=explore&startdate=2026-06-24&
+ ne/PublicBookings/11620/services/reserve?tab=explore&startdate=2026-06-25&
  date=2026-06-27&step=review&eventId=1017565&reservationId=55555284&source=
  widget
 URL:https://app.courtreserve.com/Online/PublicBookings/11620/services/reser
- ve?tab=explore&startdate=2026-06-24&date=2026-06-27&step=review&eventId=10
+ ve?tab=explore&startdate=2026-06-25&date=2026-06-27&step=review&eventId=10
  17565&reservationId=55555284&source=widget
 X-HERMES-BOOKING-URL:https://app.courtreserve.com/Online/PublicBookings/116
- 20/services/reserve?tab=explore&startdate=2026-06-24&date=2026-06-27&step=
+ 20/services/reserve?tab=explore&startdate=2026-06-25&date=2026-06-27&step=
  review&eventId=1017565&reservationId=55555284&source=widget
 LOCATION:Bash Pickleball Club\, Warren\, MI
 CATEGORIES:Bash
@@ -731,10 +691,10 @@ UID:pickleball-picklerage-20260627T0800-79552df1e7@derekcroft.github.io
 DTSTAMP:20000101T000000Z
 DTSTART;TZID=America/Detroit:20260627T080000
 DTEND;TZID=America/Detroit:20260627T110000
-SUMMARY:🟢 — Advanced - Intermediate Open Play — 16 in · 16 left
+SUMMARY:🟢 — Advanced - Intermediate Open Play — 19 in · 13 left
 DESCRIPTION:#nosync\nFacility: Pickle Rage\nSession: Advanced - Intermediat
- e Open Play\nEnrollment: 16 in · 16 left\nStatus: Good enrollment\nLast c
- hanged: Wed Jun 24\, 7:09 PM EDT\nBooking: https://app.courtreserve.com/On
+ e Open Play\nEnrollment: 19 in · 13 left\nStatus: Good enrollment\nLast c
+ hanged: Wed Jun 24\, 9:12 PM EDT\nBooking: https://app.courtreserve.com/On
  line/PublicBookings/12016/services/reserve?tab=explore&startdate=2026-06-2
  7&date=2026-06-27&step=review&eventId=1812236&reservationId=51713974&sourc
  e=widget
@@ -825,14 +785,14 @@ SUMMARY:🟡 — HALF OFF Saturday Afternoon Drop In-Play — 0 in · 40 le
 DESCRIPTION:#nosync\nFacility: Bash\nSession: HALF OFF Saturday Afternoon D
  rop In-Play\nEnrollment: 0 in · 40 left\nStatus: Low enrollment\nLast cha
  nged: Tue Jun 23\, 12:26 AM EDT\nBooking: https://app.courtreserve.com/Onl
- ine/PublicBookings/11620/services/reserve?tab=explore&startdate=2026-06-24
+ ine/PublicBookings/11620/services/reserve?tab=explore&startdate=2026-06-25
  &date=2026-06-27&step=review&eventId=1404077&reservationId=55555312&source
  =widget
 URL:https://app.courtreserve.com/Online/PublicBookings/11620/services/reser
- ve?tab=explore&startdate=2026-06-24&date=2026-06-27&step=review&eventId=14
+ ve?tab=explore&startdate=2026-06-25&date=2026-06-27&step=review&eventId=14
  04077&reservationId=55555312&source=widget
 X-HERMES-BOOKING-URL:https://app.courtreserve.com/Online/PublicBookings/116
- 20/services/reserve?tab=explore&startdate=2026-06-24&date=2026-06-27&step=
+ 20/services/reserve?tab=explore&startdate=2026-06-25&date=2026-06-27&step=
  review&eventId=1404077&reservationId=55555312&source=widget
 LOCATION:Bash Pickleball Club\, Warren\, MI
 CATEGORIES:Bash
@@ -889,13 +849,13 @@ SUMMARY:🟡 — $5 Saturday Evening Drop In — 0 in · 40 left
 DESCRIPTION:#nosync\nFacility: Bash\nSession: $5 Saturday Evening Drop In\n
  Enrollment: 0 in · 40 left\nStatus: Low enrollment\nLast changed: Tue Jun
   23\, 12:26 AM EDT\nBooking: https://app.courtreserve.com/Online/PublicBoo
- kings/11620/services/reserve?tab=explore&startdate=2026-06-24&date=2026-06
+ kings/11620/services/reserve?tab=explore&startdate=2026-06-25&date=2026-06
  -27&step=review&eventId=1729825&reservationId=55555373&source=widget
 URL:https://app.courtreserve.com/Online/PublicBookings/11620/services/reser
- ve?tab=explore&startdate=2026-06-24&date=2026-06-27&step=review&eventId=17
+ ve?tab=explore&startdate=2026-06-25&date=2026-06-27&step=review&eventId=17
  29825&reservationId=55555373&source=widget
 X-HERMES-BOOKING-URL:https://app.courtreserve.com/Online/PublicBookings/116
- 20/services/reserve?tab=explore&startdate=2026-06-24&date=2026-06-27&step=
+ 20/services/reserve?tab=explore&startdate=2026-06-25&date=2026-06-27&step=
  review&eventId=1729825&reservationId=55555373&source=widget
 LOCATION:Bash Pickleball Club\, Warren\, MI
 CATEGORIES:Bash
@@ -952,14 +912,14 @@ SUMMARY:🟡 — HALF OFF Sunday Morning Drop In-Play — 0 in · 40 left
 DESCRIPTION:#nosync\nFacility: Bash\nSession: HALF OFF Sunday Morning Drop 
  In-Play\nEnrollment: 0 in · 40 left\nStatus: Low enrollment\nLast changed
  : Wed Jun 24\, 12:50 AM EDT\nBooking: https://app.courtreserve.com/Online/
- PublicBookings/11620/services/reserve?tab=explore&startdate=2026-06-24&dat
+ PublicBookings/11620/services/reserve?tab=explore&startdate=2026-06-25&dat
  e=2026-06-28&step=review&eventId=1017931&reservationId=29157898&source=wid
  get
 URL:https://app.courtreserve.com/Online/PublicBookings/11620/services/reser
- ve?tab=explore&startdate=2026-06-24&date=2026-06-28&step=review&eventId=10
+ ve?tab=explore&startdate=2026-06-25&date=2026-06-28&step=review&eventId=10
  17931&reservationId=29157898&source=widget
 X-HERMES-BOOKING-URL:https://app.courtreserve.com/Online/PublicBookings/116
- 20/services/reserve?tab=explore&startdate=2026-06-24&date=2026-06-28&step=
+ 20/services/reserve?tab=explore&startdate=2026-06-25&date=2026-06-28&step=
  review&eventId=1017931&reservationId=29157898&source=widget
 LOCATION:Bash Pickleball Club\, Warren\, MI
 CATEGORIES:Bash
@@ -1067,14 +1027,14 @@ SUMMARY:🟡 — HALF OFF Sunday Afternoon Drop In-Play — 0 in · 40 left
 DESCRIPTION:#nosync\nFacility: Bash\nSession: HALF OFF Sunday Afternoon Dro
  p In-Play\nEnrollment: 0 in · 40 left\nStatus: Low enrollment\nLast chang
  ed: Wed Jun 24\, 12:50 AM EDT\nBooking: https://app.courtreserve.com/Onlin
- e/PublicBookings/11620/services/reserve?tab=explore&startdate=2026-06-24&d
+ e/PublicBookings/11620/services/reserve?tab=explore&startdate=2026-06-25&d
  ate=2026-06-28&step=review&eventId=1449006&reservationId=39161639&source=w
  idget
 URL:https://app.courtreserve.com/Online/PublicBookings/11620/services/reser
- ve?tab=explore&startdate=2026-06-24&date=2026-06-28&step=review&eventId=14
+ ve?tab=explore&startdate=2026-06-25&date=2026-06-28&step=review&eventId=14
  49006&reservationId=39161639&source=widget
 X-HERMES-BOOKING-URL:https://app.courtreserve.com/Online/PublicBookings/116
- 20/services/reserve?tab=explore&startdate=2026-06-24&date=2026-06-28&step=
+ 20/services/reserve?tab=explore&startdate=2026-06-25&date=2026-06-28&step=
  review&eventId=1449006&reservationId=39161639&source=widget
 LOCATION:Bash Pickleball Club\, Warren\, MI
 CATEGORIES:Bash
@@ -1104,40 +1064,21 @@ X-HERMES-FACILITY:Pickle Rage
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:pickleball-paddleandpar-20260628T1800-71f8813ffe@derekcroft.github.io
-DTSTAMP:20000101T000000Z
-DTSTART;TZID=America/Detroit:20260628T180000
-DTEND;TZID=America/Detroit:20260628T210000
-SUMMARY:🔴 — Evening Open Play — 26 in · waitlist
-DESCRIPTION:#nosync\nFacility: Paddle & Par\nSession: Evening Open Play\nEn
- rollment: 26 in · waitlist\nStatus: Waitlist\nLast changed: Wed Jun 24\, 
- 7:09 PM EDT\nBooking: https://paddleandpar.podplay.app/community/events/01
- 9e6530-b686-7770-aff4-b52588d9d048
-URL:https://paddleandpar.podplay.app/community/events/019e6530-b686-7770-af
- f4-b52588d9d048
-X-HERMES-BOOKING-URL:https://paddleandpar.podplay.app/community/events/019e
- 6530-b686-7770-aff4-b52588d9d048
-LOCATION:Paddle & Par\, Beverly Hills\, MI
-CATEGORIES:Paddle & Par
-X-HERMES-FACILITY:Paddle & Par
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:pickleball-bashpickleball-20260628T1900-03df291afc@derekcroft.github.io
 DTSTAMP:20000101T000000Z
 DTSTART;TZID=America/Detroit:20260628T190000
 DTEND;TZID=America/Detroit:20260628T220000
-SUMMARY:🟡 — $5 Sunday Evening Drop In — 0 in · 40 left
+SUMMARY:🟡 — $5 Sunday Evening Drop In — 1 in · 39 left
 DESCRIPTION:#nosync\nFacility: Bash\nSession: $5 Sunday Evening Drop In\nEn
- rollment: 0 in · 40 left\nStatus: Low enrollment\nLast changed: Wed Jun 2
- 4\, 12:50 AM EDT\nBooking: https://app.courtreserve.com/Online/PublicBooki
- ngs/11620/services/reserve?tab=explore&startdate=2026-06-24&date=2026-06-2
- 8&step=review&eventId=1030981&reservationId=29277925&source=widget
+ rollment: 1 in · 39 left\nStatus: Low enrollment\nLast changed: Wed Jun 2
+ 4\, 9:12 PM EDT\nBooking: https://app.courtreserve.com/Online/PublicBookin
+ gs/11620/services/reserve?tab=explore&startdate=2026-06-25&date=2026-06-28
+ &step=review&eventId=1030981&reservationId=29277925&source=widget
 URL:https://app.courtreserve.com/Online/PublicBookings/11620/services/reser
- ve?tab=explore&startdate=2026-06-24&date=2026-06-28&step=review&eventId=10
+ ve?tab=explore&startdate=2026-06-25&date=2026-06-28&step=review&eventId=10
  30981&reservationId=29277925&source=widget
 X-HERMES-BOOKING-URL:https://app.courtreserve.com/Online/PublicBookings/116
- 20/services/reserve?tab=explore&startdate=2026-06-24&date=2026-06-28&step=
+ 20/services/reserve?tab=explore&startdate=2026-06-25&date=2026-06-28&step=
  review&eventId=1030981&reservationId=29277925&source=widget
 LOCATION:Bash Pickleball Club\, Warren\, MI
 CATEGORIES:Bash
