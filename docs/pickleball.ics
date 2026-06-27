@@ -45,25 +45,6 @@ X-HERMES-FACILITY:Greystone
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:pickleball-paddleandpar-20260627T2000-ed80b547ee@derekcroft.github.io
-DTSTAMP:20000101T000000Z
-DTSTART;TZID=America/Detroit:20260627T200000
-DTEND;TZID=America/Detroit:20260627T223000
-SUMMARY:🟡 — Late Night Open Play Special — 4 in · 8 left
-DESCRIPTION:#nosync\nFacility: Paddle & Par\nSession: Late Night Open Play 
- Special\nEnrollment: 4 in · 8 left\nStatus: Low enrollment\nLast changed:
-  Sat Jun 27\, 5:09 PM EDT\nBooking: https://paddleandpar.podplay.app/commu
- nity/events/019e6532-c947-7998-84e0-77f25b09d533
-URL:https://paddleandpar.podplay.app/community/events/019e6532-c947-7998-84
- e0-77f25b09d533
-X-HERMES-BOOKING-URL:https://paddleandpar.podplay.app/community/events/019e
- 6532-c947-7998-84e0-77f25b09d533
-LOCATION:Paddle & Par\, Beverly Hills\, MI
-CATEGORIES:Paddle & Par
-X-HERMES-FACILITY:Paddle & Par
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:pickleball-picklerage-20260627T2000-19d9a427f0@derekcroft.github.io
 DTSTAMP:20000101T000000Z
 DTSTART;TZID=America/Detroit:20260627T200000
@@ -113,11 +94,11 @@ UID:pickleball-paddleandpar-20260628T0800-ade8ac8ca6@derekcroft.github.io
 DTSTAMP:20000101T000000Z
 DTSTART;TZID=America/Detroit:20260628T080000
 DTEND;TZID=America/Detroit:20260628T110000
-SUMMARY:🟡 — Morning Open Play — 10 in · 14 left
+SUMMARY:🟢 — Morning Open Play — 13 in · 11 left
 DESCRIPTION:#nosync\nFacility: Paddle & Par\nSession: Morning Open Play\nEn
- rollment: 10 in · 14 left\nStatus: Low enrollment\nLast changed: Sat Jun 
- 27\, 1:04 PM EDT\nBooking: https://paddleandpar.podplay.app/community/even
- ts/019e6533-ae84-7770-b005-628815329f75
+ rollment: 13 in · 11 left\nStatus: Good enrollment\nLast changed: Sat Jun
+  27\, 7:11 PM EDT\nBooking: https://paddleandpar.podplay.app/community/eve
+ nts/019e6533-ae84-7770-b005-628815329f75
 URL:https://paddleandpar.podplay.app/community/events/019e6533-ae84-7770-b0
  05-628815329f75
 X-HERMES-BOOKING-URL:https://paddleandpar.podplay.app/community/events/019e
@@ -132,10 +113,10 @@ UID:pickleball-picklerage-20260628T0800-b97ace8af4@derekcroft.github.io
 DTSTAMP:20000101T000000Z
 DTSTART;TZID=America/Detroit:20260628T080000
 DTEND;TZID=America/Detroit:20260628T110000
-SUMMARY:🟢 — Advanced - Intermediate Open Play — 17 in · 15 left
+SUMMARY:🟢 — Advanced - Intermediate Open Play — 16 in · 16 left
 DESCRIPTION:#nosync\nFacility: Pickle Rage\nSession: Advanced - Intermediat
- e Open Play\nEnrollment: 17 in · 15 left\nStatus: Good enrollment\nLast c
- hanged: Sat Jun 27\, 5:09 PM EDT\nBooking: https://app.courtreserve.com/On
+ e Open Play\nEnrollment: 16 in · 16 left\nStatus: Good enrollment\nLast c
+ hanged: Sat Jun 27\, 7:11 PM EDT\nBooking: https://app.courtreserve.com/On
  line/PublicBookings/12016/services/reserve?tab=explore&startdate=2026-06-2
  8&date=2026-06-28&step=review&eventId=1527569&reservationId=51715164&sourc
  e=widget
@@ -310,13 +291,13 @@ UID:pickleball-bashpickleball-20260629T0800-3a642a2019@derekcroft.github.io
 DTSTAMP:20000101T000000Z
 DTSTART;TZID=America/Detroit:20260629T080000
 DTEND;TZID=America/Detroit:20260629T110000
-SUMMARY:🟢 — HALF OFF Monday Morning Drop In-Play — 22 in · 38 left
+SUMMARY:🟢 — HALF OFF Monday Morning Drop In-Play — 23 in · 37 left
 DESCRIPTION:#nosync\nFacility: Bash\nSession: HALF OFF Monday Morning Drop 
- In-Play\nEnrollment: 22 in · 38 left\nStatus: Good enrollment\nLast chang
- ed: Sat Jun 27\, 11:02 AM EDT\nBooking: https://app.courtreserve.com/Onlin
- e/PublicBookings/11620/services/reserve?tab=explore&startdate=2026-06-27&d
- ate=2026-06-29&step=review&eventId=1031017&reservationId=29279037&source=w
- idget
+ In-Play\nEnrollment: 23 in · 37 left\nStatus: Good enrollment\nLast chang
+ ed: Sat Jun 27\, 7:11 PM EDT\nBooking: https://app.courtreserve.com/Online
+ /PublicBookings/11620/services/reserve?tab=explore&startdate=2026-06-27&da
+ te=2026-06-29&step=review&eventId=1031017&reservationId=29279037&source=wi
+ dget
 URL:https://app.courtreserve.com/Online/PublicBookings/11620/services/reser
  ve?tab=explore&startdate=2026-06-27&date=2026-06-29&step=review&eventId=10
  31017&reservationId=29279037&source=widget
@@ -501,10 +482,10 @@ UID:pickleball-bashpickleball-20260629T2000-67d56dd372@derekcroft.github.io
 DTSTAMP:20000101T000000Z
 DTSTART;TZID=America/Detroit:20260629T200000
 DTEND;TZID=America/Detroit:20260629T230000
-SUMMARY:🟢 — HALF OFF Monday Evening Drop In — 16 in · 24 left
+SUMMARY:🟢 — HALF OFF Monday Evening Drop In — 18 in · 22 left
 DESCRIPTION:#nosync\nFacility: Bash\nSession: HALF OFF Monday Evening Drop 
- In\nEnrollment: 16 in · 24 left\nStatus: Good enrollment\nLast changed: S
- at Jun 27\, 5:09 PM EDT\nBooking: https://app.courtreserve.com/Online/Publ
+ In\nEnrollment: 18 in · 22 left\nStatus: Good enrollment\nLast changed: S
+ at Jun 27\, 7:11 PM EDT\nBooking: https://app.courtreserve.com/Online/Publ
  icBookings/11620/services/reserve?tab=explore&startdate=2026-06-27&date=20
  26-06-29&step=review&eventId=1190147&reservationId=32783340&source=widget
 URL:https://app.courtreserve.com/Online/PublicBookings/11620/services/reser
@@ -766,10 +747,10 @@ UID:pickleball-picklerage-20260630T1700-5208b6145c@derekcroft.github.io
 DTSTAMP:20000101T000000Z
 DTSTART;TZID=America/Detroit:20260630T170000
 DTEND;TZID=America/Detroit:20260630T200000
-SUMMARY:🟡 — Evening Open Play — 3 in · 21 left
+SUMMARY:🟡 — Evening Open Play — 7 in · 17 left
 DESCRIPTION:#nosync\nFacility: Pickle Rage\nSession: Evening Open Play\nEnr
- ollment: 3 in · 21 left\nStatus: Low enrollment\nLast changed: Sat Jun 27
- \, 5:09 PM EDT\nBooking: https://app.courtreserve.com/Online/PublicBooking
+ ollment: 7 in · 17 left\nStatus: Low enrollment\nLast changed: Sat Jun 27
+ \, 7:11 PM EDT\nBooking: https://app.courtreserve.com/Online/PublicBooking
  s/12016/services/reserve?tab=explore&startdate=2026-06-30&date=2026-06-30&
  step=review&eventId=2004144&reservationId=51713383&source=widget
 URL:https://app.courtreserve.com/Online/PublicBookings/12016/services/reser
@@ -788,11 +769,11 @@ UID:pickleball-paddleandpar-20260630T1900-ac79339b96@derekcroft.github.io
 DTSTAMP:20000101T000000Z
 DTSTART;TZID=America/Detroit:20260630T190000
 DTEND;TZID=America/Detroit:20260630T220000
-SUMMARY:🟡 — Late Night Open Play — 8 in · 16 left
+SUMMARY:🟡 — Late Night Open Play — 10 in · 14 left
 DESCRIPTION:#nosync\nFacility: Paddle & Par\nSession: Late Night Open Play\
- nEnrollment: 8 in · 16 left\nStatus: Low enrollment\nLast changed: Sat Ju
- n 27\, 5:09 PM EDT\nBooking: https://paddleandpar.podplay.app/community/ev
- ents/019e6528-d74a-7998-84b8-8b886c8c3f5d
+ nEnrollment: 10 in · 14 left\nStatus: Low enrollment\nLast changed: Sat J
+ un 27\, 7:11 PM EDT\nBooking: https://paddleandpar.podplay.app/community/e
+ vents/019e6528-d74a-7998-84b8-8b886c8c3f5d
 URL:https://paddleandpar.podplay.app/community/events/019e6528-d74a-7998-84
  b8-8b886c8c3f5d
 X-HERMES-BOOKING-URL:https://paddleandpar.podplay.app/community/events/019e
@@ -825,12 +806,12 @@ UID:pickleball-bashpickleball-20260630T2000-4e6ba14988@derekcroft.github.io
 DTSTAMP:20000101T000000Z
 DTSTART;TZID=America/Detroit:20260630T200000
 DTEND;TZID=America/Detroit:20260630T230000
-SUMMARY:🟡 — HALF OFF Tuesday Evening Drop In — 8 in · 32 left
+SUMMARY:🟡 — HALF OFF Tuesday Evening Drop In — 10 in · 30 left
 DESCRIPTION:#nosync\nFacility: Bash\nSession: HALF OFF Tuesday Evening Drop
-  In\nEnrollment: 8 in · 32 left\nStatus: Low enrollment\nLast changed: Fr
- i Jun 26\, 2:40 PM EDT\nBooking: https://app.courtreserve.com/Online/Publi
- cBookings/11620/services/reserve?tab=explore&startdate=2026-06-27&date=202
- 6-06-30&step=review&eventId=1190149&reservationId=32784462&source=widget
+  In\nEnrollment: 10 in · 30 left\nStatus: Low enrollment\nLast changed: S
+ at Jun 27\, 7:11 PM EDT\nBooking: https://app.courtreserve.com/Online/Publ
+ icBookings/11620/services/reserve?tab=explore&startdate=2026-06-27&date=20
+ 26-06-30&step=review&eventId=1190149&reservationId=32784462&source=widget
 URL:https://app.courtreserve.com/Online/PublicBookings/11620/services/reser
  ve?tab=explore&startdate=2026-06-27&date=2026-06-30&step=review&eventId=11
  90149&reservationId=32784462&source=widget
@@ -1066,10 +1047,10 @@ UID:pickleball-bashpickleball-20260701T2000-11129f0f1d@derekcroft.github.io
 DTSTAMP:20000101T000000Z
 DTSTART;TZID=America/Detroit:20260701T200000
 DTEND;TZID=America/Detroit:20260701T230000
-SUMMARY:🟡 — HALF OFF Wednesday Evening Drop In — 9 in · 31 left
+SUMMARY:🟡 — HALF OFF Wednesday Evening Drop In — 10 in · 30 left
 DESCRIPTION:#nosync\nFacility: Bash\nSession: HALF OFF Wednesday Evening Dr
- op In\nEnrollment: 9 in · 31 left\nStatus: Low enrollment\nLast changed: 
- Sat Jun 27\, 12:51 AM EDT\nBooking: https://app.courtreserve.com/Online/Pu
+ op In\nEnrollment: 10 in · 30 left\nStatus: Low enrollment\nLast changed:
+  Sat Jun 27\, 7:11 PM EDT\nBooking: https://app.courtreserve.com/Online/Pu
  blicBookings/11620/services/reserve?tab=explore&startdate=2026-06-27&date=
  2026-07-01&step=review&eventId=1190152&reservationId=32784661&source=widge
  t
@@ -1082,25 +1063,6 @@ X-HERMES-BOOKING-URL:https://app.courtreserve.com/Online/PublicBookings/116
 LOCATION:Bash Pickleball Club\, Warren\, MI
 CATEGORIES:Bash
 X-HERMES-FACILITY:Bash
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:pickleball-paddleandpar-20260701T2000-ad21eee86a@derekcroft.github.io
-DTSTAMP:20000101T000000Z
-DTSTART;TZID=America/Detroit:20260701T200000
-DTEND;TZID=America/Detroit:20260701T223000
-SUMMARY:🟡 — Late Night Open Play Special — 4 in · 8 left
-DESCRIPTION:#nosync\nFacility: Paddle & Par\nSession: Late Night Open Play 
- Special\nEnrollment: 4 in · 8 left\nStatus: Low enrollment\nLast changed:
-  Sat Jun 27\, 5:09 PM EDT\nBooking: https://paddleandpar.podplay.app/commu
- nity/events/019e6532-c947-7998-84e0-77f25b09d533
-URL:https://paddleandpar.podplay.app/community/events/019e6532-c947-7998-84
- e0-77f25b09d533
-X-HERMES-BOOKING-URL:https://paddleandpar.podplay.app/community/events/019e
- 6532-c947-7998-84e0-77f25b09d533
-LOCATION:Paddle & Par\, Beverly Hills\, MI
-CATEGORIES:Paddle & Par
-X-HERMES-FACILITY:Paddle & Par
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
