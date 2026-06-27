@@ -49,14 +49,14 @@ UID:pickleball-bashpickleball-20260627T0800-7b468c676d@derekcroft.github.io
 DTSTAMP:20000101T000000Z
 DTSTART;TZID=America/Detroit:20260627T080000
 DTEND;TZID=America/Detroit:20260627T110000
-SUMMARY:🟢 — HALF OFF Saturday Morning Drop In-Play — 27 in · 33 lef
+SUMMARY:🟢 — HALF OFF Saturday Morning Drop In-Play — 26 in · 34 lef
  t
 DESCRIPTION:#nosync\nFacility: Bash\nSession: HALF OFF Saturday Morning Dro
- p In-Play\nEnrollment: 27 in · 33 left\nStatus: Good enrollment\nLast cha
- nged: Fri Jun 26\, 8:46 PM EDT\nBooking: https://app.courtreserve.com/Onli
- ne/PublicBookings/11620/services/reserve?tab=explore&startdate=2026-06-27&
- date=2026-06-27&step=review&eventId=1017565&reservationId=55555284&source=
- widget
+ p In-Play\nEnrollment: 26 in · 34 left\nStatus: Good enrollment\nLast cha
+ nged: Sat Jun 27\, 12:51 AM EDT\nBooking: https://app.courtreserve.com/Onl
+ ine/PublicBookings/11620/services/reserve?tab=explore&startdate=2026-06-27
+ &date=2026-06-27&step=review&eventId=1017565&reservationId=55555284&source
+ =widget
 URL:https://app.courtreserve.com/Online/PublicBookings/11620/services/reser
  ve?tab=explore&startdate=2026-06-27&date=2026-06-27&step=review&eventId=10
  17565&reservationId=55555284&source=widget
@@ -801,6 +801,25 @@ X-HERMES-FACILITY:Bash
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:pickleball-paddleandpar-20260630T0800-5dad74af35@derekcroft.github.io
+DTSTAMP:20000101T000000Z
+DTSTART;TZID=America/Detroit:20260630T080000
+DTEND;TZID=America/Detroit:20260630T100000
+SUMMARY:🟡 — Morning Open Play Special — 0 in · 24 left
+DESCRIPTION:#nosync\nFacility: Paddle & Par\nSession: Morning Open Play Spe
+ cial\nEnrollment: 0 in · 24 left\nStatus: Low enrollment\nLast changed: S
+ at Jun 27\, 12:51 AM EDT\nBooking: https://paddleandpar.podplay.app/commun
+ ity/events/019e64b3-dd23-766d-b192-8d8da9172193
+URL:https://paddleandpar.podplay.app/community/events/019e64b3-dd23-766d-b1
+ 92-8d8da9172193
+X-HERMES-BOOKING-URL:https://paddleandpar.podplay.app/community/events/019e
+ 64b3-dd23-766d-b192-8d8da9172193
+LOCATION:Paddle & Par\, Beverly Hills\, MI
+CATEGORIES:Paddle & Par
+X-HERMES-FACILITY:Paddle & Par
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:pickleball-picklerage-20260630T0800-577c8c4b0c@derekcroft.github.io
 DTSTAMP:20000101T000000Z
 DTSTART;TZID=America/Detroit:20260630T080000
@@ -866,6 +885,25 @@ X-HERMES-BOOKING-URL:https://app.courtreserve.com/Online/PublicBookings/120
 LOCATION:Pickle Rage\, West Bloomfield\, MI
 CATEGORIES:Pickle Rage
 X-HERMES-FACILITY:Pickle Rage
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:pickleball-paddleandpar-20260630T1300-5a2b5824d5@derekcroft.github.io
+DTSTAMP:20000101T000000Z
+DTSTART;TZID=America/Detroit:20260630T130000
+DTEND;TZID=America/Detroit:20260630T160000
+SUMMARY:🟡 — Mid-Day Open Play Special — 0 in · 28 left
+DESCRIPTION:#nosync\nFacility: Paddle & Par\nSession: Mid-Day Open Play Spe
+ cial\nEnrollment: 0 in · 28 left\nStatus: Low enrollment\nLast changed: S
+ at Jun 27\, 12:51 AM EDT\nBooking: https://paddleandpar.podplay.app/commun
+ ity/events/019e69ad-43fc-7770-b1b2-eead087e3605
+URL:https://paddleandpar.podplay.app/community/events/019e69ad-43fc-7770-b1
+ b2-eead087e3605
+X-HERMES-BOOKING-URL:https://paddleandpar.podplay.app/community/events/019e
+ 69ad-43fc-7770-b1b2-eead087e3605
+LOCATION:Paddle & Par\, Beverly Hills\, MI
+CATEGORIES:Paddle & Par
+X-HERMES-FACILITY:Paddle & Par
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -983,6 +1021,25 @@ X-HERMES-FACILITY:Pickle Rage
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:pickleball-paddleandpar-20260630T1900-ac79339b96@derekcroft.github.io
+DTSTAMP:20000101T000000Z
+DTSTART;TZID=America/Detroit:20260630T190000
+DTEND;TZID=America/Detroit:20260630T220000
+SUMMARY:🟡 — Late Night Open Play — 5 in · 19 left
+DESCRIPTION:#nosync\nFacility: Paddle & Par\nSession: Late Night Open Play\
+ nEnrollment: 5 in · 19 left\nStatus: Low enrollment\nLast changed: Sat Ju
+ n 27\, 12:51 AM EDT\nBooking: https://paddleandpar.podplay.app/community/e
+ vents/019e6528-d74a-7998-84b8-8b886c8c3f5d
+URL:https://paddleandpar.podplay.app/community/events/019e6528-d74a-7998-84
+ b8-8b886c8c3f5d
+X-HERMES-BOOKING-URL:https://paddleandpar.podplay.app/community/events/019e
+ 6528-d74a-7998-84b8-8b886c8c3f5d
+LOCATION:Paddle & Par\, Beverly Hills\, MI
+CATEGORIES:Paddle & Par
+X-HERMES-FACILITY:Paddle & Par
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:pickleball-greystone-20260630T1930-4ab6781e3c@derekcroft.github.io
 DTSTAMP:20000101T000000Z
 DTSTART;TZID=America/Detroit:20260630T193000
@@ -1039,6 +1096,324 @@ URL:https://app.courtreserve.com/Online/PublicBookings/12016/services/reser
 X-HERMES-BOOKING-URL:https://app.courtreserve.com/Online/PublicBookings/120
  16/services/reserve?tab=explore&startdate=2026-06-30&date=2026-06-30&step=
  review&eventId=1961625&reservationId=50334382&source=widget
+LOCATION:Pickle Rage\, West Bloomfield\, MI
+CATEGORIES:Pickle Rage
+X-HERMES-FACILITY:Pickle Rage
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:pickleball-bashpickleball-20260701T0800-a35ee2d78f@derekcroft.github.io
+DTSTAMP:20000101T000000Z
+DTSTART;TZID=America/Detroit:20260701T080000
+DTEND;TZID=America/Detroit:20260701T110000
+SUMMARY:🟢 — HALF OFF Wednesday Morning Drop In-Play — 13 in · 47 le
+ ft
+DESCRIPTION:#nosync\nFacility: Bash\nSession: HALF OFF Wednesday Morning Dr
+ op In-Play\nEnrollment: 13 in · 47 left\nStatus: Good enrollment\nLast ch
+ anged: Sat Jun 27\, 12:51 AM EDT\nBooking: https://app.courtreserve.com/On
+ line/PublicBookings/11620/services/reserve?tab=explore&startdate=2026-06-2
+ 7&date=2026-07-01&step=review&eventId=1032761&reservationId=29336807&sourc
+ e=widget
+URL:https://app.courtreserve.com/Online/PublicBookings/11620/services/reser
+ ve?tab=explore&startdate=2026-06-27&date=2026-07-01&step=review&eventId=10
+ 32761&reservationId=29336807&source=widget
+X-HERMES-BOOKING-URL:https://app.courtreserve.com/Online/PublicBookings/116
+ 20/services/reserve?tab=explore&startdate=2026-06-27&date=2026-07-01&step=
+ review&eventId=1032761&reservationId=29336807&source=widget
+LOCATION:Bash Pickleball Club\, Warren\, MI
+CATEGORIES:Bash
+X-HERMES-FACILITY:Bash
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:pickleball-paddleandpar-20260701T0800-2ce4a73149@derekcroft.github.io
+DTSTAMP:20000101T000000Z
+DTSTART;TZID=America/Detroit:20260701T080000
+DTEND;TZID=America/Detroit:20260701T110000
+SUMMARY:🟡 — Morning Open Play — 8 in · 16 left
+DESCRIPTION:#nosync\nFacility: Paddle & Par\nSession: Morning Open Play\nEn
+ rollment: 8 in · 16 left\nStatus: Low enrollment\nLast changed: Sat Jun 2
+ 7\, 12:51 AM EDT\nBooking: https://paddleandpar.podplay.app/community/even
+ ts/019e6533-acd7-7770-b003-6e02a6eaf2cb
+URL:https://paddleandpar.podplay.app/community/events/019e6533-acd7-7770-b0
+ 03-6e02a6eaf2cb
+X-HERMES-BOOKING-URL:https://paddleandpar.podplay.app/community/events/019e
+ 6533-acd7-7770-b003-6e02a6eaf2cb
+LOCATION:Paddle & Par\, Beverly Hills\, MI
+CATEGORIES:Paddle & Par
+X-HERMES-FACILITY:Paddle & Par
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:pickleball-picklerage-20260701T0800-14494b3f10@derekcroft.github.io
+DTSTAMP:20000101T000000Z
+DTSTART;TZID=America/Detroit:20260701T080000
+DTEND;TZID=America/Detroit:20260701T110000
+SUMMARY:🟡 — AM Open Play — 0 in · 32 left
+DESCRIPTION:#nosync\nFacility: Pickle Rage\nSession: AM Open Play\nEnrollme
+ nt: 0 in · 32 left\nStatus: Low enrollment\nLast changed: Sat Jun 27\, 12
+ :51 AM EDT\nBooking: https://app.courtreserve.com/Online/PublicBookings/12
+ 016/services/reserve?tab=explore&startdate=2026-07-01&date=2026-07-01&step
+ =review&eventId=2110101&reservationId=55064963&source=widget
+URL:https://app.courtreserve.com/Online/PublicBookings/12016/services/reser
+ ve?tab=explore&startdate=2026-07-01&date=2026-07-01&step=review&eventId=21
+ 10101&reservationId=55064963&source=widget
+X-HERMES-BOOKING-URL:https://app.courtreserve.com/Online/PublicBookings/120
+ 16/services/reserve?tab=explore&startdate=2026-07-01&date=2026-07-01&step=
+ review&eventId=2110101&reservationId=55064963&source=widget
+LOCATION:Pickle Rage\, West Bloomfield\, MI
+CATEGORIES:Pickle Rage
+X-HERMES-FACILITY:Pickle Rage
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:pickleball-greystone-20260701T0930-9c9e92c0e2@derekcroft.github.io
+DTSTAMP:20000101T000000Z
+DTSTART;TZID=America/Detroit:20260701T093000
+DTEND;TZID=America/Detroit:20260701T113000
+SUMMARY:🟡 — Make Your Move — 8 in · 8 left
+DESCRIPTION:#nosync\nFacility: Greystone\nSession: Make Your Move\nEnrollme
+ nt: 8 in · 8 left\nStatus: Low enrollment\nLast changed: Sat Jun 27\, 12:
+ 51 AM EDT\nBooking: https://greystone-pickleball.clubcloudapp.com/events/2
+ 597
+URL:https://greystone-pickleball.clubcloudapp.com/events/2597
+X-HERMES-BOOKING-URL:https://greystone-pickleball.clubcloudapp.com/events/2
+ 597
+LOCATION:Greystone Pickleball Club\, Auburn Hills\, MI
+CATEGORIES:Greystone
+X-HERMES-FACILITY:Greystone
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:pickleball-bashpickleball-20260701T1100-7a43a4a4ce@derekcroft.github.io
+DTSTAMP:20000101T000000Z
+DTSTART;TZID=America/Detroit:20260701T110000
+DTEND;TZID=America/Detroit:20260701T140000
+SUMMARY:🟡 — HALF OFF Wednesday Mid-Day Drop In-Play 11am-2pm — 0 in 
+ · 32 left
+DESCRIPTION:#nosync\nFacility: Bash\nSession: HALF OFF Wednesday Mid-Day Dr
+ op In-Play 11am-2pm\nEnrollment: 0 in · 32 left\nStatus: Low enrollment\n
+ Last changed: Sat Jun 27\, 12:51 AM EDT\nBooking: https://app.courtreserve
+ .com/Online/PublicBookings/11620/services/reserve?tab=explore&startdate=20
+ 26-06-27&date=2026-07-01&step=review&eventId=1661068&reservationId=4418710
+ 9&source=widget
+URL:https://app.courtreserve.com/Online/PublicBookings/11620/services/reser
+ ve?tab=explore&startdate=2026-06-27&date=2026-07-01&step=review&eventId=16
+ 61068&reservationId=44187109&source=widget
+X-HERMES-BOOKING-URL:https://app.courtreserve.com/Online/PublicBookings/116
+ 20/services/reserve?tab=explore&startdate=2026-06-27&date=2026-07-01&step=
+ review&eventId=1661068&reservationId=44187109&source=widget
+LOCATION:Bash Pickleball Club\, Warren\, MI
+CATEGORIES:Bash
+X-HERMES-FACILITY:Bash
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:pickleball-picklerage-20260701T1100-2799e346c8@derekcroft.github.io
+DTSTAMP:20000101T000000Z
+DTSTART;TZID=America/Detroit:20260701T110000
+DTEND;TZID=America/Detroit:20260701T150000
+SUMMARY:🟡 — Midday Mega Open Play  — 0 in · 32 left
+DESCRIPTION:#nosync\nFacility: Pickle Rage\nSession: Midday Mega Open Play 
+ \nEnrollment: 0 in · 32 left\nStatus: Low enrollment\nLast changed: Sat J
+ un 27\, 12:51 AM EDT\nBooking: https://app.courtreserve.com/Online/PublicB
+ ookings/12016/services/reserve?tab=explore&startdate=2026-07-01&date=2026-
+ 07-01&step=review&eventId=2004130&reservationId=51712938&source=widget
+URL:https://app.courtreserve.com/Online/PublicBookings/12016/services/reser
+ ve?tab=explore&startdate=2026-07-01&date=2026-07-01&step=review&eventId=20
+ 04130&reservationId=51712938&source=widget
+X-HERMES-BOOKING-URL:https://app.courtreserve.com/Online/PublicBookings/120
+ 16/services/reserve?tab=explore&startdate=2026-07-01&date=2026-07-01&step=
+ review&eventId=2004130&reservationId=51712938&source=widget
+LOCATION:Pickle Rage\, West Bloomfield\, MI
+CATEGORIES:Pickle Rage
+X-HERMES-FACILITY:Pickle Rage
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:pickleball-paddleandpar-20260701T1300-8bd48d34f6@derekcroft.github.io
+DTSTAMP:20000101T000000Z
+DTSTART;TZID=America/Detroit:20260701T130000
+DTEND;TZID=America/Detroit:20260701T160000
+SUMMARY:🟡 — Mid-Day Open Play — 0 in · 24 left
+DESCRIPTION:#nosync\nFacility: Paddle & Par\nSession: Mid-Day Open Play\nEn
+ rollment: 0 in · 24 left\nStatus: Low enrollment\nLast changed: Sat Jun 2
+ 7\, 12:51 AM EDT\nBooking: https://paddleandpar.podplay.app/community/even
+ ts/019e6535-14bd-7998-84ef-932b378e8143
+URL:https://paddleandpar.podplay.app/community/events/019e6535-14bd-7998-84
+ ef-932b378e8143
+X-HERMES-BOOKING-URL:https://paddleandpar.podplay.app/community/events/019e
+ 6535-14bd-7998-84ef-932b378e8143
+LOCATION:Paddle & Par\, Beverly Hills\, MI
+CATEGORIES:Paddle & Par
+X-HERMES-FACILITY:Paddle & Par
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:pickleball-bashpickleball-20260701T1400-3e304d8bad@derekcroft.github.io
+DTSTAMP:20000101T000000Z
+DTSTART;TZID=America/Detroit:20260701T140000
+DTEND;TZID=America/Detroit:20260701T170000
+SUMMARY:🟡 — HALF OFF Wednesday Mid-Day Drop In-Play — 0 in · 32 lef
+ t
+DESCRIPTION:#nosync\nFacility: Bash\nSession: HALF OFF Wednesday Mid-Day Dr
+ op In-Play\nEnrollment: 0 in · 32 left\nStatus: Low enrollment\nLast chan
+ ged: Sat Jun 27\, 12:51 AM EDT\nBooking: https://app.courtreserve.com/Onli
+ ne/PublicBookings/11620/services/reserve?tab=explore&startdate=2026-06-27&
+ date=2026-07-01&step=review&eventId=1404251&reservationId=37956739&source=
+ widget
+URL:https://app.courtreserve.com/Online/PublicBookings/11620/services/reser
+ ve?tab=explore&startdate=2026-06-27&date=2026-07-01&step=review&eventId=14
+ 04251&reservationId=37956739&source=widget
+X-HERMES-BOOKING-URL:https://app.courtreserve.com/Online/PublicBookings/116
+ 20/services/reserve?tab=explore&startdate=2026-06-27&date=2026-07-01&step=
+ review&eventId=1404251&reservationId=37956739&source=widget
+LOCATION:Bash Pickleball Club\, Warren\, MI
+CATEGORIES:Bash
+X-HERMES-FACILITY:Bash
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:pickleball-picklerage-20260701T1500-e882ea91c9@derekcroft.github.io
+DTSTAMP:20000101T000000Z
+DTSTART;TZID=America/Detroit:20260701T150000
+DTEND;TZID=America/Detroit:20260701T170000
+SUMMARY:🟡 — 50% off Evening Warm-Up Open Play — 0 in · 16 left
+DESCRIPTION:#nosync\nFacility: Pickle Rage\nSession: 50% off Evening Warm-U
+ p Open Play\nEnrollment: 0 in · 16 left\nStatus: Low enrollment\nLast cha
+ nged: Sat Jun 27\, 12:51 AM EDT\nBooking: https://app.courtreserve.com/Onl
+ ine/PublicBookings/12016/services/reserve?tab=explore&startdate=2026-07-01
+ &date=2026-07-01&step=review&eventId=1961630&reservationId=50334695&source
+ =widget
+URL:https://app.courtreserve.com/Online/PublicBookings/12016/services/reser
+ ve?tab=explore&startdate=2026-07-01&date=2026-07-01&step=review&eventId=19
+ 61630&reservationId=50334695&source=widget
+X-HERMES-BOOKING-URL:https://app.courtreserve.com/Online/PublicBookings/120
+ 16/services/reserve?tab=explore&startdate=2026-07-01&date=2026-07-01&step=
+ review&eventId=1961630&reservationId=50334695&source=widget
+LOCATION:Pickle Rage\, West Bloomfield\, MI
+CATEGORIES:Pickle Rage
+X-HERMES-FACILITY:Pickle Rage
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:pickleball-paddleandpar-20260701T1700-ad1254062f@derekcroft.github.io
+DTSTAMP:20000101T000000Z
+DTSTART;TZID=America/Detroit:20260701T170000
+DTEND;TZID=America/Detroit:20260701T200000
+SUMMARY:🟡 — Evening Open Play — 1 in · 23 left
+DESCRIPTION:#nosync\nFacility: Paddle & Par\nSession: Evening Open Play\nEn
+ rollment: 1 in · 23 left\nStatus: Low enrollment\nLast changed: Sat Jun 2
+ 7\, 12:51 AM EDT\nBooking: https://paddleandpar.podplay.app/community/even
+ ts/019e652c-8ad1-7998-84d3-1bd09fa8b4ec
+URL:https://paddleandpar.podplay.app/community/events/019e652c-8ad1-7998-84
+ d3-1bd09fa8b4ec
+X-HERMES-BOOKING-URL:https://paddleandpar.podplay.app/community/events/019e
+ 652c-8ad1-7998-84d3-1bd09fa8b4ec
+LOCATION:Paddle & Par\, Beverly Hills\, MI
+CATEGORIES:Paddle & Par
+X-HERMES-FACILITY:Paddle & Par
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:pickleball-picklerage-20260701T1700-543003ae97@derekcroft.github.io
+DTSTAMP:20000101T000000Z
+DTSTART;TZID=America/Detroit:20260701T170000
+DTEND;TZID=America/Detroit:20260701T200000
+SUMMARY:🟡 — Evening Open Play — 0 in · 24 left
+DESCRIPTION:#nosync\nFacility: Pickle Rage\nSession: Evening Open Play\nEnr
+ ollment: 0 in · 24 left\nStatus: Low enrollment\nLast changed: Sat Jun 27
+ \, 12:51 AM EDT\nBooking: https://app.courtreserve.com/Online/PublicBookin
+ gs/12016/services/reserve?tab=explore&startdate=2026-07-01&date=2026-07-01
+ &step=review&eventId=2004144&reservationId=51713384&source=widget
+URL:https://app.courtreserve.com/Online/PublicBookings/12016/services/reser
+ ve?tab=explore&startdate=2026-07-01&date=2026-07-01&step=review&eventId=20
+ 04144&reservationId=51713384&source=widget
+X-HERMES-BOOKING-URL:https://app.courtreserve.com/Online/PublicBookings/120
+ 16/services/reserve?tab=explore&startdate=2026-07-01&date=2026-07-01&step=
+ review&eventId=2004144&reservationId=51713384&source=widget
+LOCATION:Pickle Rage\, West Bloomfield\, MI
+CATEGORIES:Pickle Rage
+X-HERMES-FACILITY:Pickle Rage
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:pickleball-greystone-20260701T1930-50560a53a2@derekcroft.github.io
+DTSTAMP:20000101T000000Z
+DTSTART;TZID=America/Detroit:20260701T193000
+DTEND;TZID=America/Detroit:20260701T213000
+SUMMARY:🟡 — Make Your Move — 0 in · 16 left
+DESCRIPTION:#nosync\nFacility: Greystone\nSession: Make Your Move\nEnrollme
+ nt: 0 in · 16 left\nStatus: Low enrollment\nLast changed: Sat Jun 27\, 12
+ :51 AM EDT\nBooking: https://greystone-pickleball.clubcloudapp.com/events/
+ 13014
+URL:https://greystone-pickleball.clubcloudapp.com/events/13014
+X-HERMES-BOOKING-URL:https://greystone-pickleball.clubcloudapp.com/events/1
+ 3014
+LOCATION:Greystone Pickleball Club\, Auburn Hills\, MI
+CATEGORIES:Greystone
+X-HERMES-FACILITY:Greystone
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:pickleball-bashpickleball-20260701T2000-11129f0f1d@derekcroft.github.io
+DTSTAMP:20000101T000000Z
+DTSTART;TZID=America/Detroit:20260701T200000
+DTEND;TZID=America/Detroit:20260701T230000
+SUMMARY:🟡 — HALF OFF Wednesday Evening Drop In — 9 in · 31 left
+DESCRIPTION:#nosync\nFacility: Bash\nSession: HALF OFF Wednesday Evening Dr
+ op In\nEnrollment: 9 in · 31 left\nStatus: Low enrollment\nLast changed: 
+ Sat Jun 27\, 12:51 AM EDT\nBooking: https://app.courtreserve.com/Online/Pu
+ blicBookings/11620/services/reserve?tab=explore&startdate=2026-06-27&date=
+ 2026-07-01&step=review&eventId=1190152&reservationId=32784661&source=widge
+ t
+URL:https://app.courtreserve.com/Online/PublicBookings/11620/services/reser
+ ve?tab=explore&startdate=2026-06-27&date=2026-07-01&step=review&eventId=11
+ 90152&reservationId=32784661&source=widget
+X-HERMES-BOOKING-URL:https://app.courtreserve.com/Online/PublicBookings/116
+ 20/services/reserve?tab=explore&startdate=2026-06-27&date=2026-07-01&step=
+ review&eventId=1190152&reservationId=32784661&source=widget
+LOCATION:Bash Pickleball Club\, Warren\, MI
+CATEGORIES:Bash
+X-HERMES-FACILITY:Bash
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:pickleball-paddleandpar-20260701T2000-ad21eee86a@derekcroft.github.io
+DTSTAMP:20000101T000000Z
+DTSTART;TZID=America/Detroit:20260701T200000
+DTEND;TZID=America/Detroit:20260701T223000
+SUMMARY:🟡 — Late Night Open Play Special — 1 in · 25 left
+DESCRIPTION:#nosync\nFacility: Paddle & Par\nSession: Late Night Open Play 
+ Special\nEnrollment: 1 in · 25 left\nStatus: Low enrollment\nLast changed
+ : Sat Jun 27\, 12:51 AM EDT\nBooking: https://paddleandpar.podplay.app/com
+ munity/events/019e6532-c947-7998-84e0-77f25b09d533
+URL:https://paddleandpar.podplay.app/community/events/019e6532-c947-7998-84
+ e0-77f25b09d533
+X-HERMES-BOOKING-URL:https://paddleandpar.podplay.app/community/events/019e
+ 6532-c947-7998-84e0-77f25b09d533
+LOCATION:Paddle & Par\, Beverly Hills\, MI
+CATEGORIES:Paddle & Par
+X-HERMES-FACILITY:Paddle & Par
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:pickleball-picklerage-20260701T2000-2b7ff82ba3@derekcroft.github.io
+DTSTAMP:20000101T000000Z
+DTSTART;TZID=America/Detroit:20260701T200000
+DTEND;TZID=America/Detroit:20260701T220000
+SUMMARY:🟡 — Night Owl Open Play — 0 in · 12 left
+DESCRIPTION:#nosync\nFacility: Pickle Rage\nSession: Night Owl Open Play\nE
+ nrollment: 0 in · 12 left\nStatus: Low enrollment\nLast changed: Sat Jun 
+ 27\, 12:51 AM EDT\nBooking: https://app.courtreserve.com/Online/PublicBook
+ ings/12016/services/reserve?tab=explore&startdate=2026-07-01&date=2026-07-
+ 01&step=review&eventId=1961625&reservationId=55792109&source=widget
+URL:https://app.courtreserve.com/Online/PublicBookings/12016/services/reser
+ ve?tab=explore&startdate=2026-07-01&date=2026-07-01&step=review&eventId=19
+ 61625&reservationId=55792109&source=widget
+X-HERMES-BOOKING-URL:https://app.courtreserve.com/Online/PublicBookings/120
+ 16/services/reserve?tab=explore&startdate=2026-07-01&date=2026-07-01&step=
+ review&eventId=1961625&reservationId=55792109&source=widget
 LOCATION:Pickle Rage\, West Bloomfield\, MI
 CATEGORIES:Pickle Rage
 X-HERMES-FACILITY:Pickle Rage
