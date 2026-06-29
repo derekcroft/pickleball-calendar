@@ -45,62 +45,17 @@ X-HERMES-FACILITY:Greystone
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:pickleball-bashpickleball-20260629T1100-71f4c33246@derekcroft.github.io
-DTSTAMP:20000101T000000Z
-DTSTART;TZID=America/Detroit:20260629T110000
-DTEND;TZID=America/Detroit:20260629T140000
-SUMMARY:🟡 — HALF OFF Monday Mid-Day Drop In-Play — 0 in · 40 left
-DESCRIPTION:#nosync\nFacility: Bash\nSession: HALF OFF Monday Mid-Day Drop 
- In-Play\nEnrollment: 0 in · 40 left\nStatus: Low enrollment\nLast changed
- : Thu Jun 25\, 1:16 AM EDT\nBooking: https://app.courtreserve.com/Online/P
- ublicBookings/11620/services/reserve?tab=explore&startdate=2026-06-29&date
- =2026-06-29&step=review&eventId=1634667&reservationId=53472833&source=widg
- et
-URL:https://app.courtreserve.com/Online/PublicBookings/11620/services/reser
- ve?tab=explore&startdate=2026-06-29&date=2026-06-29&step=review&eventId=16
- 34667&reservationId=53472833&source=widget
-X-HERMES-BOOKING-URL:https://app.courtreserve.com/Online/PublicBookings/116
- 20/services/reserve?tab=explore&startdate=2026-06-29&date=2026-06-29&step=
- review&eventId=1634667&reservationId=53472833&source=widget
-LOCATION:Bash Pickleball Club\, Warren\, MI
-CATEGORIES:Bash
-X-HERMES-FACILITY:Bash
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:pickleball-picklerage-20260629T1100-4caab3c46a@derekcroft.github.io
-DTSTAMP:20000101T000000Z
-DTSTART;TZID=America/Detroit:20260629T110000
-DTEND;TZID=America/Detroit:20260629T150000
-SUMMARY:🟡 — Midday Mega Open Play  — 8 in · 24 left
-DESCRIPTION:#nosync\nFacility: Pickle Rage\nSession: Midday Mega Open Play 
- \nEnrollment: 8 in · 24 left\nStatus: Low enrollment\nLast changed: Mon J
- un 29\, 9:53 AM EDT\nBooking: https://app.courtreserve.com/Online/PublicBo
- okings/12016/services/reserve?tab=explore&startdate=2026-06-29&date=2026-0
- 6-29&step=review&eventId=2004130&reservationId=51712936&source=widget
-URL:https://app.courtreserve.com/Online/PublicBookings/12016/services/reser
- ve?tab=explore&startdate=2026-06-29&date=2026-06-29&step=review&eventId=20
- 04130&reservationId=51712936&source=widget
-X-HERMES-BOOKING-URL:https://app.courtreserve.com/Online/PublicBookings/120
- 16/services/reserve?tab=explore&startdate=2026-06-29&date=2026-06-29&step=
- review&eventId=2004130&reservationId=51712936&source=widget
-LOCATION:Pickle Rage\, West Bloomfield\, MI
-CATEGORIES:Pickle Rage
-X-HERMES-FACILITY:Pickle Rage
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:pickleball-picklerage-20260629T1500-8e83b6c869@derekcroft.github.io
 DTSTAMP:20000101T000000Z
 DTSTART;TZID=America/Detroit:20260629T150000
 DTEND;TZID=America/Detroit:20260629T170000
-SUMMARY:🟡 — 50% off Evening Warm-Up Open Play — 5 in · 11 left
+SUMMARY:🟡 — 50% off Evening Warm-Up Open Play — 4 in · 12 left
 DESCRIPTION:#nosync\nFacility: Pickle Rage\nSession: 50% off Evening Warm-U
- p Open Play\nEnrollment: 5 in · 11 left\nStatus: Low enrollment\nLast cha
- nged: Sun Jun 28\, 1:31 PM EDT\nBooking: https://app.courtreserve.com/Onli
- ne/PublicBookings/12016/services/reserve?tab=explore&startdate=2026-06-29&
- date=2026-06-29&step=review&eventId=1961630&reservationId=50334693&source=
- widget
+ p Open Play\nEnrollment: 4 in · 12 left\nStatus: Low enrollment\nLast cha
+ nged: Mon Jun 29\, 11:55 AM EDT\nBooking: https://app.courtreserve.com/Onl
+ ine/PublicBookings/12016/services/reserve?tab=explore&startdate=2026-06-29
+ &date=2026-06-29&step=review&eventId=1961630&reservationId=50334693&source
+ =widget
 URL:https://app.courtreserve.com/Online/PublicBookings/12016/services/reser
  ve?tab=explore&startdate=2026-06-29&date=2026-06-29&step=review&eventId=19
  61630&reservationId=50334693&source=widget
@@ -139,11 +94,11 @@ UID:pickleball-paddleandpar-20260629T1800-a55d64b222@derekcroft.github.io
 DTSTAMP:20000101T000000Z
 DTSTART;TZID=America/Detroit:20260629T180000
 DTEND;TZID=America/Detroit:20260629T200000
-SUMMARY:🔴 — Up + Down The River — 16 in · waitlist
+SUMMARY:🟢 — Up + Down The River — 15 in · 1 left
 DESCRIPTION:#nosync\nFacility: Paddle & Par\nSession: Up + Down The River\n
- Enrollment: 16 in · waitlist\nStatus: Waitlist\nLast changed: Sun Jun 28\
- , 5:35 PM EDT\nBooking: https://paddleandpar.podplay.app/community/events/
- 019eb6bb-9431-7112-a61f-ffd569fe5433
+ Enrollment: 15 in · 1 left\nStatus: Good enrollment\nLast changed: Mon Ju
+ n 29\, 11:55 AM EDT\nBooking: https://paddleandpar.podplay.app/community/e
+ vents/019eb6bb-9431-7112-a61f-ffd569fe5433
 URL:https://paddleandpar.podplay.app/community/events/019eb6bb-9431-7112-a6
  1f-ffd569fe5433
 X-HERMES-BOOKING-URL:https://paddleandpar.podplay.app/community/events/019e
@@ -158,10 +113,10 @@ UID:pickleball-greystone-20260629T1930-b01c96899d@derekcroft.github.io
 DTSTAMP:20000101T000000Z
 DTSTART;TZID=America/Detroit:20260629T193000
 DTEND;TZID=America/Detroit:20260629T213000
-SUMMARY:🟡 — Make Your Move — 5 in · 11 left
+SUMMARY:🟡 — Make Your Move — 4 in · 8 left
 DESCRIPTION:#nosync\nFacility: Greystone\nSession: Make Your Move\nEnrollme
- nt: 5 in · 11 left\nStatus: Low enrollment\nLast changed: Sun Jun 28\, 9:
- 26 AM EDT\nBooking: https://greystone-pickleball.clubcloudapp.com/events/1
+ nt: 4 in · 8 left\nStatus: Low enrollment\nLast changed: Mon Jun 29\, 11:
+ 55 AM EDT\nBooking: https://greystone-pickleball.clubcloudapp.com/events/1
  2997
 URL:https://greystone-pickleball.clubcloudapp.com/events/12997
 X-HERMES-BOOKING-URL:https://greystone-pickleball.clubcloudapp.com/events/1
@@ -176,12 +131,12 @@ UID:pickleball-bashpickleball-20260629T2000-67d56dd372@derekcroft.github.io
 DTSTAMP:20000101T000000Z
 DTSTART;TZID=America/Detroit:20260629T200000
 DTEND;TZID=America/Detroit:20260629T230000
-SUMMARY:🔵 — HALF OFF Monday Evening Drop In — 31 in · 9 left
+SUMMARY:🔵 — HALF OFF Monday Evening Drop In — 37 in · 3 left
 DESCRIPTION:#nosync\nFacility: Bash\nSession: HALF OFF Monday Evening Drop 
- In\nEnrollment: 31 in · 9 left\nStatus: Signed up\nLast changed: Mon Jun 
- 29\, 9:53 AM EDT\nBooking: https://app.courtreserve.com/Online/PublicBooki
- ngs/11620/services/reserve?tab=explore&startdate=2026-06-29&date=2026-06-2
- 9&step=review&eventId=1190147&reservationId=32783340&source=widget
+ In\nEnrollment: 37 in · 3 left\nStatus: Signed up\nLast changed: Mon Jun 
+ 29\, 11:55 AM EDT\nBooking: https://app.courtreserve.com/Online/PublicBook
+ ings/11620/services/reserve?tab=explore&startdate=2026-06-29&date=2026-06-
+ 29&step=review&eventId=1190147&reservationId=32783340&source=widget
 URL:https://app.courtreserve.com/Online/PublicBookings/11620/services/reser
  ve?tab=explore&startdate=2026-06-29&date=2026-06-29&step=review&eventId=11
  90147&reservationId=32783340&source=widget
@@ -281,12 +236,12 @@ UID:pickleball-picklerage-20260630T0800-577c8c4b0c@derekcroft.github.io
 DTSTAMP:20000101T000000Z
 DTSTART;TZID=America/Detroit:20260630T080000
 DTEND;TZID=America/Detroit:20260630T110000
-SUMMARY:🟡 — AM Open Play — 0 in · 32 left
+SUMMARY:🟡 — AM Open Play — 1 in · 31 left
 DESCRIPTION:#nosync\nFacility: Pickle Rage\nSession: AM Open Play\nEnrollme
- nt: 0 in · 32 left\nStatus: Low enrollment\nLast changed: Sun Jun 28\, 9:
- 40 PM EDT\nBooking: https://app.courtreserve.com/Online/PublicBookings/120
- 16/services/reserve?tab=explore&startdate=2026-06-30&date=2026-06-30&step=
- review&eventId=1527400&reservationId=55792020&source=widget
+ nt: 1 in · 31 left\nStatus: Low enrollment\nLast changed: Mon Jun 29\, 11
+ :55 AM EDT\nBooking: https://app.courtreserve.com/Online/PublicBookings/12
+ 016/services/reserve?tab=explore&startdate=2026-06-30&date=2026-06-30&step
+ =review&eventId=1527400&reservationId=55792020&source=widget
 URL:https://app.courtreserve.com/Online/PublicBookings/12016/services/reser
  ve?tab=explore&startdate=2026-06-30&date=2026-06-30&step=review&eventId=15
  27400&reservationId=55792020&source=widget
@@ -327,12 +282,12 @@ UID:pickleball-picklerage-20260630T1100-09095d4843@derekcroft.github.io
 DTSTAMP:20000101T000000Z
 DTSTART;TZID=America/Detroit:20260630T110000
 DTEND;TZID=America/Detroit:20260630T150000
-SUMMARY:🟡 — Midday Mega Open Play  — 0 in · 32 left
+SUMMARY:🟡 — Midday Mega Open Play  — 2 in · 30 left
 DESCRIPTION:#nosync\nFacility: Pickle Rage\nSession: Midday Mega Open Play 
- \nEnrollment: 0 in · 32 left\nStatus: Low enrollment\nLast changed: Sun J
- un 28\, 9:40 PM EDT\nBooking: https://app.courtreserve.com/Online/PublicBo
- okings/12016/services/reserve?tab=explore&startdate=2026-06-30&date=2026-0
- 6-30&step=review&eventId=2004130&reservationId=51712937&source=widget
+ \nEnrollment: 2 in · 30 left\nStatus: Low enrollment\nLast changed: Mon J
+ un 29\, 11:55 AM EDT\nBooking: https://app.courtreserve.com/Online/PublicB
+ ookings/12016/services/reserve?tab=explore&startdate=2026-06-30&date=2026-
+ 06-30&step=review&eventId=2004130&reservationId=51712937&source=widget
 URL:https://app.courtreserve.com/Online/PublicBookings/12016/services/reser
  ve?tab=explore&startdate=2026-06-30&date=2026-06-30&step=review&eventId=20
  04130&reservationId=51712937&source=widget
@@ -460,12 +415,12 @@ UID:pickleball-picklerage-20260630T1700-5208b6145c@derekcroft.github.io
 DTSTAMP:20000101T000000Z
 DTSTART;TZID=America/Detroit:20260630T170000
 DTEND;TZID=America/Detroit:20260630T200000
-SUMMARY:🟢 — Evening Open Play — 21 in · 3 left
+SUMMARY:🔴 — Evening Open Play — 24 in · waitlist
 DESCRIPTION:#nosync\nFacility: Pickle Rage\nSession: Evening Open Play\nEnr
- ollment: 21 in · 3 left\nStatus: Good enrollment\nLast changed: Mon Jun 2
- 9\, 9:53 AM EDT\nBooking: https://app.courtreserve.com/Online/PublicBookin
- gs/12016/services/reserve?tab=explore&startdate=2026-06-30&date=2026-06-30
- &step=review&eventId=2004144&reservationId=51713383&source=widget
+ ollment: 24 in · waitlist\nStatus: Waitlist\nLast changed: Mon Jun 29\, 1
+ 1:55 AM EDT\nBooking: https://app.courtreserve.com/Online/PublicBookings/1
+ 2016/services/reserve?tab=explore&startdate=2026-06-30&date=2026-06-30&ste
+ p=review&eventId=2004144&reservationId=51713383&source=widget
 URL:https://app.courtreserve.com/Online/PublicBookings/12016/services/reser
  ve?tab=explore&startdate=2026-06-30&date=2026-06-30&step=review&eventId=20
  04144&reservationId=51713383&source=widget
@@ -501,10 +456,10 @@ UID:pickleball-greystone-20260630T1930-4ab6781e3c@derekcroft.github.io
 DTSTAMP:20000101T000000Z
 DTSTART;TZID=America/Detroit:20260630T193000
 DTEND;TZID=America/Detroit:20260630T213000
-SUMMARY:🟢 — Make Your Move — 22 in · 10 left
+SUMMARY:🟢 — Make Your Move — 24 in · 8 left
 DESCRIPTION:#nosync\nFacility: Greystone\nSession: Make Your Move\nEnrollme
- nt: 22 in · 10 left\nStatus: Good enrollment\nLast changed: Mon Jun 29\, 
- 9:53 AM EDT\nBooking: https://greystone-pickleball.clubcloudapp.com/events
+ nt: 24 in · 8 left\nStatus: Good enrollment\nLast changed: Mon Jun 29\, 1
+ 1:55 AM EDT\nBooking: https://greystone-pickleball.clubcloudapp.com/events
  /6412
 URL:https://greystone-pickleball.clubcloudapp.com/events/6412
 X-HERMES-BOOKING-URL:https://greystone-pickleball.clubcloudapp.com/events/6
@@ -519,12 +474,13 @@ UID:pickleball-bashpickleball-20260630T2000-4e6ba14988@derekcroft.github.io
 DTSTAMP:20000101T000000Z
 DTSTART;TZID=America/Detroit:20260630T200000
 DTEND;TZID=America/Detroit:20260630T230000
-SUMMARY:🟢 — HALF OFF Tuesday Evening Drop In — 20 in · 20 left
+SUMMARY:🟢 — HALF OFF Tuesday Evening Drop In — 22 in · 18 left
 DESCRIPTION:#nosync\nFacility: Bash\nSession: HALF OFF Tuesday Evening Drop
-  In\nEnrollment: 20 in · 20 left\nStatus: Good enrollment\nLast changed: 
- Mon Jun 29\, 9:53 AM EDT\nBooking: https://app.courtreserve.com/Online/Pub
- licBookings/11620/services/reserve?tab=explore&startdate=2026-06-29&date=2
- 026-06-30&step=review&eventId=1190149&reservationId=32784462&source=widget
+  In\nEnrollment: 22 in · 18 left\nStatus: Good enrollment\nLast changed: 
+ Mon Jun 29\, 11:55 AM EDT\nBooking: https://app.courtreserve.com/Online/Pu
+ blicBookings/11620/services/reserve?tab=explore&startdate=2026-06-29&date=
+ 2026-06-30&step=review&eventId=1190149&reservationId=32784462&source=widge
+ t
 URL:https://app.courtreserve.com/Online/PublicBookings/11620/services/reser
  ve?tab=explore&startdate=2026-06-29&date=2026-06-30&step=review&eventId=11
  90149&reservationId=32784462&source=widget
@@ -735,13 +691,13 @@ UID:pickleball-picklerage-20260701T1500-e882ea91c9@derekcroft.github.io
 DTSTAMP:20000101T000000Z
 DTSTART;TZID=America/Detroit:20260701T150000
 DTEND;TZID=America/Detroit:20260701T170000
-SUMMARY:🟡 — 50% off Evening Warm-Up Open Play — 2 in · 14 left
+SUMMARY:🟡 — 50% off Evening Warm-Up Open Play — 4 in · 12 left
 DESCRIPTION:#nosync\nFacility: Pickle Rage\nSession: 50% off Evening Warm-U
- p Open Play\nEnrollment: 2 in · 14 left\nStatus: Low enrollment\nLast cha
- nged: Mon Jun 29\, 7:51 AM EDT\nBooking: https://app.courtreserve.com/Onli
- ne/PublicBookings/12016/services/reserve?tab=explore&startdate=2026-07-01&
- date=2026-07-01&step=review&eventId=1961630&reservationId=50334695&source=
- widget
+ p Open Play\nEnrollment: 4 in · 12 left\nStatus: Low enrollment\nLast cha
+ nged: Mon Jun 29\, 11:55 AM EDT\nBooking: https://app.courtreserve.com/Onl
+ ine/PublicBookings/12016/services/reserve?tab=explore&startdate=2026-07-01
+ &date=2026-07-01&step=review&eventId=1961630&reservationId=50334695&source
+ =widget
 URL:https://app.courtreserve.com/Online/PublicBookings/12016/services/reser
  ve?tab=explore&startdate=2026-07-01&date=2026-07-01&step=review&eventId=19
  61630&reservationId=50334695&source=widget
@@ -758,12 +714,12 @@ UID:pickleball-picklerage-20260701T1700-543003ae97@derekcroft.github.io
 DTSTAMP:20000101T000000Z
 DTSTART;TZID=America/Detroit:20260701T170000
 DTEND;TZID=America/Detroit:20260701T200000
-SUMMARY:🟡 — Evening Open Play — 7 in · 17 left
+SUMMARY:🟡 — Evening Open Play — 8 in · 16 left
 DESCRIPTION:#nosync\nFacility: Pickle Rage\nSession: Evening Open Play\nEnr
- ollment: 7 in · 17 left\nStatus: Low enrollment\nLast changed: Mon Jun 29
- \, 9:53 AM EDT\nBooking: https://app.courtreserve.com/Online/PublicBooking
- s/12016/services/reserve?tab=explore&startdate=2026-07-01&date=2026-07-01&
- step=review&eventId=2004144&reservationId=51713384&source=widget
+ ollment: 8 in · 16 left\nStatus: Low enrollment\nLast changed: Mon Jun 29
+ \, 11:55 AM EDT\nBooking: https://app.courtreserve.com/Online/PublicBookin
+ gs/12016/services/reserve?tab=explore&startdate=2026-07-01&date=2026-07-01
+ &step=review&eventId=2004144&reservationId=51713384&source=widget
 URL:https://app.courtreserve.com/Online/PublicBookings/12016/services/reser
  ve?tab=explore&startdate=2026-07-01&date=2026-07-01&step=review&eventId=20
  04144&reservationId=51713384&source=widget
@@ -798,13 +754,13 @@ UID:pickleball-bashpickleball-20260701T2000-11129f0f1d@derekcroft.github.io
 DTSTAMP:20000101T000000Z
 DTSTART;TZID=America/Detroit:20260701T200000
 DTEND;TZID=America/Detroit:20260701T230000
-SUMMARY:🟢 — HALF OFF Wednesday Evening Drop In — 16 in · 24 left
+SUMMARY:🟢 — HALF OFF Wednesday Evening Drop In — 14 in · 26 left
 DESCRIPTION:#nosync\nFacility: Bash\nSession: HALF OFF Wednesday Evening Dr
- op In\nEnrollment: 16 in · 24 left\nStatus: Good enrollment\nLast changed
- : Mon Jun 29\, 9:53 AM EDT\nBooking: https://app.courtreserve.com/Online/P
- ublicBookings/11620/services/reserve?tab=explore&startdate=2026-06-29&date
- =2026-07-01&step=review&eventId=1190152&reservationId=32784661&source=widg
- et
+ op In\nEnrollment: 14 in · 26 left\nStatus: Good enrollment\nLast changed
+ : Mon Jun 29\, 11:55 AM EDT\nBooking: https://app.courtreserve.com/Online/
+ PublicBookings/11620/services/reserve?tab=explore&startdate=2026-06-29&dat
+ e=2026-07-01&step=review&eventId=1190152&reservationId=32784661&source=wid
+ get
 URL:https://app.courtreserve.com/Online/PublicBookings/11620/services/reser
  ve?tab=explore&startdate=2026-06-29&date=2026-07-01&step=review&eventId=11
  90152&reservationId=32784661&source=widget
@@ -971,11 +927,11 @@ UID:pickleball-paddleandpar-20260702T1200-5f4979c1c1@derekcroft.github.io
 DTSTAMP:20000101T000000Z
 DTSTART;TZID=America/Detroit:20260702T120000
 DTEND;TZID=America/Detroit:20260702T140000
-SUMMARY:🟡 — Intermediate Round Robin — 11 in · 8 left
+SUMMARY:🟡 — Intermediate Round Robin — 10 in · 9 left
 DESCRIPTION:#nosync\nFacility: Paddle & Par\nSession: Intermediate Round Ro
- bin\nEnrollment: 11 in · 8 left\nStatus: Low enrollment\nLast changed: Mo
- n Jun 29\, 9:53 AM EDT\nBooking: https://paddleandpar.podplay.app/communit
- y/events/019ef9a3-40ec-7bba-9143-e9b584f629d3
+ bin\nEnrollment: 10 in · 9 left\nStatus: Low enrollment\nLast changed: Mo
+ n Jun 29\, 11:55 AM EDT\nBooking: https://paddleandpar.podplay.app/communi
+ ty/events/019ef9a3-40ec-7bba-9143-e9b584f629d3
 URL:https://paddleandpar.podplay.app/community/events/019ef9a3-40ec-7bba-91
  43-e9b584f629d3
 X-HERMES-BOOKING-URL:https://paddleandpar.podplay.app/community/events/019e
@@ -1161,13 +1117,13 @@ UID:pickleball-bashpickleball-20260703T0800-bb734a5179@derekcroft.github.io
 DTSTAMP:20000101T000000Z
 DTSTART;TZID=America/Detroit:20260703T080000
 DTEND;TZID=America/Detroit:20260703T110000
-SUMMARY:🟢 — HALF OFF Friday Morning Drop In-Play — 27 in · 33 left
+SUMMARY:🟢 — HALF OFF Friday Morning Drop In-Play — 32 in · 28 left
 DESCRIPTION:#nosync\nFacility: Bash\nSession: HALF OFF Friday Morning Drop 
- In-Play\nEnrollment: 27 in · 33 left\nStatus: Good enrollment\nLast chang
- ed: Mon Jun 29\, 9:53 AM EDT\nBooking: https://app.courtreserve.com/Online
- /PublicBookings/11620/services/reserve?tab=explore&startdate=2026-06-29&da
- te=2026-07-03&step=review&eventId=1032891&reservationId=29342019&source=wi
- dget
+ In-Play\nEnrollment: 32 in · 28 left\nStatus: Good enrollment\nLast chang
+ ed: Mon Jun 29\, 11:55 AM EDT\nBooking: https://app.courtreserve.com/Onlin
+ e/PublicBookings/11620/services/reserve?tab=explore&startdate=2026-06-29&d
+ ate=2026-07-03&step=review&eventId=1032891&reservationId=29342019&source=w
+ idget
 URL:https://app.courtreserve.com/Online/PublicBookings/11620/services/reser
  ve?tab=explore&startdate=2026-06-29&date=2026-07-03&step=review&eventId=10
  32891&reservationId=29342019&source=widget
@@ -1224,14 +1180,14 @@ UID:pickleball-bashpickleball-20260703T1100-d05f66c74f@derekcroft.github.io
 DTSTAMP:20000101T000000Z
 DTSTART;TZID=America/Detroit:20260703T110000
 DTEND;TZID=America/Detroit:20260703T140000
-SUMMARY:🟡 — HALF OFF Friday Mid-Day In-Play 11am-2pm — 0 in · 40 le
+SUMMARY:🟡 — HALF OFF Friday Mid-Day In-Play 11am-2pm — 1 in · 39 le
  ft
 DESCRIPTION:#nosync\nFacility: Bash\nSession: HALF OFF Friday Mid-Day In-Pl
- ay 11am-2pm\nEnrollment: 0 in · 40 left\nStatus: Low enrollment\nLast cha
- nged: Mon Jun 29\, 1:44 AM EDT\nBooking: https://app.courtreserve.com/Onli
- ne/PublicBookings/11620/services/reserve?tab=explore&startdate=2026-06-29&
- date=2026-07-03&step=review&eventId=1134213&reservationId=31581395&source=
- widget
+ ay 11am-2pm\nEnrollment: 1 in · 39 left\nStatus: Low enrollment\nLast cha
+ nged: Mon Jun 29\, 11:55 AM EDT\nBooking: https://app.courtreserve.com/Onl
+ ine/PublicBookings/11620/services/reserve?tab=explore&startdate=2026-06-29
+ &date=2026-07-03&step=review&eventId=1134213&reservationId=31581395&source
+ =widget
 URL:https://app.courtreserve.com/Online/PublicBookings/11620/services/reser
  ve?tab=explore&startdate=2026-06-29&date=2026-07-03&step=review&eventId=11
  34213&reservationId=31581395&source=widget
@@ -1334,11 +1290,11 @@ UID:pickleball-paddleandpar-20260703T1800-e8c668bccd@derekcroft.github.io
 DTSTAMP:20000101T000000Z
 DTSTART;TZID=America/Detroit:20260703T180000
 DTEND;TZID=America/Detroit:20260703T200000
-SUMMARY:🔴 — Up + Down The River — 16 in · waitlist
+SUMMARY:🟢 — Up + Down The River — 15 in · 1 left
 DESCRIPTION:#nosync\nFacility: Paddle & Par\nSession: Up + Down The River\n
- Enrollment: 16 in · waitlist\nStatus: Waitlist\nLast changed: Mon Jun 29\
- , 1:44 AM EDT\nBooking: https://paddleandpar.podplay.app/community/events/
- 019eb6bb-9431-7112-a61f-ffd569fe5433
+ Enrollment: 15 in · 1 left\nStatus: Good enrollment\nLast changed: Mon Ju
+ n 29\, 11:55 AM EDT\nBooking: https://paddleandpar.podplay.app/community/e
+ vents/019eb6bb-9431-7112-a61f-ffd569fe5433
 URL:https://paddleandpar.podplay.app/community/events/019eb6bb-9431-7112-a6
  1f-ffd569fe5433
 X-HERMES-BOOKING-URL:https://paddleandpar.podplay.app/community/events/019e
