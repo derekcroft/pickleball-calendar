@@ -26,28 +26,6 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:pickleball-picklerage-20260701T2000-2b7ff82ba3@derekcroft.github.io
-DTSTAMP:20000101T000000Z
-DTSTART;TZID=America/Detroit:20260701T200000
-DTEND;TZID=America/Detroit:20260701T220000
-SUMMARY:🟡 — Night Owl Open Play — 0 in · 12 left
-DESCRIPTION:#nosync\nFacility: Pickle Rage\nSession: Night Owl Open Play\nE
- nrollment: 0 in · 12 left\nStatus: Low enrollment\nLast changed: Sat Jun 
- 27\, 12:51 AM EDT\nBooking: https://app.courtreserve.com/Online/PublicBook
- ings/12016/services/reserve?tab=explore&startdate=2026-07-01&date=2026-07-
- 01&step=review&eventId=1961625&reservationId=55792109&source=widget
-URL:https://app.courtreserve.com/Online/PublicBookings/12016/services/reser
- ve?tab=explore&startdate=2026-07-01&date=2026-07-01&step=review&eventId=19
- 61625&reservationId=55792109&source=widget
-X-HERMES-BOOKING-URL:https://app.courtreserve.com/Online/PublicBookings/120
- 16/services/reserve?tab=explore&startdate=2026-07-01&date=2026-07-01&step=
- review&eventId=1961625&reservationId=55792109&source=widget
-LOCATION:Pickle Rage\, West Bloomfield\, MI
-CATEGORIES:Pickle Rage
-X-HERMES-FACILITY:Pickle Rage
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:pickleball-picklerage-20260702T0800-77a693a356@derekcroft.github.io
 DTSTAMP:20000101T000000Z
 DTSTART;TZID=America/Detroit:20260702T080000
@@ -74,10 +52,10 @@ UID:pickleball-paddleandpar-20260702T0900-3be0205db3@derekcroft.github.io
 DTSTAMP:20000101T000000Z
 DTSTART;TZID=America/Detroit:20260702T090000
 DTEND;TZID=America/Detroit:20260702T120000
-SUMMARY:🟡 — Morning Open Play Special — 2 in · 22 left
+SUMMARY:🟡 — Morning Open Play Special — 3 in · 21 left
 DESCRIPTION:#nosync\nFacility: Paddle & Par\nSession: Morning Open Play Spe
- cial\nEnrollment: 2 in · 22 left\nStatus: Low enrollment\nLast changed: W
- ed Jul 1\, 4:51 PM EDT\nBooking: https://paddleandpar.podplay.app/communit
+ cial\nEnrollment: 3 in · 21 left\nStatus: Low enrollment\nLast changed: W
+ ed Jul 1\, 8:56 PM EDT\nBooking: https://paddleandpar.podplay.app/communit
  y/events/019edaf4-f916-7994-93d0-189f403ab8c0
 URL:https://paddleandpar.podplay.app/community/events/019edaf4-f916-7994-93
  d0-189f403ab8c0
@@ -93,10 +71,10 @@ UID:pickleball-picklerage-20260702T1100-f86bd3ca66@derekcroft.github.io
 DTSTAMP:20000101T000000Z
 DTSTART;TZID=America/Detroit:20260702T110000
 DTEND;TZID=America/Detroit:20260702T150000
-SUMMARY:🟡 — Midday Mega Open Play  — 4 in · 28 left
+SUMMARY:🟡 — Midday Mega Open Play  — 5 in · 27 left
 DESCRIPTION:#nosync\nFacility: Pickle Rage\nSession: Midday Mega Open Play 
- \nEnrollment: 4 in · 28 left\nStatus: Low enrollment\nLast changed: Wed J
- ul 1\, 4:51 PM EDT\nBooking: https://app.courtreserve.com/Online/PublicBoo
+ \nEnrollment: 5 in · 27 left\nStatus: Low enrollment\nLast changed: Wed J
+ ul 1\, 8:56 PM EDT\nBooking: https://app.courtreserve.com/Online/PublicBoo
  kings/12016/services/reserve?tab=explore&startdate=2026-07-02&date=2026-07
  -02&step=review&eventId=2004130&reservationId=51712939&source=widget
 URL:https://app.courtreserve.com/Online/PublicBookings/12016/services/reser
@@ -176,11 +154,11 @@ UID:pickleball-paddleandpar-20260702T1800-63143318c2@derekcroft.github.io
 DTSTAMP:20000101T000000Z
 DTSTART;TZID=America/Detroit:20260702T180000
 DTEND;TZID=America/Detroit:20260702T210000
-SUMMARY:🟢 — Evening Open Play — 28 in · 3 left
+SUMMARY:🔴 — Evening Open Play — 28 in · waitlist
 DESCRIPTION:#nosync\nFacility: Paddle & Par\nSession: Evening Open Play\nEn
- rollment: 28 in · 3 left\nStatus: Good enrollment\nLast changed: Wed Jul 
- 1\, 6:53 PM EDT\nBooking: https://paddleandpar.podplay.app/community/event
- s/019edb1e-e702-733a-9893-fc3ad47877e1
+ rollment: 28 in · waitlist\nStatus: Waitlist\nLast changed: Wed Jul 1\, 8
+ :56 PM EDT\nBooking: https://paddleandpar.podplay.app/community/events/019
+ edb1e-e702-733a-9893-fc3ad47877e1
 URL:https://paddleandpar.podplay.app/community/events/019edb1e-e702-733a-98
  93-fc3ad47877e1
 X-HERMES-BOOKING-URL:https://paddleandpar.podplay.app/community/events/019e
@@ -240,11 +218,11 @@ UID:pickleball-paddleandpar-20260703T0800-cce5c47f54@derekcroft.github.io
 DTSTAMP:20000101T000000Z
 DTSTART;TZID=America/Detroit:20260703T080000
 DTEND;TZID=America/Detroit:20260703T100000
-SUMMARY:🟡 — Morning Open Play Special — 6 in · 18 left
+SUMMARY:🟡 — Morning Open Play Special — 7 in · 17 left
 DESCRIPTION:#nosync\nFacility: Paddle & Par\nSession: Morning Open Play Spe
- cial\nEnrollment: 6 in · 18 left\nStatus: Low enrollment\nLast changed: W
- ed Jul 1\, 10:44 AM EDT\nBooking: https://paddleandpar.podplay.app/communi
- ty/events/019edaf7-16ea-7994-93d1-c87422bfb1c1
+ cial\nEnrollment: 7 in · 17 left\nStatus: Low enrollment\nLast changed: W
+ ed Jul 1\, 8:56 PM EDT\nBooking: https://paddleandpar.podplay.app/communit
+ y/events/019edaf7-16ea-7994-93d1-c87422bfb1c1
 URL:https://paddleandpar.podplay.app/community/events/019edaf7-16ea-7994-93
  d1-c87422bfb1c1
 X-HERMES-BOOKING-URL:https://paddleandpar.podplay.app/community/events/019e
@@ -259,10 +237,10 @@ UID:pickleball-picklerage-20260703T0800-7a1da32966@derekcroft.github.io
 DTSTAMP:20000101T000000Z
 DTSTART;TZID=America/Detroit:20260703T080000
 DTEND;TZID=America/Detroit:20260703T110000
-SUMMARY:🟢 — Morning Friday Rage — 12 in · 12 left
+SUMMARY:🟢 — Morning Friday Rage — 13 in · 11 left
 DESCRIPTION:#nosync\nFacility: Pickle Rage\nSession: Morning Friday Rage\nE
- nrollment: 12 in · 12 left\nStatus: Good enrollment\nLast changed: Wed Ju
- l 1\, 6:53 PM EDT\nBooking: https://app.courtreserve.com/Online/PublicBook
+ nrollment: 13 in · 11 left\nStatus: Good enrollment\nLast changed: Wed Ju
+ l 1\, 8:56 PM EDT\nBooking: https://app.courtreserve.com/Online/PublicBook
  ings/12016/services/reserve?tab=explore&startdate=2026-07-03&date=2026-07-
  03&step=review&eventId=1566488&reservationId=51712656&source=widget
 URL:https://app.courtreserve.com/Online/PublicBookings/12016/services/reser
@@ -383,12 +361,12 @@ UID:pickleball-picklerage-20260703T1800-f8a4f85817@derekcroft.github.io
 DTSTAMP:20000101T000000Z
 DTSTART;TZID=America/Detroit:20260703T180000
 DTEND;TZID=America/Detroit:20260703T220000
-SUMMARY:🟡 — Friday Night at The Rage — 0 in · 32 left
+SUMMARY:🟡 — Friday Night at The Rage — 1 in · 31 left
 DESCRIPTION:#nosync\nFacility: Pickle Rage\nSession: Friday Night at The Ra
- ge\nEnrollment: 0 in · 32 left\nStatus: Low enrollment\nLast changed: Mon
-  Jun 29\, 1:44 AM EDT\nBooking: https://app.courtreserve.com/Online/Public
- Bookings/12016/services/reserve?tab=explore&startdate=2026-07-03&date=2026
- -07-03&step=review&eventId=1566517&reservationId=51713731&source=widget
+ ge\nEnrollment: 1 in · 31 left\nStatus: Low enrollment\nLast changed: Wed
+  Jul 1\, 8:56 PM EDT\nBooking: https://app.courtreserve.com/Online/PublicB
+ ookings/12016/services/reserve?tab=explore&startdate=2026-07-03&date=2026-
+ 07-03&step=review&eventId=1566517&reservationId=51713731&source=widget
 URL:https://app.courtreserve.com/Online/PublicBookings/12016/services/reser
  ve?tab=explore&startdate=2026-07-03&date=2026-07-03&step=review&eventId=15
  66517&reservationId=51713731&source=widget
